@@ -4,7 +4,7 @@
 
 n8n 每天生成科技新闻和 GitHub 热点后，把 Markdown 与 JSON 保存到 `daily-tech/`。Vercel 连接这个仓库后，每次推送到 `main` 都会自动重新部署，线上页面会展示最新归档。
 
-## 本地运行
+## 本地运行 
 
 ```bash
 npm install
