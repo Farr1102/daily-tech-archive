@@ -1,0 +1,55 @@
+name: Daily Tech Digest
+
+on:
+  workflow_dispatch:
+    inputs:
+      send_feishu:
+        description: "Send the Feishu card after generating the digest"
+        required: false
+        default: "true"
+        type: choice
+        options:
+          - "true"
+          - "false"
+  schedule:
+    - cron: "0 11,18 * * *"
+      timezone: "Asia/Shanghai"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-tech-digest
+  cancel-in-progress: false
+
+jobs:
+  digest:
+    name: Generate and archive digest
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    env:
+      TZ: Asia/Shanghai
+      FEISHU_WEBHOOK_URL: ${{ secrets.FEISHU_WEBHOOK_URL }}
+      GITHUB_TOKEN: ${{ github.token }}
+      SEND_FEISHU: ${{ github.event_name == 'schedule' || inputs.send_feishu == 'true' }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version: 22
+
+      - name: Generate digest
+        run: node scripts/generate-daily-tech.mjs
+
+      - name: Commit archive
+        run: |
+          git config user.name "daily-tech-bot"
+          git config user.email "actions@github.com"
+          git add daily-tech/*.md daily-tech/*.json
+          git diff --cached --quiet || git commit -m "chore: archive daily tech report $(date +%F)"
+          git push
