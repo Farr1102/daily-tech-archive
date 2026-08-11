@@ -16,7 +16,12 @@ export default function HomePage() {
             <Image src="/archive-mark.svg" alt="" width={38} height={38} priority />
             <span>Daily Tech Archive</span>
           </Link>
-          <a className="navLink" href="https://github.com/Farr1102/daily-tech-archive">
+          <a
+            className="navLink"
+            href="https://github.com/Farr1102/daily-tech-archive"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             GitHub
           </a>
         </div>

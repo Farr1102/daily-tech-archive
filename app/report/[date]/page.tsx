@@ -9,6 +9,11 @@ import {
   githubMarkdownUrl,
 } from "@/lib/reports";
 
+const externalLinkProps = {
+  target: "_blank",
+  rel: "noopener noreferrer",
+};
+
 type PageProps = {
   params: Promise<{ date: string }>;
 };
@@ -45,8 +50,12 @@ export default async function ReportPage({ params }: PageProps) {
             {report.timezone ? ` · ${report.timezone}` : ""}
           </p>
           <div className="sourceLinks">
-            <a href={githubMarkdownUrl(report.date)}>Markdown</a>
-            <a href={githubJsonUrl(report.date)}>JSON</a>
+            <a href={githubMarkdownUrl(report.date)} {...externalLinkProps}>
+              Markdown
+            </a>
+            <a href={githubJsonUrl(report.date)} {...externalLinkProps}>
+              JSON
+            </a>
           </div>
         </div>
       </section>
@@ -62,7 +71,15 @@ export default async function ReportPage({ params }: PageProps) {
               {report.news.map((item, index) => (
                 <article className="itemCard" key={`${item.link || item.title}-${index}`}>
                   <span className="index">{String(index + 1).padStart(2, "0")}</span>
-                  <h3>{item.link ? <a href={item.link}>{item.title}</a> : item.title}</h3>
+                  <h3>
+                    {item.link ? (
+                      <a href={item.link} {...externalLinkProps}>
+                        {item.title}
+                      </a>
+                    ) : (
+                      item.title
+                    )}
+                  </h3>
                   <p>{item.summary || "暂无摘要"}</p>
                   <div className="metaLine">
                     <span>{item.source || "未知来源"}</span>
@@ -82,7 +99,15 @@ export default async function ReportPage({ params }: PageProps) {
               {report.githubHot.map((repo, index) => (
                 <article className="repoCard" key={`${repo.url || repo.name}-${index}`}>
                   <span className="index">{String(index + 1).padStart(2, "0")}</span>
-                  <h3>{repo.url ? <a href={repo.url}>{repo.name}</a> : repo.name}</h3>
+                  <h3>
+                    {repo.url ? (
+                      <a href={repo.url} {...externalLinkProps}>
+                        {repo.name}
+                      </a>
+                    ) : (
+                      repo.name
+                    )}
+                  </h3>
                   <p>{repo.chineseMeaning || repo.description || "暂无简介"}</p>
                   {repo.description ? <small>原文：{repo.description}</small> : null}
                   <div className="metaLine">
