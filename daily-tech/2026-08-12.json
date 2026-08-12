@@ -1,0 +1,260 @@
+{
+  "date": "2026-08-12",
+  "generatedAt": "2026-08-12 12:45:13",
+  "timezone": "Asia/Shanghai",
+  "timezoneLabel": "北京时间 UTC+8",
+  "newsCount": 10,
+  "githubCount": 5,
+  "builderSignalCount": 5,
+  "demandSignalCount": 5,
+  "news": [
+    {
+      "title": "国产动画电影《八仙！》官宣密钥延期，延长上映至 9 月 17 日",
+      "link": "https://www.ithome.com/0/988/718.htm",
+      "summary": "IT之家 8 月 12 日消息，国产动画电影《八仙！》今日官宣密钥延期，延长上映至 2026 年 9 月 17 日 23:59 。 《八仙！》目前豆瓣评分 8.2， 上映 25 天累计票房 14.75 亿元 。 《八仙！》影片以传统八仙故事为灵感，讲述在蓬莱仙境内，八个凡人为闯入只有神仙可以通行的藏宝阁，假扮神仙瞒天过海，面对阁中“十辈子花不完”的泼天富贵...",
+      "publishedRaw": "Wed, 12 Aug 2026 04:41:26 GMT",
+      "date": "2026-08-12",
+      "source": "IT之家 RSS"
+    },
+    {
+      "title": "奇瑞捷途旅行者 7 官图发布：方盒子造型，轴距 2800mm",
+      "link": "https://www.ithome.com/0/988/716.htm",
+      "summary": "IT之家 8 月 12 日消息，奇瑞汽车执行副总裁李学用今日公布了捷途旅行者 7 官图，并表示 新车即将上架 。 车身尺寸方面，IT之家从工信部申报信息获悉，新车长宽高 4827/2006/1875mm，轴距 2800mm。 外观方面，捷途旅行者 7 相比捷途旅行者有一些改动，前格栅处增加了贯穿饰条，同时 logo 移至前舱盖之上。 动力部分，捷途旅行者...",
+      "publishedRaw": "Wed, 12 Aug 2026 04:35:23 GMT",
+      "date": "2026-08-12",
+      "source": "IT之家 RSS"
+    },
+    {
+      "title": "微软推出 MAI-Code-1.1-Flash 编程模型：更好、更快，价格降至 1/4",
+      "link": "https://www.ithome.com/0/988/715.htm",
+      "summary": "IT之家 8 月 12 日消息，早在今年 6 月，微软首次公布了 MAI-Code-1。这是一款针对 GitHub Copilot 工作负载进行优化、强调推理效率的编程模型。此后，MAI-Code-1 的 Flash 版本登陆 GitHub Copilot，成为用户可选的模型之一，可与 OpenAI 和 Anthropic 的模型竞争。 MAI-Code-...",
+      "publishedRaw": "Wed, 12 Aug 2026 04:34:09 GMT",
+      "date": "2026-08-12",
+      "source": "IT之家 RSS"
+    },
+    {
+      "title": "宏碁首款 Googlebook 笔记本曝光：14 英寸屏幕、酷睿 Ultra 5 325/Ultra 7 355 处理器",
+      "link": "https://www.ithome.com/0/988/714.htm",
+      "summary": "IT之家 8 月 12 日消息，科技媒体 digitaltrends 昨日（8 月 11 日）发布博文， 报道称宏碁（Acer）首款 Googlebook 型号为 GP714-91N，定位高于传统入门级 Chromebook。 IT之家此前报道， 宏碁 Googlebook 14 配备 14 英寸屏幕 ，内部代号为“Moonstone”，键盘拥有实体 Ge...",
+      "publishedRaw": "Wed, 12 Aug 2026 04:21:42 GMT",
+      "date": "2026-08-12",
+      "source": "IT之家 RSS"
+    },
+    {
+      "title": "IMDb 页面显示《漫威蜘蛛侠 3》游戏正在开发中，洛文塔尔配音",
+      "link": "https://www.ithome.com/0/988/713.htm",
+      "summary": "IT之家 8 月 12 日消息，游戏媒体 Beebom 昨日（8 月 11 日）发布博文，报道称基于 IMDb 页面信息， Insomniac Games 正在开发《漫威蜘蛛侠 3》（Marvel's Spider-Man 3）游戏。 IT之家注：IMDb（互联网电影资料库）创立于 1990 年，于 1998 年被亚马逊收购，收录了数千万部影视作品、电子游...",
+      "publishedRaw": "Wed, 12 Aug 2026 04:02:03 GMT",
+      "date": "2026-08-12",
+      "source": "IT之家 RSS"
+    },
+    {
+      "title": "我国主导的生命科学领域国际学术期刊：《Vita》纸质刊首期发布，学术水平上对标三大国际顶刊及其子刊",
+      "link": "https://www.ithome.com/0/988/712.htm",
+      "summary": "IT之家 8 月 12 日消息，据央视新闻报道，今天，我国主导的生命科学领域《Vita》系列期刊纸质刊首期发布。 “Vita”一词源自拉丁语，中文为“生命”之意 。《Vita》系列期刊由主刊《Vita》和系列子刊组成，依托“生命科学开放联盟”相关高校和机构共同建设。 生命科学开放联盟由内地与港澳 15 家高水平高校和科研机构共同发起，于 2025 年 8...",
+      "publishedRaw": "Wed, 12 Aug 2026 04:00:38 GMT",
+      "date": "2026-08-12",
+      "source": "IT之家 RSS"
+    },
+    {
+      "title": "台积电何军：5.5 倍光罩尺寸 CoWoS 良率可达 99%，验证加速走向系统级",
+      "link": "https://www.ithome.com/0/988/698.htm",
+      "summary": "IT之家 8 月 12 日消息，台积电先进封装技术暨服务副总经理何军昨日在 OCP APAC 峰会上表示，台积电已量产的 5.5 倍光罩尺寸 CoWoS 先进封装技术可在部分产品上达到 99% 的良率 。 5.5 倍光罩尺寸 CoWoS 这一 2.5D 异构集成方案已在多个 AI 客户产品上得到验证，良率可稳定超过 98%。台积电未来 计划在 2029 年...",
+      "publishedRaw": "Wed, 12 Aug 2026 03:48:12 GMT",
+      "date": "2026-08-12",
+      "source": "IT之家 RSS"
+    },
+    {
+      "title": "谷歌收紧 Chrome 浏览器通知权限：“干扰”网站每分钟最多推 1000 条",
+      "link": "https://www.ithome.com/0/988/697.htm",
+      "summary": "IT之家 8 月 12 日消息，谷歌公司昨日（8 月 11 日）发布博文， 披露称针对网站滥用推送通知，已在 Chrome 浏览器中部署多层防御体系。 在谷歌 Chrome 浏览器中，推送通知主要用于新闻提醒、配送更新或价格变动提醒等场景，开发者可借此实时触达用户。不过谷歌表示越来越多的恶意行为者滥用该机制，向用户发送欺骗性和不受欢迎的通知。“ 在治理机制...",
+      "publishedRaw": "Wed, 12 Aug 2026 03:37:57 GMT",
+      "date": "2026-08-12",
+      "source": "IT之家 RSS"
+    },
+    {
+      "title": "玩家自制水冷版 Steam Machine，CPU 和 GPU 温度最高直降 30℃",
+      "link": "https://www.ithome.com/0/988/694.htm",
+      "summary": "IT之家 8 月 12 日消息，虽然 Valve 的 Steam Machine 运行温度低、噪音小，但一名改装玩家还是决定进一步升级这款设备的散热系统。他使用桌面级 CNC 机床、出色的逆向工程技术以及不到 200 美元（IT之家注：现汇率约合 1,352 元人民币）的零部件，打造出了一台定制水冷版 Steam Machine。 这名改装玩家在 Redd...",
+      "publishedRaw": "Wed, 12 Aug 2026 03:34:27 GMT",
+      "date": "2026-08-12",
+      "source": "IT之家 RSS"
+    },
+    {
+      "title": "国内首个成功运行超 2 万亿参数大模型的超节点，阿里云灵骏真武 M890 超节点实例上线",
+      "link": "https://www.ithome.com/0/988/688.htm",
+      "summary": "IT之家 8 月 12 日消息，阿里云今日宣布， 灵骏真武 M890 超节点实例正式上线 ，首批在内蒙古乌兰察布地域开售。 官方表示，企业级客户无需自建机房，在云上即可开通 64 卡高速互联算力单元， 最高可承载十万亿参数级 MoE 大模型推理 。灵骏真武 M890 超节点也是 国内首个成功运行超 2 万亿参数大模型 的超节点形态算力，Kimi K3 和...",
+      "publishedRaw": "Wed, 12 Aug 2026 03:27:18 GMT",
+      "date": "2026-08-12",
+      "source": "IT之家 RSS"
+    }
+  ],
+  "githubHot": [
+    {
+      "name": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is...",
+      "language": "Shell",
+      "stars": "143,590",
+      "starsToday": "958",
+      "source": "GitHub Trending",
+      "chineseMeaning": "Shell 项目，主要方向：AI / 大模型、网页 / 前端体验、命令行与开发者工具。"
+    },
+    {
+      "name": "semantica-agi/semantica",
+      "url": "https://github.com/semantica-agi/semantica",
+      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "language": "Python",
+      "stars": "5,060",
+      "starsToday": "893",
+      "source": "GitHub Trending",
+      "chineseMeaning": "Python 项目，主要方向：AI / 大模型。"
+    },
+    {
+      "name": "nvm-sh/nvm",
+      "url": "https://github.com/nvm-sh/nvm",
+      "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+      "language": "Shell",
+      "stars": "94,515",
+      "starsToday": "22",
+      "source": "GitHub Trending",
+      "chineseMeaning": "Shell 项目，主要方向：命令行与开发者工具。"
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "stars": "86,310",
+      "starsToday": "578",
+      "source": "GitHub Trending",
+      "chineseMeaning": "JavaScript 项目，主要方向：AI / 大模型。"
+    },
+    {
+      "name": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decis...",
+      "language": "Python",
+      "stars": "62,272",
+      "starsToday": "243",
+      "source": "GitHub Trending",
+      "chineseMeaning": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-s..."
+    }
+  ],
+  "builderSignals": [
+    {
+      "title": "gpt luna max vs claude fable ultracode sent \"pls build a mostly faithful clone of grok im...",
+      "summary": "gpt luna max vs claude fable ultracode sent \"pls build a mostly faithful clone of grok imagine with open models via fal\" i woke up to these two and a...",
+      "author": "",
+      "link": "https://x.com/swyx/status/2087045848022843451",
+      "publishedRaw": "2026-08-11T05:18:00.000Z",
+      "date": "2026-08-11",
+      "source": "follow-builders X"
+    },
+    {
+      "title": "btw pdb envs have an experimental AFS clone support that basically does what all of you a...",
+      "summary": "btw pdb envs have an experimental AFS clone support that basically does what all of you are suggesting but runtime agnostic and language agnostic htt...",
+      "author": "",
+      "link": "https://x.com/swyx/status/2087017780617126075",
+      "publishedRaw": "2026-08-11T03:26:28.000Z",
+      "date": "2026-08-11",
+      "source": "follow-builders X"
+    },
+    {
+      "title": "worktrees must die this is 20GB of repeated node_modules lol https://t.co/tyvbt1WVJm",
+      "summary": "worktrees must die this is 20GB of repeated node_modules lol https://t.co/tyvbt1WVJm",
+      "author": "",
+      "link": "https://x.com/swyx/status/2086962980235939920",
+      "publishedRaw": "2026-08-10T23:48:43.000Z",
+      "date": "2026-08-11",
+      "source": "follow-builders X"
+    },
+    {
+      "title": "Usage limits have been reset for all paid ChatGPT Work and Codex users. Happy Monday you...",
+      "summary": "Usage limits have been reset for all paid ChatGPT Work and Codex users. Happy Monday you all. Hope it is a fantastic week.",
+      "author": "",
+      "link": "https://x.com/thsottiaux/status/2086972933566857393",
+      "publishedRaw": "2026-08-11T00:28:16.000Z",
+      "date": "2026-08-11",
+      "source": "follow-builders X"
+    },
+    {
+      "title": "Hi. It is done. https://t.co/JRYltKvT0v",
+      "summary": "Hi. It is done. https://t.co/JRYltKvT0v",
+      "author": "",
+      "link": "https://x.com/thsottiaux/status/2086972802457063486",
+      "publishedRaw": "2026-08-11T00:27:44.000Z",
+      "date": "2026-08-11",
+      "source": "follow-builders X"
+    }
+  ],
+  "demandSignals": [
+    {
+      "title": "Paid Paystack events cannot be published because the readiness gate checks Stripe only",
+      "summary": "Parent: #1845 ## Plain-English problem A Nigerian brand can have a valid live Paystack account and be ready to take payments, but Mingla re...",
+      "link": "https://github.com/Mingla-LLC/mingla-main/issues/1919",
+      "source": "GitHub Issue · Mingla-LLC/mingla-main",
+      "publishedRaw": "2026-08-12T02:26:41Z",
+      "date": "2026-08-12",
+      "points": 0,
+      "comments": 25,
+      "demandType": "潜在需求",
+      "opportunity": "继续观察同类问题频次，寻找可产品化入口。",
+      "score": 85
+    },
+    {
+      "title": "底层人为什么完不成原始资本积累？",
+      "summary": "根据我自己身边好多农村出来的孩子挣 1 万就要换个手机，挣 5 万就要买个车，挣 10 万 20 万就想贷款买房。当时我不以为然，最近留意了一下，还真是这么回事，有没有对此有一些其他的看法？",
+      "link": "https://www.v2ex.com/t/1233726",
+      "source": "V2EX · 生活",
+      "publishedRaw": "2026-08-12T01:43:56.000Z",
+      "date": "2026-08-12",
+      "points": 0,
+      "comments": 93,
+      "demandType": "潜在需求",
+      "opportunity": "继续观察同类问题频次，寻找可产品化入口。",
+      "score": 85
+    },
+    {
+      "title": "Ask HN: What email provider do you recommend for personal email?",
+      "summary": "",
+      "link": "https://news.ycombinator.com/item?id=49261634",
+      "source": "Hacker News Ask HN",
+      "publishedRaw": "2026-08-11T17:32:32Z",
+      "date": "2026-08-12",
+      "points": 1,
+      "comments": 13,
+      "demandType": "工具选型",
+      "opportunity": "做细分场景榜单、决策助手或模板库。",
+      "score": 81
+    },
+    {
+      "title": "How to add package if no pip",
+      "summary": "",
+      "link": "https://news.ycombinator.com/item?id=49261522",
+      "source": "Hacker News Ask HN",
+      "publishedRaw": "2026-08-11T17:24:08Z",
+      "date": "2026-08-12",
+      "points": 1,
+      "comments": 2,
+      "demandType": "操作难题",
+      "opportunity": "做一键化工具、教程产品或自动化脚本。",
+      "score": 71
+    },
+    {
+      "title": "Exercise: Introduction to Repository Management",
+      "summary": "## Introduction to Repository Management 👋 Hey there @b-tanyileke! Welcome to your Skills exercise! In this exercise, you'll configure you...",
+      "link": "https://github.com/b-tanyileke/skills-introduction-to-repository-management/issues/1",
+      "source": "GitHub Issue · b-tanyileke/skills-introduction-to-repository-management",
+      "publishedRaw": "2026-08-12T01:06:33Z",
+      "date": "2026-08-12",
+      "points": 0,
+      "comments": 15,
+      "demandType": "潜在需求",
+      "opportunity": "继续观察同类问题频次，寻找可产品化入口。",
+      "score": 57
+    }
+  ],
+  "sourceWarnings": [],
+  "markdown": "# 科技日报 · 2026-08-12\n\n生成时间：2026-08-12 12:45:13（北京时间 UTC+8）\n\n## 科技新闻（10 条）\n\n### 1. [国产动画电影《八仙！》官宣密钥延期，延长上映至 9 月 17 日](https://www.ithome.com/0/988/718.htm)\n\n- 来源：IT之家 RSS · 2026-08-12\n- 摘要：IT之家 8 月 12 日消息，国产动画电影《八仙！》今日官宣密钥延期，延长上映至 2026 年 9 月 17 日 23:59 。 《八仙！》目前豆瓣评分 8.2， 上映 25 天累计票房 14.75 亿元 。 《八仙！》影片以传统八仙故事为灵感，讲述在蓬莱仙境内，八个凡人为闯入只有神仙可以通行的藏宝阁，假扮神仙瞒天过海，面对阁中“十辈子花不完”的泼天富贵...\n\n### 2. [奇瑞捷途旅行者 7 官图发布：方盒子造型，轴距 2800mm](https://www.ithome.com/0/988/716.htm)\n\n- 来源：IT之家 RSS · 2026-08-12\n- 摘要：IT之家 8 月 12 日消息，奇瑞汽车执行副总裁李学用今日公布了捷途旅行者 7 官图，并表示 新车即将上架 。 车身尺寸方面，IT之家从工信部申报信息获悉，新车长宽高 4827/2006/1875mm，轴距 2800mm。 外观方面，捷途旅行者 7 相比捷途旅行者有一些改动，前格栅处增加了贯穿饰条，同时 logo 移至前舱盖之上。 动力部分，捷途旅行者....\n\n### 3. [微软推出 MAI-Code-1.1-Flash 编程模型：更好、更快，价格降至 1/4](https://www.ithome.com/0/988/715.htm)\n\n- 来源：IT之家 RSS · 2026-08-12\n- 摘要：IT之家 8 月 12 日消息，早在今年 6 月，微软首次公布了 MAI-Code-1。这是一款针对 GitHub Copilot 工作负载进行优化、强调推理效率的编程模型。此后，MAI-Code-1 的 Flash 版本登陆 GitHub Copilot，成为用户可选的模型之一，可与 OpenAI 和 Anthropic 的模型竞争。 MAI-Code-...\n\n### 4. [宏碁首款 Googlebook 笔记本曝光：14 英寸屏幕、酷睿 Ultra 5 325/Ultra 7 355 处理器](https://www.ithome.com/0/988/714.htm)\n\n- 来源：IT之家 RSS · 2026-08-12\n- 摘要：IT之家 8 月 12 日消息，科技媒体 digitaltrends 昨日（8 月 11 日）发布博文， 报道称宏碁（Acer）首款 Googlebook 型号为 GP714-91N，定位高于传统入门级 Chromebook。 IT之家此前报道， 宏碁 Googlebook 14 配备 14 英寸屏幕 ，内部代号为“Moonstone”，键盘拥有实体 Ge...\n\n### 5. [IMDb 页面显示《漫威蜘蛛侠 3》游戏正在开发中，洛文塔尔配音](https://www.ithome.com/0/988/713.htm)\n\n- 来源：IT之家 RSS · 2026-08-12\n- 摘要：IT之家 8 月 12 日消息，游戏媒体 Beebom 昨日（8 月 11 日）发布博文，报道称基于 IMDb 页面信息， Insomniac Games 正在开发《漫威蜘蛛侠 3》（Marvel's Spider-Man 3）游戏。 IT之家注：IMDb（互联网电影资料库）创立于 1990 年，于 1998 年被亚马逊收购，收录了数千万部影视作品、电子游...\n\n### 6. [我国主导的生命科学领域国际学术期刊：《Vita》纸质刊首期发布，学术水平上对标三大国际顶刊及其子刊](https://www.ithome.com/0/988/712.htm)\n\n- 来源：IT之家 RSS · 2026-08-12\n- 摘要：IT之家 8 月 12 日消息，据央视新闻报道，今天，我国主导的生命科学领域《Vita》系列期刊纸质刊首期发布。 “Vita”一词源自拉丁语，中文为“生命”之意 。《Vita》系列期刊由主刊《Vita》和系列子刊组成，依托“生命科学开放联盟”相关高校和机构共同建设。 生命科学开放联盟由内地与港澳 15 家高水平高校和科研机构共同发起，于 2025 年 8....\n\n### 7. [台积电何军：5.5 倍光罩尺寸 CoWoS 良率可达 99%，验证加速走向系统级](https://www.ithome.com/0/988/698.htm)\n\n- 来源：IT之家 RSS · 2026-08-12\n- 摘要：IT之家 8 月 12 日消息，台积电先进封装技术暨服务副总经理何军昨日在 OCP APAC 峰会上表示，台积电已量产的 5.5 倍光罩尺寸 CoWoS 先进封装技术可在部分产品上达到 99% 的良率 。 5.5 倍光罩尺寸 CoWoS 这一 2.5D 异构集成方案已在多个 AI 客户产品上得到验证，良率可稳定超过 98%。台积电未来 计划在 2029 年...\n\n### 8. [谷歌收紧 Chrome 浏览器通知权限：“干扰”网站每分钟最多推 1000 条](https://www.ithome.com/0/988/697.htm)\n\n- 来源：IT之家 RSS · 2026-08-12\n- 摘要：IT之家 8 月 12 日消息，谷歌公司昨日（8 月 11 日）发布博文， 披露称针对网站滥用推送通知，已在 Chrome 浏览器中部署多层防御体系。 在谷歌 Chrome 浏览器中，推送通知主要用于新闻提醒、配送更新或价格变动提醒等场景，开发者可借此实时触达用户。不过谷歌表示越来越多的恶意行为者滥用该机制，向用户发送欺骗性和不受欢迎的通知。“ 在治理机制...\n\n### 9. [玩家自制水冷版 Steam Machine，CPU 和 GPU 温度最高直降 30℃](https://www.ithome.com/0/988/694.htm)\n\n- 来源：IT之家 RSS · 2026-08-12\n- 摘要：IT之家 8 月 12 日消息，虽然 Valve 的 Steam Machine 运行温度低、噪音小，但一名改装玩家还是决定进一步升级这款设备的散热系统。他使用桌面级 CNC 机床、出色的逆向工程技术以及不到 200 美元（IT之家注：现汇率约合 1,352 元人民币）的零部件，打造出了一台定制水冷版 Steam Machine。 这名改装玩家在 Redd...\n\n### 10. [国内首个成功运行超 2 万亿参数大模型的超节点，阿里云灵骏真武 M890 超节点实例上线](https://www.ithome.com/0/988/688.htm)\n\n- 来源：IT之家 RSS · 2026-08-12\n- 摘要：IT之家 8 月 12 日消息，阿里云今日宣布， 灵骏真武 M890 超节点实例正式上线 ，首批在内蒙古乌兰察布地域开售。 官方表示，企业级客户无需自建机房，在云上即可开通 64 卡高速互联算力单元， 最高可承载十万亿参数级 MoE 大模型推理 。灵骏真武 M890 超节点也是 国内首个成功运行超 2 万亿参数大模型 的超节点形态算力，Kimi K3 和....\n\n## GitHub 热点（5 个）\n\n### 1. [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)\n\n- 元信息：Shell · Stars 143,590 · Today +958 · GitHub Trending\n- 中文释义：Shell 项目，主要方向：AI / 大模型、网页 / 前端体验、命令行与开发者工具。\n- 原文简介：A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is...\n\n### 2. [semantica-agi/semantica](https://github.com/semantica-agi/semantica)\n\n- 元信息：Python · Stars 5,060 · Today +893 · GitHub Trending\n- 中文释义：Python 项目，主要方向：AI / 大模型。\n- 原文简介：Graph-Native Infrastructure for Context and Accountable AI Systems\n\n### 3. [nvm-sh/nvm](https://github.com/nvm-sh/nvm)\n\n- 元信息：Shell · Stars 94,515 · Today +22 · GitHub Trending\n- 中文释义：Shell 项目，主要方向：命令行与开发者工具。\n- 原文简介：Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions\n\n### 4. [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)\n\n- 元信息：JavaScript · Stars 86,310 · Today +578 · GitHub Trending\n- 中文释义：JavaScript 项目，主要方向：AI / 大模型。\n- 原文简介：Production-grade engineering skills for AI coding agents.\n\n### 5. [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)\n\n- 元信息：Python · Stars 62,272 · Today +243 · GitHub Trending\n- 中文释义：LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-s...\n- 原文简介：LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decis...\n\n## AI Builders 动态（5 条）\n\n### 1. [gpt luna max vs claude fable ultracode sent \"pls build a mostly faithful clone of grok im...](https://x.com/swyx/status/2087045848022843451)\n\n- 来源：follow-builders X · 2026-08-11\n- 摘要：gpt luna max vs claude fable ultracode sent \"pls build a mostly faithful clone of grok imagine with open models via fal\" i woke up to these two and a...\n\n### 2. [btw pdb envs have an experimental AFS clone support that basically does what all of you a...](https://x.com/swyx/status/2087017780617126075)\n\n- 来源：follow-builders X · 2026-08-11\n- 摘要：btw pdb envs have an experimental AFS clone support that basically does what all of you are suggesting but runtime agnostic and language agnostic htt...\n\n### 3. [worktrees must die this is 20GB of repeated node_modules lol https://t.co/tyvbt1WVJm](https://x.com/swyx/status/2086962980235939920)\n\n- 来源：follow-builders X · 2026-08-11\n- 摘要：worktrees must die this is 20GB of repeated node_modules lol https://t.co/tyvbt1WVJm\n\n### 4. [Usage limits have been reset for all paid ChatGPT Work and Codex users. Happy Monday you...](https://x.com/thsottiaux/status/2086972933566857393)\n\n- 来源：follow-builders X · 2026-08-11\n- 摘要：Usage limits have been reset for all paid ChatGPT Work and Codex users. Happy Monday you all. Hope it is a fantastic week.\n\n### 5. [Hi. It is done. https://t.co/JRYltKvT0v](https://x.com/thsottiaux/status/2086972802457063486)\n\n- 来源：follow-builders X · 2026-08-11\n- 摘要：Hi. It is done. https://t.co/JRYltKvT0v\n\n## 今日需求雷达（5 条）\n\n### 1. [Paid Paystack events cannot be published because the readiness gate checks Stripe only](https://github.com/Mingla-LLC/mingla-main/issues/1919)\n\n- 需求强度：85/100\n- 痛点类型：潜在需求\n- 产品机会：继续观察同类问题频次，寻找可产品化入口。\n- 来源：GitHub Issue · Mingla-LLC/mingla-main · 2026-08-12\n- 原文摘要：Parent: #1845 ## Plain-English problem A Nigerian brand can have a valid live Paystack account and be ready to take payments, but Mingla re...\n\n### 2. [底层人为什么完不成原始资本积累？](https://www.v2ex.com/t/1233726)\n\n- 需求强度：85/100\n- 痛点类型：潜在需求\n- 产品机会：继续观察同类问题频次，寻找可产品化入口。\n- 来源：V2EX · 生活 · 2026-08-12\n- 原文摘要：根据我自己身边好多农村出来的孩子挣 1 万就要换个手机，挣 5 万就要买个车，挣 10 万 20 万就想贷款买房。当时我不以为然，最近留意了一下，还真是这么回事，有没有对此有一些其他的看法？\n\n### 3. [Ask HN: What email provider do you recommend for personal email?](https://news.ycombinator.com/item?id=49261634)\n\n- 需求强度：81/100\n- 痛点类型：工具选型\n- 产品机会：做细分场景榜单、决策助手或模板库。\n- 来源：Hacker News Ask HN · 2026-08-12\n\n### 4. [How to add package if no pip](https://news.ycombinator.com/item?id=49261522)\n\n- 需求强度：71/100\n- 痛点类型：操作难题\n- 产品机会：做一键化工具、教程产品或自动化脚本。\n- 来源：Hacker News Ask HN · 2026-08-12\n\n### 5. [Exercise: Introduction to Repository Management](https://github.com/b-tanyileke/skills-introduction-to-repository-management/issues/1)\n\n- 需求强度：57/100\n- 痛点类型：潜在需求\n- 产品机会：继续观察同类问题频次，寻找可产品化入口。\n- 来源：GitHub Issue · b-tanyileke/skills-introduction-to-repository-management · 2026-08-12\n- 原文摘要：## Introduction to Repository Management 👋 Hey there @b-tanyileke! Welcome to your Skills exercise! In this exercise, you'll configure you...\n"
+}
