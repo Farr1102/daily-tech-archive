@@ -1,0 +1,221 @@
+{
+  "date": "2026-08-27",
+  "generatedAt": "2026-08-27 21:43:51",
+  "timezone": "Asia/Shanghai",
+  "timezoneLabel": "北京时间 UTC+8",
+  "newsCount": 10,
+  "githubCount": 5,
+  "builderSignalCount": 5,
+  "demandSignalCount": 2,
+  "news": [
+    {
+      "title": "英特尔：14A 缺陷密度曲线是 22nm 以来最佳表现，2027 年下半年风险试产",
+      "link": "https://www.ithome.com/0/995/300.htm",
+      "summary": "IT之家 8 月 27 日消息，英特尔首席财务官 David Zinsner 在德意志银行 2026 年技术大会上表示，即将推出的 Intel 14A 制程工艺拥有自 22nm 节点以来最佳的“缺陷密度曲线”（defect density curve）。 22nm 是英特尔首个引入 FinFET 晶体管的工艺节点，以 Ivy Bridge 架构闻名。将 1...",
+      "publishedRaw": "Thu, 27 Aug 2026 13:39:12 GMT",
+      "date": "2026-08-27",
+      "source": "IT之家 RSS"
+    },
+    {
+      "title": "网易《逆水寒：新世界》4.1.3 版本更新：全新场景【兰沧寨】、玩法【菠萝农场】上线",
+      "link": "https://www.ithome.com/0/995/299.htm",
+      "summary": "IT之家 8 月 27 日消息，网易《逆水寒：新世界》手游将迎来 4.1.3 版本更新 ，将有大量更新内容和海量福利。 为保证服务质量和服务器的稳定运行，《逆水寒：新世界》手游将于 2026 年 8 月 28 日早 4:55 停机 进行维护工作，预计维护到上午 10:00。维护结束后，登录游戏可在主界面领取更新奖励： 500 绑玉和精美配饰【寸心裁绮】 （...",
+      "publishedRaw": "Thu, 27 Aug 2026 13:29:10 GMT",
+      "date": "2026-08-27",
+      "source": "IT之家 RSS"
+    },
+    {
+      "title": "2026 暑期档总票房破 119.67 亿超去年，《功夫女足》《八仙！》《欢迎来龙餐馆》暂列前三",
+      "link": "https://www.ithome.com/0/995/297.htm",
+      "summary": "IT之家 8 月 27 日消息，据猫眼专业版数据，截至 2026 年 8 月 27 日 18 时 32 分， 2026 年暑期档总票房（含预售）突破 119.67 亿，超 2025 年暑期档票房成绩 。 截至当前，2026 年暑期档档期票房前 10 名影片分别为《功夫女足》《八仙！》《欢迎来龙餐馆》《蜘蛛侠：崭新之日》《给阿嬷的情书》《奥德赛》《小黄人与大...",
+      "publishedRaw": "Thu, 27 Aug 2026 13:21:13 GMT",
+      "date": "2026-08-27",
+      "source": "IT之家 RSS"
+    },
+    {
+      "title": "OpenAI 将向印度 ChatGPT 免费及 Go 套餐用户投放广告",
+      "link": "https://www.ithome.com/0/995/296.htm",
+      "summary": "IT之家 8 月 27 日消息，OpenAI 宣布，即日起将在印度 向 ChatGPT Free 和 Go 套餐用户投放广告 。本月早些时候，OpenAI 修改了服务条款，明确说明用户在使用 ChatGPT 时可能看到广告。 今年 2 月的数据显示，ChatGPT 在印度的每周活跃用户已超过 1 亿，其中相当一部分使用 免费版或价格更低的 Go 套餐 。...",
+      "publishedRaw": "Thu, 27 Aug 2026 13:19:58 GMT",
+      "date": "2026-08-27",
+      "source": "IT之家 RSS"
+    },
+    {
+      "title": "高通 Anshuman Saxena：基于我们的 SoC 平台，可构建 L3 级解决方案",
+      "link": "https://www.ithome.com/0/995/295.htm",
+      "summary": "IT之家 8 月 27 日消息，高通技术公司副总裁兼 ADAS（高级驾驶辅助系统）和机器人业务总经理 Anshuman Saxena 日前接受了IT之家等媒体采访，谈到关于 L3 等级自动驾驶的相关话题。 高通的 L2+ 目前已经量产，接下来对于 L3 市场的看法、产品策略还有时间计划是怎样的？比如，从明年开始，是否在中国市场就能看到 L3 的产品？ An...",
+      "publishedRaw": "Thu, 27 Aug 2026 13:15:14 GMT",
+      "date": "2026-08-27",
+      "source": "IT之家 RSS"
+    },
+    {
+      "title": "Epic 喜加一：原价 9 元恐怖游戏《Together After Dark》再度限免",
+      "link": "https://www.ithome.com/0/995/294.htm",
+      "summary": "IT之家 8 月 27 日消息，开发商 ALMNHALI 宣布旗下心理恐怖游戏《Together After Dark》在 Epic 游戏商城再度开启限时免费“喜加一”领取活动，活动将持续至北京时间 9 月 2 日，游戏在国区定价为 9 元，IT之家附游戏商品页（ https://store.epicgames.com/p/together-after-d...",
+      "publishedRaw": "Thu, 27 Aug 2026 13:05:50 GMT",
+      "date": "2026-08-27",
+      "source": "IT之家 RSS"
+    },
+    {
+      "title": "谷歌推出全球首个双盲 AI 评估技术，基于加密环境保障基准测试公正性",
+      "link": "https://www.ithome.com/0/995/289.htm",
+      "summary": "IT之家 8 月 27 日消息，谷歌宣布推出 全球首个针对前沿专有 AI 模型的双盲评估 ，将外部评估限制在加密“黑箱”环境中，避免模型提前获取测试信息来优化性能。 就像学生考前不能提前看到试题才能真实反映水平一样，当前 AI 模型评估也面临同样问题：如果模型提前接触测试题目（IT之家注：也就是所谓的“基准污染”），评估结果的可信度就会大打折扣。 谷歌联合...",
+      "publishedRaw": "Thu, 27 Aug 2026 13:01:39 GMT",
+      "date": "2026-08-27",
+      "source": "IT之家 RSS"
+    },
+    {
+      "title": "已运营 21 年：亚马逊将于 9 月 30 日关闭众包平台 Mechanical Turk",
+      "link": "https://www.ithome.com/0/995/291.htm",
+      "summary": "IT之家 8 月 27 日消息，亚马逊发文，宣布将于 9 月 30 日关闭旗下已有 21 年历史的众包平台 Mechanical Turk（MTurk）。 公开信息显示，Mechanical Turk 于 2005 年上线，主要帮助各大企业雇佣全球各地的工作者进行图片标注、内容审核、去除重复数据、问卷调查以及语音转录等繁琐操作。 亚马逊表示，此次关闭 Me...",
+      "publishedRaw": "Thu, 27 Aug 2026 13:04:42 GMT",
+      "date": "2026-08-27",
+      "source": "IT之家 RSS"
+    },
+    {
+      "title": "启境 GX7 阔五座 SUV 内饰亮点公布：首搭华为鸿蒙座舱 6，配备同级最大 88 英寸抬头显示",
+      "link": "https://www.ithome.com/0/995/290.htm",
+      "summary": "IT之家 8 月 27 日消息，启境汽车官方公布了启境 GX7 阔五座 SUV 的内饰亮点，新车首搭华为鸿蒙座舱 HarmonySpace 6，号称“科技大平层”。 据介绍，启境 GX7 内置全新主题小紫貂「奇奇」，可以在车主开车、听音乐、打电话、充电时陪伴左右；后排支持儿童睡眠提醒、儿童守卫、儿童影像等功能，可提醒开启睡眠模式、儿童危险行为等。 新车还拥...",
+      "publishedRaw": "Thu, 27 Aug 2026 13:04:12 GMT",
+      "date": "2026-08-27",
+      "source": "IT之家 RSS"
+    },
+    {
+      "title": "模拟经营游戏《狂热运输 3》9 月 30 日发售，Steam 国区 198 元起",
+      "link": "https://www.ithome.com/0/995/288.htm",
+      "summary": "IT之家 8 月 27 日消息，发行商 Paradox Interactive 宣布，旗下模拟经营游戏《狂热运输 3（Transport Fever 3）》将于 2026 年 9 月 30 日正式发售，登陆 PlayStation 5、XBOX Series X|S、PC 平台。 目前，本作已在 Steam 平台开启预购（预购可获得玛丽皇后号邮轮、大金字塔...",
+      "publishedRaw": "Thu, 27 Aug 2026 12:50:15 GMT",
+      "date": "2026-08-27",
+      "source": "IT之家 RSS"
+    }
+  ],
+  "githubHot": [
+    {
+      "name": "zedeus/nitter",
+      "url": "https://github.com/zedeus/nitter",
+      "description": "Alternative Twitter front-end",
+      "language": "Nim",
+      "stars": "13,676",
+      "starsToday": "63",
+      "source": "GitHub Trending",
+      "chineseMeaning": "Nim 项目，可理解为：围绕“Alternative Twitter front-end”的开源项目。"
+    },
+    {
+      "name": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+      "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+      "language": "JavaScript",
+      "stars": "22,614",
+      "starsToday": "2093",
+      "source": "GitHub Trending",
+      "chineseMeaning": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中"
+    },
+    {
+      "name": "tt-a1i/archify",
+      "url": "https://github.com/tt-a1i/archify",
+      "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp e...",
+      "language": "JavaScript",
+      "stars": "21,401",
+      "starsToday": "4260",
+      "source": "GitHub Trending",
+      "chineseMeaning": "JavaScript 项目，主要方向：AI / 大模型、网页 / 前端体验、自动化工作流。"
+    },
+    {
+      "name": "JetBrains/go-modern-guidelines",
+      "url": "https://github.com/JetBrains/go-modern-guidelines",
+      "description": "Help AI coding agents write modern Go",
+      "language": "Go",
+      "stars": "1,911",
+      "starsToday": "314",
+      "source": "GitHub Trending",
+      "chineseMeaning": "Go 项目，主要方向：AI / 大模型。"
+    },
+    {
+      "name": "anthropics/claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "language": "Python",
+      "stars": "34,526",
+      "starsToday": "290",
+      "source": "GitHub Trending",
+      "chineseMeaning": "Python 项目，主要方向：AI / 大模型。"
+    }
+  ],
+  "builderSignals": [
+    {
+      "title": "Experimenting with multiplayer AI https://t.co/USWItAK4Xw",
+      "summary": "Experimenting with multiplayer AI https://t.co/USWItAK4Xw",
+      "author": "",
+      "link": "https://x.com/joshwoodward/status/2092614266818064389",
+      "publishedRaw": "2026-08-26T14:04:54.000Z",
+      "date": "2026-08-26",
+      "source": "follow-builders X"
+    },
+    {
+      "title": "A good thing about having aged is that I feel that it’s been 20 years since I’ve pressed...",
+      "summary": "A good thing about having aged is that I feel that it’s been 20 years since I’ve pressed the reset button. Intrigued to see if I can find it tomorrow...",
+      "author": "",
+      "link": "https://x.com/thsottiaux/status/2092862554632826968",
+      "publishedRaw": "2026-08-27T06:31:31.000Z",
+      "date": "2026-08-27",
+      "source": "follow-builders X"
+    },
+    {
+      "title": "A few weeks at OpenAI feel like years at other companies in terms of how much gets done....",
+      "summary": "A few weeks at OpenAI feel like years at other companies in terms of how much gets done. Crazy how much you can age in a few days",
+      "author": "",
+      "link": "https://x.com/thsottiaux/status/2092756702349398036",
+      "publishedRaw": "2026-08-26T23:30:54.000Z",
+      "date": "2026-08-27",
+      "source": "follow-builders X"
+    },
+    {
+      "title": "Who should I tag for @X bugs now that @nikitabier has retired?",
+      "summary": "Who should I tag for @X bugs now that @nikitabier has retired?",
+      "author": "",
+      "link": "https://x.com/petergyang/status/2092829981885796800",
+      "publishedRaw": "2026-08-27T04:22:05.000Z",
+      "date": "2026-08-27",
+      "source": "follow-builders X"
+    },
+    {
+      "title": "@ChatGPT If you enjoyed this, sign up for free to my newsletter to get my best AI and pro...",
+      "summary": "@ChatGPT If you enjoyed this, sign up for free to my newsletter to get my best AI and product guides. Join 110,000+ subscribers here: https://t.co/yz...",
+      "author": "",
+      "link": "https://x.com/petergyang/status/2092790875978162378",
+      "publishedRaw": "2026-08-27T01:46:41.000Z",
+      "date": "2026-08-27",
+      "source": "follow-builders X"
+    }
+  ],
+  "demandSignals": [
+    {
+      "title": "2026 年 30w 左右电车选择",
+      "summary": "之前一直开高尔夫 1.4T ，最近在考虑换一台纯电 SUV 。 看了一圈，发现除了特斯拉焕新 Model Y 标准续航版，还有哪些款车开起来也很跟手，对刚从油车转过来的女生特别友好的，不考虑智驾，V 友们有没有好的推荐，我可以去试驾看看。",
+      "link": "https://www.v2ex.com/t/1237605",
+      "source": "V2EX · 电动汽车",
+      "publishedRaw": "2026-08-27T06:12:18.000Z",
+      "date": "2026-08-27",
+      "points": 0,
+      "comments": 136,
+      "demandType": "工具选型",
+      "opportunity": "做细分场景榜单、决策助手或模板库。",
+      "score": 85
+    },
+    {
+      "title": "Ask HN: How does manual QA fit into your process?",
+      "summary": "",
+      "link": "https://news.ycombinator.com/item?id=49462397",
+      "source": "Hacker News Ask HN",
+      "publishedRaw": "2026-08-27T10:15:34Z",
+      "date": "2026-08-27",
+      "points": 1,
+      "comments": 3,
+      "demandType": "潜在需求",
+      "opportunity": "继续观察同类问题频次，寻找可产品化入口。",
+      "score": 73
+    }
+  ],
+  "sourceWarnings": [],
+  "markdown": "# 科技日报 · 2026-08-27\n\n生成时间：2026-08-27 21:43:51（北京时间 UTC+8）\n\n## 科技新闻（10 条）\n\n### 1. [英特尔：14A 缺陷密度曲线是 22nm 以来最佳表现，2027 年下半年风险试产](https://www.ithome.com/0/995/300.htm)\n\n- 来源：IT之家 RSS · 2026-08-27\n- 摘要：IT之家 8 月 27 日消息，英特尔首席财务官 David Zinsner 在德意志银行 2026 年技术大会上表示，即将推出的 Intel 14A 制程工艺拥有自 22nm 节点以来最佳的“缺陷密度曲线”（defect density curve）。 22nm 是英特尔首个引入 FinFET 晶体管的工艺节点，以 Ivy Bridge 架构闻名。将 1...\n\n### 2. [网易《逆水寒：新世界》4.1.3 版本更新：全新场景【兰沧寨】、玩法【菠萝农场】上线](https://www.ithome.com/0/995/299.htm)\n\n- 来源：IT之家 RSS · 2026-08-27\n- 摘要：IT之家 8 月 27 日消息，网易《逆水寒：新世界》手游将迎来 4.1.3 版本更新 ，将有大量更新内容和海量福利。 为保证服务质量和服务器的稳定运行，《逆水寒：新世界》手游将于 2026 年 8 月 28 日早 4:55 停机 进行维护工作，预计维护到上午 10:00。维护结束后，登录游戏可在主界面领取更新奖励： 500 绑玉和精美配饰【寸心裁绮】 （...\n\n### 3. [2026 暑期档总票房破 119.67 亿超去年，《功夫女足》《八仙！》《欢迎来龙餐馆》暂列前三](https://www.ithome.com/0/995/297.htm)\n\n- 来源：IT之家 RSS · 2026-08-27\n- 摘要：IT之家 8 月 27 日消息，据猫眼专业版数据，截至 2026 年 8 月 27 日 18 时 32 分， 2026 年暑期档总票房（含预售）突破 119.67 亿，超 2025 年暑期档票房成绩 。 截至当前，2026 年暑期档档期票房前 10 名影片分别为《功夫女足》《八仙！》《欢迎来龙餐馆》《蜘蛛侠：崭新之日》《给阿嬷的情书》《奥德赛》《小黄人与大...\n\n### 4. [OpenAI 将向印度 ChatGPT 免费及 Go 套餐用户投放广告](https://www.ithome.com/0/995/296.htm)\n\n- 来源：IT之家 RSS · 2026-08-27\n- 摘要：IT之家 8 月 27 日消息，OpenAI 宣布，即日起将在印度 向 ChatGPT Free 和 Go 套餐用户投放广告 。本月早些时候，OpenAI 修改了服务条款，明确说明用户在使用 ChatGPT 时可能看到广告。 今年 2 月的数据显示，ChatGPT 在印度的每周活跃用户已超过 1 亿，其中相当一部分使用 免费版或价格更低的 Go 套餐 。....\n\n### 5. [高通 Anshuman Saxena：基于我们的 SoC 平台，可构建 L3 级解决方案](https://www.ithome.com/0/995/295.htm)\n\n- 来源：IT之家 RSS · 2026-08-27\n- 摘要：IT之家 8 月 27 日消息，高通技术公司副总裁兼 ADAS（高级驾驶辅助系统）和机器人业务总经理 Anshuman Saxena 日前接受了IT之家等媒体采访，谈到关于 L3 等级自动驾驶的相关话题。 高通的 L2+ 目前已经量产，接下来对于 L3 市场的看法、产品策略还有时间计划是怎样的？比如，从明年开始，是否在中国市场就能看到 L3 的产品？ An...\n\n### 6. [Epic 喜加一：原价 9 元恐怖游戏《Together After Dark》再度限免](https://www.ithome.com/0/995/294.htm)\n\n- 来源：IT之家 RSS · 2026-08-27\n- 摘要：IT之家 8 月 27 日消息，开发商 ALMNHALI 宣布旗下心理恐怖游戏《Together After Dark》在 Epic 游戏商城再度开启限时免费“喜加一”领取活动，活动将持续至北京时间 9 月 2 日，游戏在国区定价为 9 元，IT之家附游戏商品页（ https://store.epicgames.com/p/together-after-d...\n\n### 7. [谷歌推出全球首个双盲 AI 评估技术，基于加密环境保障基准测试公正性](https://www.ithome.com/0/995/289.htm)\n\n- 来源：IT之家 RSS · 2026-08-27\n- 摘要：IT之家 8 月 27 日消息，谷歌宣布推出 全球首个针对前沿专有 AI 模型的双盲评估 ，将外部评估限制在加密“黑箱”环境中，避免模型提前获取测试信息来优化性能。 就像学生考前不能提前看到试题才能真实反映水平一样，当前 AI 模型评估也面临同样问题：如果模型提前接触测试题目（IT之家注：也就是所谓的“基准污染”），评估结果的可信度就会大打折扣。 谷歌联合...\n\n### 8. [已运营 21 年：亚马逊将于 9 月 30 日关闭众包平台 Mechanical Turk](https://www.ithome.com/0/995/291.htm)\n\n- 来源：IT之家 RSS · 2026-08-27\n- 摘要：IT之家 8 月 27 日消息，亚马逊发文，宣布将于 9 月 30 日关闭旗下已有 21 年历史的众包平台 Mechanical Turk（MTurk）。 公开信息显示，Mechanical Turk 于 2005 年上线，主要帮助各大企业雇佣全球各地的工作者进行图片标注、内容审核、去除重复数据、问卷调查以及语音转录等繁琐操作。 亚马逊表示，此次关闭 Me...\n\n### 9. [启境 GX7 阔五座 SUV 内饰亮点公布：首搭华为鸿蒙座舱 6，配备同级最大 88 英寸抬头显示](https://www.ithome.com/0/995/290.htm)\n\n- 来源：IT之家 RSS · 2026-08-27\n- 摘要：IT之家 8 月 27 日消息，启境汽车官方公布了启境 GX7 阔五座 SUV 的内饰亮点，新车首搭华为鸿蒙座舱 HarmonySpace 6，号称“科技大平层”。 据介绍，启境 GX7 内置全新主题小紫貂「奇奇」，可以在车主开车、听音乐、打电话、充电时陪伴左右；后排支持儿童睡眠提醒、儿童守卫、儿童影像等功能，可提醒开启睡眠模式、儿童危险行为等。 新车还拥...\n\n### 10. [模拟经营游戏《狂热运输 3》9 月 30 日发售，Steam 国区 198 元起](https://www.ithome.com/0/995/288.htm)\n\n- 来源：IT之家 RSS · 2026-08-27\n- 摘要：IT之家 8 月 27 日消息，发行商 Paradox Interactive 宣布，旗下模拟经营游戏《狂热运输 3（Transport Fever 3）》将于 2026 年 9 月 30 日正式发售，登陆 PlayStation 5、XBOX Series X|S、PC 平台。 目前，本作已在 Steam 平台开启预购（预购可获得玛丽皇后号邮轮、大金字塔...\n\n## GitHub 热点（5 个）\n\n### 1. [zedeus/nitter](https://github.com/zedeus/nitter)\n\n- 元信息：Nim · Stars 13,676 · Today +63 · GitHub Trending\n- 中文释义：Nim 项目，可理解为：围绕“Alternative Twitter front-end”的开源项目。\n- 原文简介：Alternative Twitter front-end\n\n### 2. [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)\n\n- 元信息：JavaScript · Stars 22,614 · Today +2093 · GitHub Trending\n- 中文释义：Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中\n- 原文简介：Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中\n\n### 3. [tt-a1i/archify](https://github.com/tt-a1i/archify)\n\n- 元信息：JavaScript · Stars 21,401 · Today +4260 · GitHub Trending\n- 中文释义：JavaScript 项目，主要方向：AI / 大模型、网页 / 前端体验、自动化工作流。\n- 原文简介：Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp e...\n\n### 4. [JetBrains/go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines)\n\n- 元信息：Go · Stars 1,911 · Today +314 · GitHub Trending\n- 中文释义：Go 项目，主要方向：AI / 大模型。\n- 原文简介：Help AI coding agents write modern Go\n\n### 5. [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)\n\n- 元信息：Python · Stars 34,526 · Today +290 · GitHub Trending\n- 中文释义：Python 项目，主要方向：AI / 大模型。\n- 原文简介：Official, Anthropic-managed directory of high quality Claude Code Plugins.\n\n## AI Builders 动态（5 条）\n\n### 1. [Experimenting with multiplayer AI https://t.co/USWItAK4Xw](https://x.com/joshwoodward/status/2092614266818064389)\n\n- 来源：follow-builders X · 2026-08-26\n- 摘要：Experimenting with multiplayer AI https://t.co/USWItAK4Xw\n\n### 2. [A good thing about having aged is that I feel that it’s been 20 years since I’ve pressed...](https://x.com/thsottiaux/status/2092862554632826968)\n\n- 来源：follow-builders X · 2026-08-27\n- 摘要：A good thing about having aged is that I feel that it’s been 20 years since I’ve pressed the reset button. Intrigued to see if I can find it tomorrow...\n\n### 3. [A few weeks at OpenAI feel like years at other companies in terms of how much gets done....](https://x.com/thsottiaux/status/2092756702349398036)\n\n- 来源：follow-builders X · 2026-08-27\n- 摘要：A few weeks at OpenAI feel like years at other companies in terms of how much gets done. Crazy how much you can age in a few days\n\n### 4. [Who should I tag for @X bugs now that @nikitabier has retired?](https://x.com/petergyang/status/2092829981885796800)\n\n- 来源：follow-builders X · 2026-08-27\n- 摘要：Who should I tag for @X bugs now that @nikitabier has retired?\n\n### 5. [@ChatGPT If you enjoyed this, sign up for free to my newsletter to get my best AI and pro...](https://x.com/petergyang/status/2092790875978162378)\n\n- 来源：follow-builders X · 2026-08-27\n- 摘要：@ChatGPT If you enjoyed this, sign up for free to my newsletter to get my best AI and product guides. Join 110,000+ subscribers here: https://t.co/yz...\n\n## 今日需求雷达（2 条）\n\n### 1. [2026 年 30w 左右电车选择](https://www.v2ex.com/t/1237605)\n\n- 需求强度：85/100\n- 痛点类型：工具选型\n- 产品机会：做细分场景榜单、决策助手或模板库。\n- 来源：V2EX · 电动汽车 · 2026-08-27\n- 原文摘要：之前一直开高尔夫 1.4T ，最近在考虑换一台纯电 SUV 。 看了一圈，发现除了特斯拉焕新 Model Y 标准续航版，还有哪些款车开起来也很跟手，对刚从油车转过来的女生特别友好的，不考虑智驾，V 友们有没有好的推荐，我可以去试驾看看。\n\n### 2. [Ask HN: How does manual QA fit into your process?](https://news.ycombinator.com/item?id=49462397)\n\n- 需求强度：73/100\n- 痛点类型：潜在需求\n- 产品机会：继续观察同类问题频次，寻找可产品化入口。\n- 来源：Hacker News Ask HN · 2026-08-27\n"
+}
