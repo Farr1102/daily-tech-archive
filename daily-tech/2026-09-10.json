@@ -1,6 +1,6 @@
 {
   "date": "2026-09-10",
-  "generatedAt": "2026-09-10 15:51:25",
+  "generatedAt": "2026-09-10 22:02:30",
   "timezone": "Asia/Shanghai",
   "timezoneLabel": "北京时间 UTC+8",
   "newsCount": 10,
@@ -9,82 +9,82 @@
   "demandSignalCount": 5,
   "news": [
     {
-      "title": "vivo X500 手机四款配色官图首秀，9 月 21 日发布",
-      "link": "https://www.ithome.com/1/000/812.htm",
-      "summary": "IT之家 9 月 10 日消息，vivo X500 系列及智慧终端新品发布会将于 9 月 21 日 19:00 举行，官方今日首次公布 vivo X500 四款配色官图。 晴天｜一道彩虹，让心放晴； 晨曦｜破晓曦光，万物向明； 大地回声｜旷野星河，天地共鸣； 摄夜｜静谧夜色，晚风作伴。 根据目前官方预热信息，vivo X500 标准版搭载 1/1.28 英...",
-      "publishedRaw": "Thu, 10 Sep 2026 07:42:33 GMT",
+      "title": "美国身份验证巨头 IDScan 承认数据泄露，超 1.5 亿张驾照信息被盗",
+      "link": "https://www.ithome.com/1/001/008.htm",
+      "summary": "IT之家 9 月 10 日消息，美国知名身份验证服务商 IDScan 本月（9 月 4 日）在官网承认，公司近期遭遇一起数据泄露事故。 IDScan 表示，黑客组织从公司的云端服务器窃取了驾照信息， 用户姓名、驾照号码、护照号码等信息遭到泄露 。 同时，该公司于 9 月 1 日前后收到数据被盗信息，后续证实事故确实存在。 独立安全研究员 Brian Kre...",
+      "publishedRaw": "Thu, 10 Sep 2026 13:56:44 GMT",
       "date": "2026-09-10",
       "source": "IT之家 RSS"
     },
     {
-      "title": "罗永浩狂喷苹果首款折叠屏手机 iPhone Duo，屏下摄像头、阔屏比例、内外屏无缝等全是“抄的”",
-      "link": "https://www.ithome.com/1/000/810.htm",
-      "summary": "IT之家 9 月 10 日消息，罗永浩今日在微博发文，以个人视角点评苹果旗下首款折叠屏手机 iPhone Duo。 罗永浩表示，这台手机的折叠机形态、屏下摄像头、矮胖的阔屏比例、侧面 Dock 栏、外屏 / 内屏无缝接力、多角度悬停、钛合金 3D 打印铰链盖全是“抄的”。 他还认为，苹果搞不定内屏折痕问题，所以不惜降低屏幕体验用雾面屏掩饰。这部分确实是原创...",
-      "publishedRaw": "Thu, 10 Sep 2026 07:40:31 GMT",
+      "title": "新研究：少数电芯老化或致整个电动汽车电池包提前退役，最高浪费近三成潜在能量",
+      "link": "https://www.ithome.com/1/001/007.htm",
+      "summary": "IT之家 9 月 10 日消息，少数电芯老化，就可能让整个电动汽车电池包提前退役。中国科学院大连化学物理研究所陈忠伟教授与瑞典查尔姆斯理工大学邹长福教授带领团队，分析了 跨度超过 3 年的车辆运行数据 ，得出了这一发现。 据外媒 Interesting Engineering 今天（10 日）晚间报道，研究涵盖 搭载三元锂电池的乘用车和搭载磷酸铁锂电池的公...",
+      "publishedRaw": "Thu, 10 Sep 2026 13:50:00 GMT",
       "date": "2026-09-10",
       "source": "IT之家 RSS"
     },
     {
-      "title": "零部件短缺，SNK 复刻版 NeoGeo AES 主机将推迟至明年 9 月上市",
-      "link": "https://www.ithome.com/1/000/809.htm",
-      "summary": "IT之家 9 月 10 日消息，据外媒 VGC 今天（10 日）报道，SNK 和 Plaion 宣布，受零部件短缺影响，原计划重新推出的 NeoGeo AES 主机将延期至 2027 年 9 月 16 日发售，比原计划推迟 10 个月。 两家公司在声明中表示，延期源于全球零部件供应受限，导致 无法生产足够数量的主机 ，从而为玩家带来应有的全球同步首发。 与...",
-      "publishedRaw": "Thu, 10 Sep 2026 07:38:55 GMT",
+      "title": "业内首款，思特威推出集成 SerDes 与片上 ISP 车载 CMOS 图像传感器",
+      "link": "https://www.ithome.com/1/001/006.htm",
+      "summary": "IT之家 9 月 10 日消息，今日，思特威宣布正式推出 3MP 高性能车规级图像传感器升级新品 ——SC365AT。 据介绍，作为 业内首颗 集成 SerDes 与片上 ISP 的车载 CMOS 图像传感器，SC365AT 基于思特威 CARSens ® -XR Gen 2 工艺平台打造，采用 3.0µm 单像素设计与 Stacked BSI 工艺架构，...",
+      "publishedRaw": "Thu, 10 Sep 2026 13:49:10 GMT",
       "date": "2026-09-10",
       "source": "IT之家 RSS"
     },
     {
-      "title": "采埃孚推出电机维修套件，可单独更换故障轴承而无需换总成",
-      "link": "https://www.ithome.com/1/000/808.htm",
-      "summary": "IT之家 9 月 10 日消息，轴承磨损并不一定意味着电动汽车驱动单元需要更换而非维修，虽然很多电动汽车都是这么处理的，但采埃孚希望借助新的电机维修套件来改变这一点，这些电机用于驱动电动汽车和混合动力汽车。 这家汽车零部件供应商宣布，作为其“维护 — 维修 — 更换”战略的一部分，将在未来几周推出 100 多种电驱桥维修套件版本。该战略在可行时优先维修部件...",
-      "publishedRaw": "Thu, 10 Sep 2026 07:37:24 GMT",
+      "title": "给地球大气做“CT”有了统一标准，市场监管总局发布四项掩星探测国标",
+      "link": "https://www.ithome.com/1/001/005.htm",
+      "summary": "IT之家 9 月 10 日消息，近日，市场监管总局（国家标准委）批准发布《GNSS 掩星探测载荷技术条件》《GNSS 掩星探测数据质量检验要求》《GNSS 掩星数据产品类型及分级》《GNSS 掩星探测数据格式》四项推荐性国家标准。 IT之家从官方介绍获悉，该系列标准由中国气象局组织研制，覆盖掩星探测从硬件载荷到数据应用的全技术链条，为这项给地球大气做“CT...",
+      "publishedRaw": "Thu, 10 Sep 2026 13:35:48 GMT",
       "date": "2026-09-10",
       "source": "IT之家 RSS"
     },
     {
-      "title": "印度政府机构建议对小米公司展开调查，我国外交部回应",
-      "link": "https://www.ithome.com/1/000/807.htm",
-      "summary": "IT之家 9 月 10 日消息，据澎湃新闻报道，外交部发言人郭嘉昆 9 月 10 日主持例行记者会。路透社记者提问，印度公司事务部下属的严重欺诈调查局（SFIO）建议对小米公司展开调查， 理由是小米公司在商业模式及遵守外商投资法规方面涉嫌违规 。请问外交部对此有何评论？ 郭嘉昆表示：“我不了解你提到的具体情况。中印经贸合作本质上是互利共赢的， 希望印方为各...",
-      "publishedRaw": "Thu, 10 Sep 2026 07:36:23 GMT",
+      "title": "谷歌推出 ADB Wi-Fi 2.0：无线调试速度最高提升 66%，连接稳定性大幅改善",
+      "link": "https://www.ithome.com/1/001/004.htm",
+      "summary": "IT之家 9 月 10 日消息，谷歌昨天宣布推出 Android 调试桥（ADB）Wi-Fi 2.0，新版本重新设计了三个核心组件，使无线调试速度更快、稳定性更好。 IT之家了解到，谷歌本次更新了 mDNS 协议栈和守护进程，提高连接可靠性。旧版 mDNS 有时会导致电脑与 Android 之间连接中断，新版会在电脑和设备连接到不受信网络时自动禁用连接，回...",
+      "publishedRaw": "Thu, 10 Sep 2026 13:35:05 GMT",
       "date": "2026-09-10",
       "source": "IT之家 RSS"
     },
     {
-      "title": "消息称松下新能源预计 2026 年第 4 季度出样全固态电池",
-      "link": "https://www.ithome.com/1/000/806.htm",
-      "summary": "IT之家 9 月 10 日消息，《日本经济新闻》报道称，松下新能源 (Panasonic Energy) 首席技术官渡边庄一郎在日本当地时间昨日举行的一次行业展会上表示， 该企业预计将在 2026 年第 4 季度启动全固态电池的出样 。 ▲ 松下新能源电池产品阵容 松下新能源的首批全固态电池样品体型小巧，直径约 1cm，采用纽扣或棱柱外形规格。其在 150...",
-      "publishedRaw": "Thu, 10 Sep 2026 07:34:48 GMT",
+      "title": "吉利银河 TT 正式上市：定位 C 级 AI 纯电运动轿车，12.99 万-18.59 万元",
+      "link": "https://www.ithome.com/1/001/003.htm",
+      "summary": "IT之家 9 月 10 日消息，吉利银河旗下全新 C 级 AI 纯电运动轿车 —— 吉利银河 TT 今天（10 日）晚间正式上市，共推出五大版型，上市限时先享价为 12.99 万元-18.59 万元。 640 后驱尊享版：12.99 万元 640 后驱尊贵版：13.99 万元 640 后驱旗舰版：14.99 万元 725 后驱旗舰版：15.99 万元 Ul...",
+      "publishedRaw": "Thu, 10 Sep 2026 13:21:47 GMT",
       "date": "2026-09-10",
       "source": "IT之家 RSS"
     },
     {
-      "title": "苹果 iPhone 18 Pro/Max 全球售价对比：美国最低、土耳其最高，港版约为国行九折",
-      "link": "https://www.ithome.com/1/000/805.htm",
-      "summary": "IT之家 9 月 10 日消息，苹果最新发布的 iPhone 18 Pro 和 iPhone 18 Pro Max 已在全球多个市场公布售价。 根据各地区苹果官网价格及换算数据，同一机型在不同市场的售价差异较为明显，其中美国市场价格均为最低，土耳其各个版本均为最高。 首先，iPhone 18 Pro 和 iPhone 18 Pro Max 均提供 256G...",
-      "publishedRaw": "Thu, 10 Sep 2026 07:31:25 GMT",
+      "title": "利用未成年人形象引流，抖音近一个月处置违规账号 8132 个",
+      "link": "https://www.ithome.com/1/001/002.htm",
+      "summary": "IT之家 9 月 10 日消息，抖音黑板报今日发布《抖音关于持续治理涉未成年人不良内容的公告》。 近期，平台发现，部分违规账号 借未成年相关标签制造争议话题、利用 AI 生成未成年人悲惨形象、伪装未成年人形象直播 ，以此博取流量、吸引关注，扰乱社区内容生态。对此，平台持续加强对违规内容的巡查、识别和处置力度。近一个月，针对涉未成年人的违规场景，平台共处置违...",
+      "publishedRaw": "Thu, 10 Sep 2026 13:21:07 GMT",
       "date": "2026-09-10",
       "source": "IT之家 RSS"
     },
     {
-      "title": "消息称微软 XBOX 可能尝试动态定价策略，吸引老玩家回归 XGP",
-      "link": "https://www.ithome.com/1/000/803.htm",
-      "summary": "IT之家 9 月 10 日消息，据外媒 MP1ST 前天报道，微软 XBOX 可能正在尝试动态定价策略，吸引曾经的 Xbox Game Pass 用户重新订阅。 据报道，目前已有部分海外玩家能够以 16.09 美元 （IT之家注：现汇率约合 108.2 元人民币） /月的价格订阅 XGPU。作为参考，该服务的标准售价是 22.99 美元 （现汇率约合 15...",
-      "publishedRaw": "Thu, 10 Sep 2026 07:24:45 GMT",
+      "title": "马斯克“无聊公司”融资 30 亿美元，阿联酋领投",
+      "link": "https://www.ithome.com/1/001/001.htm",
+      "summary": "IT之家 9 月 10 日消息，据科技媒体 electrek 今天报道，马斯克旗下“无聊公司”（The Boring Company）已完成 30 亿美元 （IT之家注：现汇率约合 201.77 亿元人民币） D 轮融资，由阿拉伯联合酋长国领投。 据报道，本次投资使无聊公司估值达到 230 亿美元 （现汇率约合 1,546.87 亿元人民币） 。除阿联酋外...",
+      "publishedRaw": "Thu, 10 Sep 2026 13:17:44 GMT",
       "date": "2026-09-10",
       "source": "IT之家 RSS"
     },
     {
-      "title": "《风火轮：无限冲刺》今日登陆 Steam：国区 248 元起，支持简体中文",
-      "link": "https://www.ithome.com/1/000/780.htm",
-      "summary": "IT之家 9 月 10 日消息，全球顶级玩具 IP HOT WHEELS（风火轮）全新竞速游戏《HOT WHEELS™ Infinite Rush》（中文译名为《风火轮：无限冲刺》）今日正式登陆 Steam 平台，本作由 Milestone S.r.l . 开发并发行，国区售价 248 元起，将于 2026 年 9 月 10 日正式解锁。 本作共推出三个版...",
-      "publishedRaw": "Thu, 10 Sep 2026 07:13:06 GMT",
+      "title": "上汽荣威家越 07 将于 9 月 21 日开启预售，综合续航 1480km",
+      "link": "https://www.ithome.com/1/000/996.htm",
+      "summary": "IT之家 9 月 10 日消息，据易车今天报道，上汽荣威家越 07 汽车将于 9 月 21 日开启预售。新车将采用增程动力，配备新一代 Momenta R7 世界模型高阶智能辅助驾驶方案， 综合续航可达 1480km 。 IT之家从原报道获悉，荣威家越 07 采用昂扬美学设计，提供龙晶紫、玛瑙灰、宝石蓝、珍溪黑、钻石白、翡翠绿等宝石车色，可选绵云青空、坚果...",
+      "publishedRaw": "Thu, 10 Sep 2026 13:06:49 GMT",
       "date": "2026-09-10",
       "source": "IT之家 RSS"
     },
     {
-      "title": "安克空间站 USB-C 高刷桌面拓展坞《无畏契约》限定版上架：699 元",
-      "link": "https://www.ithome.com/1/000/802.htm",
-      "summary": "IT之家 9 月 10 日消息，安克 (Anker) 现已在电商平台上架空间站 USB-C 高刷桌面拓展坞的《无畏契约》(VALORANT) 限定版。其首发到手价为 699 元（较 非限定版 高出 100 元），9 月 21 日 10:00 开售。 功能方面，该扩展坞正面提供 1 个 USB-C 10Gbps、1 组 SD / microSD UHD-I...",
-      "publishedRaw": "Thu, 10 Sep 2026 07:22:58 GMT",
+      "title": "首届 CMG 世界机器人登泰山大赛定档 10 月 29 日，参赛“选手”将挑战真实登山盘道",
+      "link": "https://www.ithome.com/1/000/995.htm",
+      "summary": "IT之家 9 月 10 日消息，据央视新闻今天（10 日）晚间报道，首届 CMG 世界机器人登泰山大赛将于 10 月 29 日举办。各路参赛机器人将挑战泰山真实登山盘道，比赛当天将在央视新闻、央视体育等总台重点新媒体平台直播，沉浸式呈现赛事盛况。 本次大赛是依托山地复杂路况打造的机器人专业赛事，共设置 2 条主赛道、4 个正式赛项、1 个特色挑战赛项 。...",
+      "publishedRaw": "Thu, 10 Sep 2026 13:06:28 GMT",
       "date": "2026-09-10",
       "source": "IT之家 RSS"
     }
@@ -95,50 +95,50 @@
       "url": "https://github.com/ayghri/i-have-adhd",
       "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
       "language": "Python",
-      "stars": "35,789",
-      "starsToday": "4650",
+      "stars": "36,914",
+      "starsToday": "3854",
       "source": "GitHub Trending",
       "chineseMeaning": "Python 项目，主要方向：AI / 大模型。"
     },
     {
-      "name": "Tencent/teamai-cli",
-      "url": "https://github.com/Tencent/teamai-cli",
-      "description": "Make Every Team AI Native",
-      "language": "TypeScript",
-      "stars": "3,322",
-      "starsToday": "556",
+      "name": "bilawalsidhu/gods-eye-view",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "language": "JavaScript",
+      "stars": "22,596",
+      "starsToday": "1588",
       "source": "GitHub Trending",
-      "chineseMeaning": "TypeScript 项目，主要方向：AI / 大模型、命令行与开发者工具。"
+      "chineseMeaning": "JavaScript 项目，主要方向：网页 / 前端体验。"
     },
     {
       "name": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
-      "stars": "284,236",
-      "starsToday": "688",
+      "stars": "284,446",
+      "starsToday": "731",
       "source": "GitHub Trending",
       "chineseMeaning": "Shell 项目，主要方向：开发框架或工具库、命令行与开发者工具。"
     },
     {
-      "name": "pascalorg/editor",
-      "url": "https://github.com/pascalorg/editor",
-      "description": "Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.",
+      "name": "alsk1992/CloddsBot",
+      "url": "https://github.com/alsk1992/CloddsBot",
+      "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. S...",
       "language": "TypeScript",
-      "stars": "23,134",
-      "starsToday": "107",
+      "stars": "1,379",
+      "starsToday": "299",
       "source": "GitHub Trending",
-      "chineseMeaning": "TypeScript 项目，主要方向：AI / 大模型、命令行与开发者工具。"
+      "chineseMeaning": "TypeScript 项目，主要方向：AI / 大模型。"
     },
     {
-      "name": "earthtojake/text-to-cad",
-      "url": "https://github.com/earthtojake/text-to-cad",
-      "description": "A library of agent skills for CAD, CAE and CAM",
-      "language": "Python",
-      "stars": "15,212",
-      "starsToday": "124",
+      "name": "Tencent/teamai-cli",
+      "url": "https://github.com/Tencent/teamai-cli",
+      "description": "Make Every Team AI Native",
+      "language": "TypeScript",
+      "stars": "3,556",
+      "starsToday": "837",
       "source": "GitHub Trending",
-      "chineseMeaning": "Python 项目，主要方向：AI / 大模型、开发框架或工具库。"
+      "chineseMeaning": "TypeScript 项目，主要方向：AI / 大模型、命令行与开发者工具。"
     }
   ],
   "builderSignals": [
@@ -190,6 +190,19 @@
   ],
   "demandSignals": [
     {
+      "title": "如何充值 chatgpt？ 救救孩子吧",
+      "summary": "首先，Apple 礼品卡这条路已经走不通了。 之前有一个美区 apple id 然后也这样充值过，但是后来由于使用的不够小心， 被 chatgpt 封了号，当然啦， 这个 apple id 也就废了。 上个月，注册了一个新的 apple id ，这个 apple id 可能触发...",
+      "link": "https://www.v2ex.com/t/1240984",
+      "source": "V2EX · 程序员",
+      "publishedRaw": "2026-09-10T04:09:00.000Z",
+      "date": "2026-09-10",
+      "points": 0,
+      "comments": 113,
+      "demandType": "操作难题",
+      "opportunity": "做一键化工具、教程产品或自动化脚本。",
+      "score": 85
+    },
+    {
       "title": "东京夜生活-脱衣舞秀初体验",
       "summary": "本次主要的镰仓行程游玩后便回到了东京，鉴于上次来东京已经游览了主要的景点，遂想着找点不一样的。 在询问了 ChatGPT 和留日的朋友后，得到的建议是：去见识一下“资本主义的灯红酒绿”，定下了本篇的行程。 浅草 Rockza 回到东京入住酒店后，便步行前往 Rockza 剧场所...",
       "link": "https://www.v2ex.com/t/1240875",
@@ -197,7 +210,7 @@
       "publishedRaw": "2026-09-10T00:53:39.000Z",
       "date": "2026-09-10",
       "points": 0,
-      "comments": 76,
+      "comments": 85,
       "demandType": "工具选型",
       "opportunity": "做细分场景榜单、决策助手或模板库。",
       "score": 85
@@ -210,22 +223,9 @@
       "publishedRaw": "2026-09-10T01:03:58.000Z",
       "date": "2026-09-10",
       "points": 0,
-      "comments": 53,
+      "comments": 72,
       "demandType": "工具选型",
       "opportunity": "做细分场景榜单、决策助手或模板库。",
-      "score": 85
-    },
-    {
-      "title": "如何充值 chatgpt？ 救救孩子吧",
-      "summary": "首先，Apple 礼品卡这条路已经走不通了。 之前有一个美区 apple id 然后也这样充值过，但是后来由于使用的不够小心， 被 chatgpt 封了号，当然啦， 这个 apple id 也就废了。 上个月，注册了一个新的 apple id ，这个 apple id 可能触发...",
-      "link": "https://www.v2ex.com/t/1240984",
-      "source": "V2EX · 程序员",
-      "publishedRaw": "2026-09-10T04:09:00.000Z",
-      "date": "2026-09-10",
-      "points": 0,
-      "comments": 51,
-      "demandType": "操作难题",
-      "opportunity": "做一键化工具、教程产品或自动化脚本。",
       "score": 85
     },
     {
@@ -236,17 +236,17 @@
       "publishedRaw": "2026-09-10T01:27:32.000Z",
       "date": "2026-09-10",
       "points": 0,
-      "comments": 49,
+      "comments": 68,
       "demandType": "工具选型",
       "opportunity": "做细分场景榜单、决策助手或模板库。",
       "score": 85
     },
     {
       "title": "Exercise: Secure your Repository's Supply Chain",
-      "summary": "## Secure your Repository's Supply Chain 👋 Hey there @martharany! Welcome to your Skills exercise! Let's explore how to secure your reposi...",
-      "link": "https://github.com/martharany/skills-secure-repository-supply-chain/issues/1",
-      "source": "GitHub Issue · martharany/skills-secure-repository-supply-chain",
-      "publishedRaw": "2026-09-10T00:42:42Z",
+      "summary": "## Secure your Repository's Supply Chain 👋 Hey there @manoramathirty-sudo! Welcome to your Skills exercise! Let's explore how to secure yo...",
+      "link": "https://github.com/manoramathirty-sudo/skills-secure-repository-supply-chain/issues/1",
+      "source": "GitHub Issue · manoramathirty-sudo/skills-secure-repository-supply-chain",
+      "publishedRaw": "2026-09-10T09:29:14Z",
       "date": "2026-09-10",
       "points": 0,
       "comments": 14,
@@ -256,5 +256,5 @@
     }
   ],
   "sourceWarnings": [],
-  "markdown": "# 科技日报 · 2026-09-10\n\n生成时间：2026-09-10 15:51:25（北京时间 UTC+8）\n\n## 科技新闻（10 条）\n\n### 1. [vivo X500 手机四款配色官图首秀，9 月 21 日发布](https://www.ithome.com/1/000/812.htm)\n\n- 来源：IT之家 RSS · 2026-09-10\n- 摘要：IT之家 9 月 10 日消息，vivo X500 系列及智慧终端新品发布会将于 9 月 21 日 19:00 举行，官方今日首次公布 vivo X500 四款配色官图。 晴天｜一道彩虹，让心放晴； 晨曦｜破晓曦光，万物向明； 大地回声｜旷野星河，天地共鸣； 摄夜｜静谧夜色，晚风作伴。 根据目前官方预热信息，vivo X500 标准版搭载 1/1.28 英...\n\n### 2. [罗永浩狂喷苹果首款折叠屏手机 iPhone Duo，屏下摄像头、阔屏比例、内外屏无缝等全是“抄的”](https://www.ithome.com/1/000/810.htm)\n\n- 来源：IT之家 RSS · 2026-09-10\n- 摘要：IT之家 9 月 10 日消息，罗永浩今日在微博发文，以个人视角点评苹果旗下首款折叠屏手机 iPhone Duo。 罗永浩表示，这台手机的折叠机形态、屏下摄像头、矮胖的阔屏比例、侧面 Dock 栏、外屏 / 内屏无缝接力、多角度悬停、钛合金 3D 打印铰链盖全是“抄的”。 他还认为，苹果搞不定内屏折痕问题，所以不惜降低屏幕体验用雾面屏掩饰。这部分确实是原创...\n\n### 3. [零部件短缺，SNK 复刻版 NeoGeo AES 主机将推迟至明年 9 月上市](https://www.ithome.com/1/000/809.htm)\n\n- 来源：IT之家 RSS · 2026-09-10\n- 摘要：IT之家 9 月 10 日消息，据外媒 VGC 今天（10 日）报道，SNK 和 Plaion 宣布，受零部件短缺影响，原计划重新推出的 NeoGeo AES 主机将延期至 2027 年 9 月 16 日发售，比原计划推迟 10 个月。 两家公司在声明中表示，延期源于全球零部件供应受限，导致 无法生产足够数量的主机 ，从而为玩家带来应有的全球同步首发。 与...\n\n### 4. [采埃孚推出电机维修套件，可单独更换故障轴承而无需换总成](https://www.ithome.com/1/000/808.htm)\n\n- 来源：IT之家 RSS · 2026-09-10\n- 摘要：IT之家 9 月 10 日消息，轴承磨损并不一定意味着电动汽车驱动单元需要更换而非维修，虽然很多电动汽车都是这么处理的，但采埃孚希望借助新的电机维修套件来改变这一点，这些电机用于驱动电动汽车和混合动力汽车。 这家汽车零部件供应商宣布，作为其“维护 — 维修 — 更换”战略的一部分，将在未来几周推出 100 多种电驱桥维修套件版本。该战略在可行时优先维修部件...\n\n### 5. [印度政府机构建议对小米公司展开调查，我国外交部回应](https://www.ithome.com/1/000/807.htm)\n\n- 来源：IT之家 RSS · 2026-09-10\n- 摘要：IT之家 9 月 10 日消息，据澎湃新闻报道，外交部发言人郭嘉昆 9 月 10 日主持例行记者会。路透社记者提问，印度公司事务部下属的严重欺诈调查局（SFIO）建议对小米公司展开调查， 理由是小米公司在商业模式及遵守外商投资法规方面涉嫌违规 。请问外交部对此有何评论？ 郭嘉昆表示：“我不了解你提到的具体情况。中印经贸合作本质上是互利共赢的， 希望印方为各...\n\n### 6. [消息称松下新能源预计 2026 年第 4 季度出样全固态电池](https://www.ithome.com/1/000/806.htm)\n\n- 来源：IT之家 RSS · 2026-09-10\n- 摘要：IT之家 9 月 10 日消息，《日本经济新闻》报道称，松下新能源 (Panasonic Energy) 首席技术官渡边庄一郎在日本当地时间昨日举行的一次行业展会上表示， 该企业预计将在 2026 年第 4 季度启动全固态电池的出样 。 ▲ 松下新能源电池产品阵容 松下新能源的首批全固态电池样品体型小巧，直径约 1cm，采用纽扣或棱柱外形规格。其在 150...\n\n### 7. [苹果 iPhone 18 Pro/Max 全球售价对比：美国最低、土耳其最高，港版约为国行九折](https://www.ithome.com/1/000/805.htm)\n\n- 来源：IT之家 RSS · 2026-09-10\n- 摘要：IT之家 9 月 10 日消息，苹果最新发布的 iPhone 18 Pro 和 iPhone 18 Pro Max 已在全球多个市场公布售价。 根据各地区苹果官网价格及换算数据，同一机型在不同市场的售价差异较为明显，其中美国市场价格均为最低，土耳其各个版本均为最高。 首先，iPhone 18 Pro 和 iPhone 18 Pro Max 均提供 256G...\n\n### 8. [消息称微软 XBOX 可能尝试动态定价策略，吸引老玩家回归 XGP](https://www.ithome.com/1/000/803.htm)\n\n- 来源：IT之家 RSS · 2026-09-10\n- 摘要：IT之家 9 月 10 日消息，据外媒 MP1ST 前天报道，微软 XBOX 可能正在尝试动态定价策略，吸引曾经的 Xbox Game Pass 用户重新订阅。 据报道，目前已有部分海外玩家能够以 16.09 美元 （IT之家注：现汇率约合 108.2 元人民币） /月的价格订阅 XGPU。作为参考，该服务的标准售价是 22.99 美元 （现汇率约合 15...\n\n### 9. [《风火轮：无限冲刺》今日登陆 Steam：国区 248 元起，支持简体中文](https://www.ithome.com/1/000/780.htm)\n\n- 来源：IT之家 RSS · 2026-09-10\n- 摘要：IT之家 9 月 10 日消息，全球顶级玩具 IP HOT WHEELS（风火轮）全新竞速游戏《HOT WHEELS™ Infinite Rush》（中文译名为《风火轮：无限冲刺》）今日正式登陆 Steam 平台，本作由 Milestone S.r.l . 开发并发行，国区售价 248 元起，将于 2026 年 9 月 10 日正式解锁。 本作共推出三个版...\n\n### 10. [安克空间站 USB-C 高刷桌面拓展坞《无畏契约》限定版上架：699 元](https://www.ithome.com/1/000/802.htm)\n\n- 来源：IT之家 RSS · 2026-09-10\n- 摘要：IT之家 9 月 10 日消息，安克 (Anker) 现已在电商平台上架空间站 USB-C 高刷桌面拓展坞的《无畏契约》(VALORANT) 限定版。其首发到手价为 699 元（较 非限定版 高出 100 元），9 月 21 日 10:00 开售。 功能方面，该扩展坞正面提供 1 个 USB-C 10Gbps、1 组 SD / microSD UHD-I....\n\n## GitHub 热点（5 个）\n\n### 1. [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)\n\n- 元信息：Python · Stars 35,789 · Today +4650 · GitHub Trending\n- 中文释义：Python 项目，主要方向：AI / 大模型。\n- 原文简介：A skill to stop your coding agent from burying the answer. ADHD-friendly output.\n\n### 2. [Tencent/teamai-cli](https://github.com/Tencent/teamai-cli)\n\n- 元信息：TypeScript · Stars 3,322 · Today +556 · GitHub Trending\n- 中文释义：TypeScript 项目，主要方向：AI / 大模型、命令行与开发者工具。\n- 原文简介：Make Every Team AI Native\n\n### 3. [obra/superpowers](https://github.com/obra/superpowers)\n\n- 元信息：Shell · Stars 284,236 · Today +688 · GitHub Trending\n- 中文释义：Shell 项目，主要方向：开发框架或工具库、命令行与开发者工具。\n- 原文简介：An agentic skills framework & software development methodology that works.\n\n### 4. [pascalorg/editor](https://github.com/pascalorg/editor)\n\n- 元信息：TypeScript · Stars 23,134 · Today +107 · GitHub Trending\n- 中文释义：TypeScript 项目，主要方向：AI / 大模型、命令行与开发者工具。\n- 原文简介：Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.\n\n### 5. [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad)\n\n- 元信息：Python · Stars 15,212 · Today +124 · GitHub Trending\n- 中文释义：Python 项目，主要方向：AI / 大模型、开发框架或工具库。\n- 原文简介：A library of agent skills for CAD, CAE and CAM\n\n## AI Builders 动态（5 条）\n\n### 1. [One of the greatest joys is debating new model names with researchers. They come up with...](https://x.com/thsottiaux/status/2097912273264095536)\n\n- 来源：follow-builders X · 2026-09-10\n- 摘要：One of the greatest joys is debating new model names with researchers. They come up with the most hilarious stuff\n\n### 2. [Happy to be building here with you all. Lots to explore](https://x.com/thsottiaux/status/2097829053147582782)\n\n- 来源：follow-builders X · 2026-09-10\n- 摘要：Happy to be building here with you all. Lots to explore\n\n### 3. [There was a bit of a kerfuffle this morning with some banked resets not fully applying wh...](https://x.com/thsottiaux/status/2097752790177370535)\n\n- 来源：follow-builders X · 2026-09-10\n- 摘要：There was a bit of a kerfuffle this morning with some banked resets not fully applying when used in ChatGPT Work and Codex. Everyone who used one in...\n\n### 4. [When is this coming to mobile for Work and Remote Codex threads? Seems to be only availab...](https://x.com/petergyang/status/2097763574886375832)\n\n- 来源：follow-builders X · 2026-09-10\n- 摘要：When is this coming to mobile for Work and Remote Codex threads? Seems to be only available for Chat threads https://t.co/SjpzARwZfK\n\n### 5. [My favorite way to test a new model's thinking abilities: Ask it for brutally honest feed...](https://x.com/petergyang/status/2097729250505966046)\n\n- 来源：follow-builders X · 2026-09-10\n- 摘要：My favorite way to test a new model's thinking abilities: Ask it for brutally honest feedback about your blind spots that are holding you back with t...\n\n## 今日需求雷达（5 条）\n\n### 1. [东京夜生活-脱衣舞秀初体验](https://www.v2ex.com/t/1240875)\n\n- 需求强度：85/100\n- 痛点类型：工具选型\n- 产品机会：做细分场景榜单、决策助手或模板库。\n- 来源：V2EX · 东京 · 2026-09-10\n- 原文摘要：本次主要的镰仓行程游玩后便回到了东京，鉴于上次来东京已经游览了主要的景点，遂想着找点不一样的。 在询问了 ChatGPT 和留日的朋友后，得到的建议是：去见识一下“资本主义的灯红酒绿”，定下了本篇的行程。 浅草 Rockza 回到东京入住酒店后，便步行前往 Rockza 剧场所...\n\n### 2. [油皮有没有性价比高的洗面奶和爽肤水推荐？](https://www.v2ex.com/t/1240880)\n\n- 需求强度：85/100\n- 痛点类型：工具选型\n- 产品机会：做细分场景榜单、决策助手或模板库。\n- 来源：V2EX · 问与答 · 2026-09-10\n- 原文摘要：温和不刺激皮肤，目前在用 freeplus ，想看看有没有别的推荐\n\n### 3. [如何充值 chatgpt？ 救救孩子吧](https://www.v2ex.com/t/1240984)\n\n- 需求强度：85/100\n- 痛点类型：操作难题\n- 产品机会：做一键化工具、教程产品或自动化脚本。\n- 来源：V2EX · 程序员 · 2026-09-10\n- 原文摘要：首先，Apple 礼品卡这条路已经走不通了。 之前有一个美区 apple id 然后也这样充值过，但是后来由于使用的不够小心， 被 chatgpt 封了号，当然啦， 这个 apple id 也就废了。 上个月，注册了一个新的 apple id ，这个 apple id 可能触发...\n\n### 4. [感觉手里的 12pm 快坚持不住了，换的话推荐换哪款](https://www.v2ex.com/t/1240889)\n\n- 需求强度：85/100\n- 痛点类型：工具选型\n- 产品机会：做细分场景榜单、决策助手或模板库。\n- 来源：V2EX · Apple · 2026-09-10\n\n### 5. [Exercise: Secure your Repository's Supply Chain](https://github.com/martharany/skills-secure-repository-supply-chain/issues/1)\n\n- 需求强度：81/100\n- 痛点类型：操作难题\n- 产品机会：做一键化工具、教程产品或自动化脚本。\n- 来源：GitHub Issue · martharany/skills-secure-repository-supply-chain · 2026-09-10\n- 原文摘要：## Secure your Repository's Supply Chain 👋 Hey there @martharany! Welcome to your Skills exercise! Let's explore how to secure your reposi...\n"
+  "markdown": "# 科技日报 · 2026-09-10\n\n生成时间：2026-09-10 22:02:30（北京时间 UTC+8）\n\n## 科技新闻（10 条）\n\n### 1. [美国身份验证巨头 IDScan 承认数据泄露，超 1.5 亿张驾照信息被盗](https://www.ithome.com/1/001/008.htm)\n\n- 来源：IT之家 RSS · 2026-09-10\n- 摘要：IT之家 9 月 10 日消息，美国知名身份验证服务商 IDScan 本月（9 月 4 日）在官网承认，公司近期遭遇一起数据泄露事故。 IDScan 表示，黑客组织从公司的云端服务器窃取了驾照信息， 用户姓名、驾照号码、护照号码等信息遭到泄露 。 同时，该公司于 9 月 1 日前后收到数据被盗信息，后续证实事故确实存在。 独立安全研究员 Brian Kre...\n\n### 2. [新研究：少数电芯老化或致整个电动汽车电池包提前退役，最高浪费近三成潜在能量](https://www.ithome.com/1/001/007.htm)\n\n- 来源：IT之家 RSS · 2026-09-10\n- 摘要：IT之家 9 月 10 日消息，少数电芯老化，就可能让整个电动汽车电池包提前退役。中国科学院大连化学物理研究所陈忠伟教授与瑞典查尔姆斯理工大学邹长福教授带领团队，分析了 跨度超过 3 年的车辆运行数据 ，得出了这一发现。 据外媒 Interesting Engineering 今天（10 日）晚间报道，研究涵盖 搭载三元锂电池的乘用车和搭载磷酸铁锂电池的公...\n\n### 3. [业内首款，思特威推出集成 SerDes 与片上 ISP 车载 CMOS 图像传感器](https://www.ithome.com/1/001/006.htm)\n\n- 来源：IT之家 RSS · 2026-09-10\n- 摘要：IT之家 9 月 10 日消息，今日，思特威宣布正式推出 3MP 高性能车规级图像传感器升级新品 ——SC365AT。 据介绍，作为 业内首颗 集成 SerDes 与片上 ISP 的车载 CMOS 图像传感器，SC365AT 基于思特威 CARSens ® -XR Gen 2 工艺平台打造，采用 3.0µm 单像素设计与 Stacked BSI 工艺架构，...\n\n### 4. [给地球大气做“CT”有了统一标准，市场监管总局发布四项掩星探测国标](https://www.ithome.com/1/001/005.htm)\n\n- 来源：IT之家 RSS · 2026-09-10\n- 摘要：IT之家 9 月 10 日消息，近日，市场监管总局（国家标准委）批准发布《GNSS 掩星探测载荷技术条件》《GNSS 掩星探测数据质量检验要求》《GNSS 掩星数据产品类型及分级》《GNSS 掩星探测数据格式》四项推荐性国家标准。 IT之家从官方介绍获悉，该系列标准由中国气象局组织研制，覆盖掩星探测从硬件载荷到数据应用的全技术链条，为这项给地球大气做“CT...\n\n### 5. [谷歌推出 ADB Wi-Fi 2.0：无线调试速度最高提升 66%，连接稳定性大幅改善](https://www.ithome.com/1/001/004.htm)\n\n- 来源：IT之家 RSS · 2026-09-10\n- 摘要：IT之家 9 月 10 日消息，谷歌昨天宣布推出 Android 调试桥（ADB）Wi-Fi 2.0，新版本重新设计了三个核心组件，使无线调试速度更快、稳定性更好。 IT之家了解到，谷歌本次更新了 mDNS 协议栈和守护进程，提高连接可靠性。旧版 mDNS 有时会导致电脑与 Android 之间连接中断，新版会在电脑和设备连接到不受信网络时自动禁用连接，回...\n\n### 6. [吉利银河 TT 正式上市：定位 C 级 AI 纯电运动轿车，12.99 万-18.59 万元](https://www.ithome.com/1/001/003.htm)\n\n- 来源：IT之家 RSS · 2026-09-10\n- 摘要：IT之家 9 月 10 日消息，吉利银河旗下全新 C 级 AI 纯电运动轿车 —— 吉利银河 TT 今天（10 日）晚间正式上市，共推出五大版型，上市限时先享价为 12.99 万元-18.59 万元。 640 后驱尊享版：12.99 万元 640 后驱尊贵版：13.99 万元 640 后驱旗舰版：14.99 万元 725 后驱旗舰版：15.99 万元 Ul...\n\n### 7. [利用未成年人形象引流，抖音近一个月处置违规账号 8132 个](https://www.ithome.com/1/001/002.htm)\n\n- 来源：IT之家 RSS · 2026-09-10\n- 摘要：IT之家 9 月 10 日消息，抖音黑板报今日发布《抖音关于持续治理涉未成年人不良内容的公告》。 近期，平台发现，部分违规账号 借未成年相关标签制造争议话题、利用 AI 生成未成年人悲惨形象、伪装未成年人形象直播 ，以此博取流量、吸引关注，扰乱社区内容生态。对此，平台持续加强对违规内容的巡查、识别和处置力度。近一个月，针对涉未成年人的违规场景，平台共处置违...\n\n### 8. [马斯克“无聊公司”融资 30 亿美元，阿联酋领投](https://www.ithome.com/1/001/001.htm)\n\n- 来源：IT之家 RSS · 2026-09-10\n- 摘要：IT之家 9 月 10 日消息，据科技媒体 electrek 今天报道，马斯克旗下“无聊公司”（The Boring Company）已完成 30 亿美元 （IT之家注：现汇率约合 201.77 亿元人民币） D 轮融资，由阿拉伯联合酋长国领投。 据报道，本次投资使无聊公司估值达到 230 亿美元 （现汇率约合 1,546.87 亿元人民币） 。除阿联酋外...\n\n### 9. [上汽荣威家越 07 将于 9 月 21 日开启预售，综合续航 1480km](https://www.ithome.com/1/000/996.htm)\n\n- 来源：IT之家 RSS · 2026-09-10\n- 摘要：IT之家 9 月 10 日消息，据易车今天报道，上汽荣威家越 07 汽车将于 9 月 21 日开启预售。新车将采用增程动力，配备新一代 Momenta R7 世界模型高阶智能辅助驾驶方案， 综合续航可达 1480km 。 IT之家从原报道获悉，荣威家越 07 采用昂扬美学设计，提供龙晶紫、玛瑙灰、宝石蓝、珍溪黑、钻石白、翡翠绿等宝石车色，可选绵云青空、坚果...\n\n### 10. [首届 CMG 世界机器人登泰山大赛定档 10 月 29 日，参赛“选手”将挑战真实登山盘道](https://www.ithome.com/1/000/995.htm)\n\n- 来源：IT之家 RSS · 2026-09-10\n- 摘要：IT之家 9 月 10 日消息，据央视新闻今天（10 日）晚间报道，首届 CMG 世界机器人登泰山大赛将于 10 月 29 日举办。各路参赛机器人将挑战泰山真实登山盘道，比赛当天将在央视新闻、央视体育等总台重点新媒体平台直播，沉浸式呈现赛事盛况。 本次大赛是依托山地复杂路况打造的机器人专业赛事，共设置 2 条主赛道、4 个正式赛项、1 个特色挑战赛项 。....\n\n## GitHub 热点（5 个）\n\n### 1. [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd)\n\n- 元信息：Python · Stars 36,914 · Today +3854 · GitHub Trending\n- 中文释义：Python 项目，主要方向：AI / 大模型。\n- 原文简介：A skill to stop your coding agent from burying the answer. ADHD-friendly output.\n\n### 2. [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view)\n\n- 元信息：JavaScript · Stars 22,596 · Today +1588 · GitHub Trending\n- 中文释义：JavaScript 项目，主要方向：网页 / 前端体验。\n- 原文简介：A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.\n\n### 3. [obra/superpowers](https://github.com/obra/superpowers)\n\n- 元信息：Shell · Stars 284,446 · Today +731 · GitHub Trending\n- 中文释义：Shell 项目，主要方向：开发框架或工具库、命令行与开发者工具。\n- 原文简介：An agentic skills framework & software development methodology that works.\n\n### 4. [alsk1992/CloddsBot](https://github.com/alsk1992/CloddsBot)\n\n- 元信息：TypeScript · Stars 1,379 · Today +299 · GitHub Trending\n- 中文释义：TypeScript 项目，主要方向：AI / 大模型。\n- 原文简介：Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. S...\n\n### 5. [Tencent/teamai-cli](https://github.com/Tencent/teamai-cli)\n\n- 元信息：TypeScript · Stars 3,556 · Today +837 · GitHub Trending\n- 中文释义：TypeScript 项目，主要方向：AI / 大模型、命令行与开发者工具。\n- 原文简介：Make Every Team AI Native\n\n## AI Builders 动态（5 条）\n\n### 1. [One of the greatest joys is debating new model names with researchers. They come up with...](https://x.com/thsottiaux/status/2097912273264095536)\n\n- 来源：follow-builders X · 2026-09-10\n- 摘要：One of the greatest joys is debating new model names with researchers. They come up with the most hilarious stuff\n\n### 2. [Happy to be building here with you all. Lots to explore](https://x.com/thsottiaux/status/2097829053147582782)\n\n- 来源：follow-builders X · 2026-09-10\n- 摘要：Happy to be building here with you all. Lots to explore\n\n### 3. [There was a bit of a kerfuffle this morning with some banked resets not fully applying wh...](https://x.com/thsottiaux/status/2097752790177370535)\n\n- 来源：follow-builders X · 2026-09-10\n- 摘要：There was a bit of a kerfuffle this morning with some banked resets not fully applying when used in ChatGPT Work and Codex. Everyone who used one in...\n\n### 4. [When is this coming to mobile for Work and Remote Codex threads? Seems to be only availab...](https://x.com/petergyang/status/2097763574886375832)\n\n- 来源：follow-builders X · 2026-09-10\n- 摘要：When is this coming to mobile for Work and Remote Codex threads? Seems to be only available for Chat threads https://t.co/SjpzARwZfK\n\n### 5. [My favorite way to test a new model's thinking abilities: Ask it for brutally honest feed...](https://x.com/petergyang/status/2097729250505966046)\n\n- 来源：follow-builders X · 2026-09-10\n- 摘要：My favorite way to test a new model's thinking abilities: Ask it for brutally honest feedback about your blind spots that are holding you back with t...\n\n## 今日需求雷达（5 条）\n\n### 1. [如何充值 chatgpt？ 救救孩子吧](https://www.v2ex.com/t/1240984)\n\n- 需求强度：85/100\n- 痛点类型：操作难题\n- 产品机会：做一键化工具、教程产品或自动化脚本。\n- 来源：V2EX · 程序员 · 2026-09-10\n- 原文摘要：首先，Apple 礼品卡这条路已经走不通了。 之前有一个美区 apple id 然后也这样充值过，但是后来由于使用的不够小心， 被 chatgpt 封了号，当然啦， 这个 apple id 也就废了。 上个月，注册了一个新的 apple id ，这个 apple id 可能触发...\n\n### 2. [东京夜生活-脱衣舞秀初体验](https://www.v2ex.com/t/1240875)\n\n- 需求强度：85/100\n- 痛点类型：工具选型\n- 产品机会：做细分场景榜单、决策助手或模板库。\n- 来源：V2EX · 东京 · 2026-09-10\n- 原文摘要：本次主要的镰仓行程游玩后便回到了东京，鉴于上次来东京已经游览了主要的景点，遂想着找点不一样的。 在询问了 ChatGPT 和留日的朋友后，得到的建议是：去见识一下“资本主义的灯红酒绿”，定下了本篇的行程。 浅草 Rockza 回到东京入住酒店后，便步行前往 Rockza 剧场所...\n\n### 3. [油皮有没有性价比高的洗面奶和爽肤水推荐？](https://www.v2ex.com/t/1240880)\n\n- 需求强度：85/100\n- 痛点类型：工具选型\n- 产品机会：做细分场景榜单、决策助手或模板库。\n- 来源：V2EX · 问与答 · 2026-09-10\n- 原文摘要：温和不刺激皮肤，目前在用 freeplus ，想看看有没有别的推荐\n\n### 4. [感觉手里的 12pm 快坚持不住了，换的话推荐换哪款](https://www.v2ex.com/t/1240889)\n\n- 需求强度：85/100\n- 痛点类型：工具选型\n- 产品机会：做细分场景榜单、决策助手或模板库。\n- 来源：V2EX · Apple · 2026-09-10\n\n### 5. [Exercise: Secure your Repository's Supply Chain](https://github.com/manoramathirty-sudo/skills-secure-repository-supply-chain/issues/1)\n\n- 需求强度：81/100\n- 痛点类型：操作难题\n- 产品机会：做一键化工具、教程产品或自动化脚本。\n- 来源：GitHub Issue · manoramathirty-sudo/skills-secure-repository-supply-chain · 2026-09-10\n- 原文摘要：## Secure your Repository's Supply Chain 👋 Hey there @manoramathirty-sudo! Welcome to your Skills exercise! Let's explore how to secure yo...\n"
 }
