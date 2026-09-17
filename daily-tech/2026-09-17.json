@@ -1,0 +1,260 @@
+{
+  "date": "2026-09-17",
+  "generatedAt": "2026-09-17 16:21:50",
+  "timezone": "Asia/Shanghai",
+  "timezoneLabel": "北京时间 UTC+8",
+  "newsCount": 10,
+  "githubCount": 5,
+  "builderSignalCount": 5,
+  "demandSignalCount": 5,
+  "news": [
+    {
+      "title": "英国国王查尔斯三世召开论坛，呼吁英伟达、OpenAI、谷歌等巨头掌控好 AI 技术",
+      "link": "https://www.ithome.com/1/003/678.htm",
+      "summary": "IT之家 9 月 17 日消息，据彭博社今天（17 日）下午报道，英国国王查尔斯三世计划请 AI 领域的几位核心人物作出保证， 确认自己有能力掌控自己开发的技术 。 当地时间 17 日（今天），英伟达 CEO 黄仁勋、OpenAI CFO 莎拉 · 弗莱尔和谷歌 DeepMind 联合创始人德米斯 · 哈萨比斯，将出席查尔斯三世在苏格兰邓弗里斯庄园召集的...",
+      "publishedRaw": "Thu, 17 Sep 2026 08:20:45 GMT",
+      "date": "2026-09-17",
+      "source": "IT之家 RSS"
+    },
+    {
+      "title": "广电总局：全国微短剧用户已超 8 亿，2025 年市场规模突破千亿元",
+      "link": "https://www.ithome.com/1/003/675.htm",
+      "summary": "IT之家 9 月 17 日消息，今天（17 日），国务院新闻办公室举行“开局起步‘十五五’”系列主题新闻发布会，国家广播电视总局（简称广电总局）有关负责人介绍“十五五”时期加快推动广播电视和网络视听高质量发展有关情况。 发布会上介绍， 全国微短剧用户已超 8 亿 ，2025 年市场规模突破千亿元。今年前 8 个月，上线微短剧 43 万部，是去年全年的 13...",
+      "publishedRaw": "Thu, 17 Sep 2026 08:20:29 GMT",
+      "date": "2026-09-17",
+      "source": "IT之家 RSS"
+    },
+    {
+      "title": "索尼 PS Plus 会员限时优惠：港服高级会员 12 个月 1000 港元 → 750 港元",
+      "link": "https://www.ithome.com/1/003/670.htm",
+      "summary": "IT之家 9 月 17 日消息，索尼 PSN 港服现已开启新一轮 PS Plus 会员限时优惠，基本、升级、高级档位的会员 12 月方案均有不同程度优惠， 截止日期为 9 月 30 日 。 IT之家附各档位会员优惠如下： 基本 12 个月：原价 500 港元 （IT之家注：现汇率约合 428.5 元人民币） ，现价 425 港元 （现汇率约合 364.2...",
+      "publishedRaw": "Thu, 17 Sep 2026 08:18:34 GMT",
+      "date": "2026-09-17",
+      "source": "IT之家 RSS"
+    },
+    {
+      "title": "Anthropic Claude 改版：聊天与 Cowork 界面合并，还能做 PPT 了",
+      "link": "https://www.ithome.com/1/003/667.htm",
+      "summary": "IT之家 9 月 17 日消息，Anthropic 正在合并 Claude 聊天界面与 Cowork 的前端页面，以此降低用户的选择困惑，不必再纠结不同任务究竟该点开哪一个功能标签页。 全新的统一界面允许用户在同一个窗口内使用对话聊天、Cowork 以及 Artifacts（Claude 交互式工作区功能）。今年 4 月推出、用于网页与原型设计的 Clau...",
+      "publishedRaw": "Thu, 17 Sep 2026 08:15:59 GMT",
+      "date": "2026-09-17",
+      "source": "IT之家 RSS"
+    },
+    {
+      "title": "小米公布澎湃 OS 4 正式版推送计划：10 月 15 日开启首批存量机型推送",
+      "link": "https://www.ithome.com/1/003/642.htm",
+      "summary": "IT之家 9 月 17 日消息，小米澎湃 OS 公告君今日官方发布公告，公布了 小米澎湃 OS 4 正式版的推送计划，明确了正式版首批推送的开启时间。 小米澎湃 OS 公告君表示， 小米澎湃 OS 4 正式版将于 10 月 15 日开启首批存量机型推送 ，并将在后续陆续覆盖更多机型。官方欢迎用户积极升级使用并反馈问题，官方也将持续迭代优化系统体验。 公告同...",
+      "publishedRaw": "Thu, 17 Sep 2026 08:06:36 GMT",
+      "date": "2026-09-17",
+      "source": "IT之家 RSS"
+    },
+    {
+      "title": "部分 Windows Server 2022 用户反馈安装 9 月微软更新后出现打印机连接故障",
+      "link": "https://www.ithome.com/1/003/646.htm",
+      "summary": "IT之家 9 月 17 日消息，科技媒体 NeoWin 今天（9 月 17 日）发布博文，报道称 Windows Server 2022、Windows 10 系统在安装微软 9 月累积更新之后， 出现打印机连接故障。 Windows Server 2022 系统安装 9 月更新 KB5122882 后，远程桌面打印、共享打印机连接可能出现故障，用户反馈安...",
+      "publishedRaw": "Thu, 17 Sep 2026 08:08:56 GMT",
+      "date": "2026-09-17",
+      "source": "IT之家 RSS"
+    },
+    {
+      "title": "台积电 COO 米玉杰：AI 像三岁超人，在尖端芯片设计上不太实用",
+      "link": "https://www.ithome.com/1/003/641.htm",
+      "summary": "IT之家 9 月 17 日消息，台积电一名高层管理人员将人工智能比作拥有超强能力却尚不辨是非的幼童，以此解释该公司对待这项技术为何采取谨慎态度。 IT之家注意到，台积电在利用人工智能处理研发敏感信息方面尤为审慎，公司共同首席运营官米玉杰（ Y.J . Mii）于本周二发表了上述看法。他着重提醒，如果员工对 AI 使用不当，就会出现数据泄露或遗失的风险；并且...",
+      "publishedRaw": "Thu, 17 Sep 2026 08:05:12 GMT",
+      "date": "2026-09-17",
+      "source": "IT之家 RSS"
+    },
+    {
+      "title": "消息称日美两国商讨晶圆厂合作，或采用日本投资、格罗方德运营模式",
+      "link": "https://www.ithome.com/1/003/631.htm",
+      "summary": "IT之家 9 月 17 日消息，《日经亚洲》当地时间今日报道称，日本和美国正就在美国建设一座由日本投资的半导体工厂进行商讨。 该拟议项目总价值有望达 2~3 万亿日元 （IT之家注：现汇率约合 863.36 ~ 1,295.04 亿元人民币） ，由 GlobalFoundries （格罗方德）负责运营，预计用于逻辑半导体的生产。 日本政府此前根据关税协议承...",
+      "publishedRaw": "Thu, 17 Sep 2026 08:02:25 GMT",
+      "date": "2026-09-17",
+      "source": "IT之家 RSS"
+    },
+    {
+      "title": "中国内地第二位：薛其坤院士获得 2026 年度引文桂冠奖，研究成果具有诺贝尔奖级别影响力",
+      "link": "https://www.ithome.com/1/003/625.htm",
+      "summary": "IT之家 9 月 17 日消息，2026 年度引文桂冠奖名单今日正式揭晓，22 位杰出科学家获奖。 其中， 中国科学院院士、南方科技大学校长、清华大学教授薛其坤凭借量子反常霍尔效应的实验观测入选该名单 。这也是第二次有中国内地的科学家获得引文桂冠奖。 去年，中国科学院院士、中国科学院大连化学物理研究所研究员 张涛 因在单原子催化领域的开创性工作成为首位上榜...",
+      "publishedRaw": "Thu, 17 Sep 2026 08:01:17 GMT",
+      "date": "2026-09-17",
+      "source": "IT之家 RSS"
+    },
+    {
+      "title": "珠海八部门联合整治中小学周边商户“小时租机”乱象，拒绝未成年人违规租机",
+      "link": "https://www.ithome.com/1/003/619.htm",
+      "summary": "IT之家 9 月 17 日消息，据“珠海公安”公众号发文，珠海市委政法委、珠海市委网信办、珠海市中级人民法院、珠海市人民检察院、珠海市教育局、珠海市公安局、珠海市文化广电旅游体育局、珠海市市场监督管理局近日发布《关于拒绝向未成年人违规提供手机租赁服务的倡议书》。 IT之家从该倡议书了解到，珠海市部分中小学周边商户以“手机租赁”“小时租机”“共享游戏机”等名...",
+      "publishedRaw": "Thu, 17 Sep 2026 07:59:22 GMT",
+      "date": "2026-09-17",
+      "source": "IT之家 RSS"
+    }
+  ],
+  "githubHot": [
+    {
+      "name": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comm...",
+      "language": "Go",
+      "stars": "33,061",
+      "starsToday": "3231",
+      "source": "GitHub Trending",
+      "chineseMeaning": "Go 项目，主要方向：AI / 大模型。"
+    },
+    {
+      "name": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "stars": "8,345",
+      "starsToday": "927",
+      "source": "GitHub Trending",
+      "chineseMeaning": "JavaScript 项目，主要方向：AI / 大模型、安全与隐私。"
+    },
+    {
+      "name": "JustVugg/colibri",
+      "url": "https://github.com/JustVugg/colibri",
+      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "language": "C",
+      "stars": "35,293",
+      "starsToday": "1546",
+      "source": "GitHub Trending",
+      "chineseMeaning": "C 项目，主要方向：AI / 大模型。"
+    },
+    {
+      "name": "abue-ammar/tinycast",
+      "url": "https://github.com/abue-ammar/tinycast",
+      "description": "Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.",
+      "language": "Swift",
+      "stars": "5,831",
+      "starsToday": "1179",
+      "source": "GitHub Trending",
+      "chineseMeaning": "Swift 项目，可理解为：围绕“Tinycast — a tiny, fully native macOS launcher, hotke...”的开源项目。"
+    },
+    {
+      "name": "jamiepine/voicebox",
+      "url": "https://github.com/jamiepine/voicebox",
+      "description": "The open-source AI voice studio. Clone, dictate, create.",
+      "language": "TypeScript",
+      "stars": "54,622",
+      "starsToday": "417",
+      "source": "GitHub Trending",
+      "chineseMeaning": "TypeScript 项目，主要方向：AI / 大模型、多媒体生成与处理。"
+    }
+  ],
+  "builderSignals": [
+    {
+      "title": "Also today: Claude Docs, Claude Slides, and Claude Design are in every conversation. Ask...",
+      "summary": "Also today: Claude Docs, Claude Slides, and Claude Design are in every conversation. Ask Claude for a presentation and you get one you can open, edit...",
+      "author": "",
+      "link": "https://x.com/bcherny/status/2100260544087535639",
+      "publishedRaw": "2026-09-16T16:28:29.000Z",
+      "date": "2026-09-17",
+      "source": "follow-builders X"
+    },
+    {
+      "title": "Claude Code showed that AI could do real work, not just answer questions. Developers hand...",
+      "summary": "Claude Code showed that AI could do real work, not just answer questions. Developers hand Claude a feature, come back to shipped code. That's where m...",
+      "author": "",
+      "link": "https://x.com/bcherny/status/2100259951398789487",
+      "publishedRaw": "2026-09-16T16:26:08.000Z",
+      "date": "2026-09-17",
+      "source": "follow-builders X"
+    },
+    {
+      "title": "Sometimes physics can't be cheated https://t.co/Sgt4KrRtut",
+      "summary": "Sometimes physics can't be cheated https://t.co/Sgt4KrRtut",
+      "author": "",
+      "link": "https://x.com/thsottiaux/status/2100363668051603608",
+      "publishedRaw": "2026-09-16T23:18:15.000Z",
+      "date": "2026-09-17",
+      "source": "follow-builders X"
+    },
+    {
+      "title": "Astra ✅ Fast ✅ Frontier ✅ Efficient ✅ For everyone https://t.co/g4C7UizHcd",
+      "summary": "Astra ✅ Fast ✅ Frontier ✅ Efficient ✅ For everyone https://t.co/g4C7UizHcd",
+      "author": "",
+      "link": "https://x.com/thsottiaux/status/2100297380968997327",
+      "publishedRaw": "2026-09-16T18:54:51.000Z",
+      "date": "2026-09-17",
+      "source": "follow-builders X"
+    },
+    {
+      "title": "What is ChatGPT",
+      "summary": "What is ChatGPT",
+      "author": "",
+      "link": "https://x.com/thsottiaux/status/2100295443620007993",
+      "publishedRaw": "2026-09-16T18:47:10.000Z",
+      "date": "2026-09-17",
+      "source": "follow-builders X"
+    }
+  ],
+  "demandSignals": [
+    {
+      "title": "各位老哥，在哪里可以约地陪呢？绿色（简单互动）的就行。",
+      "summary": "国庆假期想去郑州、洛阳等地方走走逛逛；一个人又觉得无聊，所以想约个年轻活泼好看点的妹子陪玩。说说话、聊聊天、牵牵小手啥的。但找不到途径。 抖音上刷到一个专门搞地陪的账号，询问了下价格：绿色，每小时收费 380-450 元，包天（ 10 小时） 3800 。这还是最低档。我的妈呀...",
+      "link": "https://www.v2ex.com/t/1242685",
+      "source": "V2EX · 问与答",
+      "publishedRaw": "2026-09-17T05:47:18.000Z",
+      "date": "2026-09-17",
+      "points": 0,
+      "comments": 99,
+      "demandType": "潜在需求",
+      "opportunity": "继续观察同类问题频次，寻找可产品化入口。",
+      "score": 85
+    },
+    {
+      "title": "哪家信用卡用着体验好些",
+      "summary": "目前接触了招行和工商行，招行感觉 app 用着很舒服，但是信用卡权益用的不多(好像有周三折扣券之类的，没具体了解)，工商行消费会有豆子，平时消费能抵押或者兑换物品 最近招行一直推送升白金卡，但是了解下来之后好像也没必要升，不知道是不是漏掉的哪些关键信息，有了解的大佬求告知下",
+      "link": "https://www.v2ex.com/t/1242616",
+      "source": "V2EX · 问与答",
+      "publishedRaw": "2026-09-17T02:24:47.000Z",
+      "date": "2026-09-17",
+      "points": 0,
+      "comments": 82,
+      "demandType": "潜在需求",
+      "opportunity": "继续观察同类问题频次，寻找可产品化入口。",
+      "score": 85
+    },
+    {
+      "title": "[感慨]不知不觉已经几个月没有打开过 vscode 了, vibecoding 还真是完全重构了我的工作习惯.",
+      "summary": "回忆最初的 gpt3 时代, 一开始是手动复制怀疑的代码片段到网页上, gpt 辅助我翻译代码 debug. 到后来 copilot 时代来临, 写好注释之后无限 tab, 惊为天人. 再之后的 vibecoding 推出, 我从最初的不信任,必须使用 vscode 插件, 不...",
+      "link": "https://www.v2ex.com/t/1242582",
+      "source": "V2EX · 程序员",
+      "publishedRaw": "2026-09-17T01:21:42.000Z",
+      "date": "2026-09-17",
+      "points": 0,
+      "comments": 66,
+      "demandType": "产品缺陷",
+      "opportunity": "针对高频缺陷做修复型小工具或兼容层。",
+      "score": 85
+    },
+    {
+      "title": "refactor(app): raise outside-score through measured architecture patterns",
+      "summary": "## Context Schema: 1. Campaign ID: milocaetano/quantick#525. Raise outside-score rubric v1.0 by about two overall points from the historica...",
+      "link": "https://github.com/milocaetano/quantick/issues/525",
+      "source": "GitHub Issue · milocaetano/quantick",
+      "publishedRaw": "2026-09-17T03:33:34Z",
+      "date": "2026-09-17",
+      "points": 0,
+      "comments": 158,
+      "demandType": "潜在需求",
+      "opportunity": "继续观察同类问题频次，寻找可产品化入口。",
+      "score": 60
+    },
+    {
+      "title": "chore(docs): sync improvements from the kurone-kito/template repository",
+      "summary": "## Goal Bring this repository's shared scaffolding (AI-agent instruction files, git metadata, security policy, lint configuration, and smal...",
+      "link": "https://github.com/kurone-kito/setup.windows/issues/188",
+      "source": "GitHub Issue · kurone-kito/setup.windows",
+      "publishedRaw": "2026-09-17T07:44:46Z",
+      "date": "2026-09-17",
+      "points": 0,
+      "comments": 26,
+      "demandType": "潜在需求",
+      "opportunity": "继续观察同类问题频次，寻找可产品化入口。",
+      "score": 60
+    }
+  ],
+  "sourceWarnings": [],
+  "markdown": "# 科技日报 · 2026-09-17\n\n生成时间：2026-09-17 16:21:50（北京时间 UTC+8）\n\n## 科技新闻（10 条）\n\n### 1. [英国国王查尔斯三世召开论坛，呼吁英伟达、OpenAI、谷歌等巨头掌控好 AI 技术](https://www.ithome.com/1/003/678.htm)\n\n- 来源：IT之家 RSS · 2026-09-17\n- 摘要：IT之家 9 月 17 日消息，据彭博社今天（17 日）下午报道，英国国王查尔斯三世计划请 AI 领域的几位核心人物作出保证， 确认自己有能力掌控自己开发的技术 。 当地时间 17 日（今天），英伟达 CEO 黄仁勋、OpenAI CFO 莎拉 · 弗莱尔和谷歌 DeepMind 联合创始人德米斯 · 哈萨比斯，将出席查尔斯三世在苏格兰邓弗里斯庄园召集的....\n\n### 2. [广电总局：全国微短剧用户已超 8 亿，2025 年市场规模突破千亿元](https://www.ithome.com/1/003/675.htm)\n\n- 来源：IT之家 RSS · 2026-09-17\n- 摘要：IT之家 9 月 17 日消息，今天（17 日），国务院新闻办公室举行“开局起步‘十五五’”系列主题新闻发布会，国家广播电视总局（简称广电总局）有关负责人介绍“十五五”时期加快推动广播电视和网络视听高质量发展有关情况。 发布会上介绍， 全国微短剧用户已超 8 亿 ，2025 年市场规模突破千亿元。今年前 8 个月，上线微短剧 43 万部，是去年全年的 13...\n\n### 3. [索尼 PS Plus 会员限时优惠：港服高级会员 12 个月 1000 港元 → 750 港元](https://www.ithome.com/1/003/670.htm)\n\n- 来源：IT之家 RSS · 2026-09-17\n- 摘要：IT之家 9 月 17 日消息，索尼 PSN 港服现已开启新一轮 PS Plus 会员限时优惠，基本、升级、高级档位的会员 12 月方案均有不同程度优惠， 截止日期为 9 月 30 日 。 IT之家附各档位会员优惠如下： 基本 12 个月：原价 500 港元 （IT之家注：现汇率约合 428.5 元人民币） ，现价 425 港元 （现汇率约合 364.2....\n\n### 4. [Anthropic Claude 改版：聊天与 Cowork 界面合并，还能做 PPT 了](https://www.ithome.com/1/003/667.htm)\n\n- 来源：IT之家 RSS · 2026-09-17\n- 摘要：IT之家 9 月 17 日消息，Anthropic 正在合并 Claude 聊天界面与 Cowork 的前端页面，以此降低用户的选择困惑，不必再纠结不同任务究竟该点开哪一个功能标签页。 全新的统一界面允许用户在同一个窗口内使用对话聊天、Cowork 以及 Artifacts（Claude 交互式工作区功能）。今年 4 月推出、用于网页与原型设计的 Clau...\n\n### 5. [小米公布澎湃 OS 4 正式版推送计划：10 月 15 日开启首批存量机型推送](https://www.ithome.com/1/003/642.htm)\n\n- 来源：IT之家 RSS · 2026-09-17\n- 摘要：IT之家 9 月 17 日消息，小米澎湃 OS 公告君今日官方发布公告，公布了 小米澎湃 OS 4 正式版的推送计划，明确了正式版首批推送的开启时间。 小米澎湃 OS 公告君表示， 小米澎湃 OS 4 正式版将于 10 月 15 日开启首批存量机型推送 ，并将在后续陆续覆盖更多机型。官方欢迎用户积极升级使用并反馈问题，官方也将持续迭代优化系统体验。 公告同...\n\n### 6. [部分 Windows Server 2022 用户反馈安装 9 月微软更新后出现打印机连接故障](https://www.ithome.com/1/003/646.htm)\n\n- 来源：IT之家 RSS · 2026-09-17\n- 摘要：IT之家 9 月 17 日消息，科技媒体 NeoWin 今天（9 月 17 日）发布博文，报道称 Windows Server 2022、Windows 10 系统在安装微软 9 月累积更新之后， 出现打印机连接故障。 Windows Server 2022 系统安装 9 月更新 KB5122882 后，远程桌面打印、共享打印机连接可能出现故障，用户反馈安...\n\n### 7. [台积电 COO 米玉杰：AI 像三岁超人，在尖端芯片设计上不太实用](https://www.ithome.com/1/003/641.htm)\n\n- 来源：IT之家 RSS · 2026-09-17\n- 摘要：IT之家 9 月 17 日消息，台积电一名高层管理人员将人工智能比作拥有超强能力却尚不辨是非的幼童，以此解释该公司对待这项技术为何采取谨慎态度。 IT之家注意到，台积电在利用人工智能处理研发敏感信息方面尤为审慎，公司共同首席运营官米玉杰（ Y.J . Mii）于本周二发表了上述看法。他着重提醒，如果员工对 AI 使用不当，就会出现数据泄露或遗失的风险；并且...\n\n### 8. [消息称日美两国商讨晶圆厂合作，或采用日本投资、格罗方德运营模式](https://www.ithome.com/1/003/631.htm)\n\n- 来源：IT之家 RSS · 2026-09-17\n- 摘要：IT之家 9 月 17 日消息，《日经亚洲》当地时间今日报道称，日本和美国正就在美国建设一座由日本投资的半导体工厂进行商讨。 该拟议项目总价值有望达 2~3 万亿日元 （IT之家注：现汇率约合 863.36 ~ 1,295.04 亿元人民币） ，由 GlobalFoundries （格罗方德）负责运营，预计用于逻辑半导体的生产。 日本政府此前根据关税协议承...\n\n### 9. [中国内地第二位：薛其坤院士获得 2026 年度引文桂冠奖，研究成果具有诺贝尔奖级别影响力](https://www.ithome.com/1/003/625.htm)\n\n- 来源：IT之家 RSS · 2026-09-17\n- 摘要：IT之家 9 月 17 日消息，2026 年度引文桂冠奖名单今日正式揭晓，22 位杰出科学家获奖。 其中， 中国科学院院士、南方科技大学校长、清华大学教授薛其坤凭借量子反常霍尔效应的实验观测入选该名单 。这也是第二次有中国内地的科学家获得引文桂冠奖。 去年，中国科学院院士、中国科学院大连化学物理研究所研究员 张涛 因在单原子催化领域的开创性工作成为首位上榜...\n\n### 10. [珠海八部门联合整治中小学周边商户“小时租机”乱象，拒绝未成年人违规租机](https://www.ithome.com/1/003/619.htm)\n\n- 来源：IT之家 RSS · 2026-09-17\n- 摘要：IT之家 9 月 17 日消息，据“珠海公安”公众号发文，珠海市委政法委、珠海市委网信办、珠海市中级人民法院、珠海市人民检察院、珠海市教育局、珠海市公安局、珠海市文化广电旅游体育局、珠海市市场监督管理局近日发布《关于拒绝向未成年人违规提供手机租赁服务的倡议书》。 IT之家从该倡议书了解到，珠海市部分中小学周边商户以“手机租赁”“小时租机”“共享游戏机”等名...\n\n## GitHub 热点（5 个）\n\n### 1. [alibaba/open-code-review](https://github.com/alibaba/open-code-review)\n\n- 元信息：Go · Stars 33,061 · Today +3231 · GitHub Trending\n- 中文释义：Go 项目，主要方向：AI / 大模型。\n- 原文简介：Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comm...\n\n### 2. [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)\n\n- 元信息：JavaScript · Stars 8,345 · Today +927 · GitHub Trending\n- 中文释义：JavaScript 项目，主要方向：AI / 大模型、安全与隐私。\n- 原文简介：A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings\n\n### 3. [JustVugg/colibri](https://github.com/JustVugg/colibri)\n\n- 元信息：C · Stars 35,293 · Today +1546 · GitHub Trending\n- 中文释义：C 项目，主要方向：AI / 大模型。\n- 原文简介：Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦\n\n### 4. [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast)\n\n- 元信息：Swift · Stars 5,831 · Today +1179 · GitHub Trending\n- 中文释义：Swift 项目，可理解为：围绕“Tinycast — a tiny, fully native macOS launcher, hotke...”的开源项目。\n- 原文简介：Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.\n\n### 5. [jamiepine/voicebox](https://github.com/jamiepine/voicebox)\n\n- 元信息：TypeScript · Stars 54,622 · Today +417 · GitHub Trending\n- 中文释义：TypeScript 项目，主要方向：AI / 大模型、多媒体生成与处理。\n- 原文简介：The open-source AI voice studio. Clone, dictate, create.\n\n## AI Builders 动态（5 条）\n\n### 1. [Also today: Claude Docs, Claude Slides, and Claude Design are in every conversation. Ask...](https://x.com/bcherny/status/2100260544087535639)\n\n- 来源：follow-builders X · 2026-09-17\n- 摘要：Also today: Claude Docs, Claude Slides, and Claude Design are in every conversation. Ask Claude for a presentation and you get one you can open, edit...\n\n### 2. [Claude Code showed that AI could do real work, not just answer questions. Developers hand...](https://x.com/bcherny/status/2100259951398789487)\n\n- 来源：follow-builders X · 2026-09-17\n- 摘要：Claude Code showed that AI could do real work, not just answer questions. Developers hand Claude a feature, come back to shipped code. That's where m...\n\n### 3. [Sometimes physics can't be cheated https://t.co/Sgt4KrRtut](https://x.com/thsottiaux/status/2100363668051603608)\n\n- 来源：follow-builders X · 2026-09-17\n- 摘要：Sometimes physics can't be cheated https://t.co/Sgt4KrRtut\n\n### 4. [Astra ✅ Fast ✅ Frontier ✅ Efficient ✅ For everyone https://t.co/g4C7UizHcd](https://x.com/thsottiaux/status/2100297380968997327)\n\n- 来源：follow-builders X · 2026-09-17\n- 摘要：Astra ✅ Fast ✅ Frontier ✅ Efficient ✅ For everyone https://t.co/g4C7UizHcd\n\n### 5. [What is ChatGPT](https://x.com/thsottiaux/status/2100295443620007993)\n\n- 来源：follow-builders X · 2026-09-17\n- 摘要：What is ChatGPT\n\n## 今日需求雷达（5 条）\n\n### 1. [各位老哥，在哪里可以约地陪呢？绿色（简单互动）的就行。](https://www.v2ex.com/t/1242685)\n\n- 需求强度：85/100\n- 痛点类型：潜在需求\n- 产品机会：继续观察同类问题频次，寻找可产品化入口。\n- 来源：V2EX · 问与答 · 2026-09-17\n- 原文摘要：国庆假期想去郑州、洛阳等地方走走逛逛；一个人又觉得无聊，所以想约个年轻活泼好看点的妹子陪玩。说说话、聊聊天、牵牵小手啥的。但找不到途径。 抖音上刷到一个专门搞地陪的账号，询问了下价格：绿色，每小时收费 380-450 元，包天（ 10 小时） 3800 。这还是最低档。我的妈呀...\n\n### 2. [哪家信用卡用着体验好些](https://www.v2ex.com/t/1242616)\n\n- 需求强度：85/100\n- 痛点类型：潜在需求\n- 产品机会：继续观察同类问题频次，寻找可产品化入口。\n- 来源：V2EX · 问与答 · 2026-09-17\n- 原文摘要：目前接触了招行和工商行，招行感觉 app 用着很舒服，但是信用卡权益用的不多(好像有周三折扣券之类的，没具体了解)，工商行消费会有豆子，平时消费能抵押或者兑换物品 最近招行一直推送升白金卡，但是了解下来之后好像也没必要升，不知道是不是漏掉的哪些关键信息，有了解的大佬求告知下\n\n### 3. [[感慨\\]不知不觉已经几个月没有打开过 vscode 了, vibecoding 还真是完全重构了我的工作习惯.](https://www.v2ex.com/t/1242582)\n\n- 需求强度：85/100\n- 痛点类型：产品缺陷\n- 产品机会：针对高频缺陷做修复型小工具或兼容层。\n- 来源：V2EX · 程序员 · 2026-09-17\n- 原文摘要：回忆最初的 gpt3 时代, 一开始是手动复制怀疑的代码片段到网页上, gpt 辅助我翻译代码 debug. 到后来 copilot 时代来临, 写好注释之后无限 tab, 惊为天人. 再之后的 vibecoding 推出, 我从最初的不信任,必须使用 vscode 插件, 不...\n\n### 4. [refactor(app): raise outside-score through measured architecture patterns](https://github.com/milocaetano/quantick/issues/525)\n\n- 需求强度：60/100\n- 痛点类型：潜在需求\n- 产品机会：继续观察同类问题频次，寻找可产品化入口。\n- 来源：GitHub Issue · milocaetano/quantick · 2026-09-17\n- 原文摘要：## Context Schema: 1. Campaign ID: milocaetano/quantick#525. Raise outside-score rubric v1.0 by about two overall points from the historica...\n\n### 5. [chore(docs): sync improvements from the kurone-kito/template repository](https://github.com/kurone-kito/setup.windows/issues/188)\n\n- 需求强度：60/100\n- 痛点类型：潜在需求\n- 产品机会：继续观察同类问题频次，寻找可产品化入口。\n- 来源：GitHub Issue · kurone-kito/setup.windows · 2026-09-17\n- 原文摘要：## Goal Bring this repository's shared scaffolding (AI-agent instruction files, git metadata, security policy, lint configuration, and smal...\n"
+}
