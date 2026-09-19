@@ -1,0 +1,247 @@
+{
+  "date": "2026-09-19",
+  "generatedAt": "2026-09-19 15:47:41",
+  "timezone": "Asia/Shanghai",
+  "timezoneLabel": "北京时间 UTC+8",
+  "newsCount": 10,
+  "githubCount": 5,
+  "builderSignalCount": 5,
+  "demandSignalCount": 4,
+  "news": [
+    {
+      "title": "荣耀 Magic9 系列手机搭载行业独家双 3D 生物识别，9 月 28 日发布",
+      "link": "https://www.ithome.com/1/004/456.htm",
+      "summary": "IT之家 9 月 19 日消息，荣耀手机今日宣布，荣耀 Magic9 系列带来行业独家双 3D 生物识别，包括 3D 超声波指纹识别与 3D 人脸识别。 荣耀 Magic 盛典暨荣耀 Magic9 系列新品发布会将于 9 月 28 日在北京举行，目前博主 @数码闲聊站 已曝光荣耀 Magic9 系列手机规格信息，IT之家整理如下： 荣耀 Magic9： 6...",
+      "publishedRaw": "Sat, 19 Sep 2026 07:43:36 GMT",
+      "date": "2026-09-19",
+      "source": "IT之家 RSS"
+    },
+    {
+      "title": "全新猛士 M817 获推 OTA 升级，带来华为乾崑智驾 ADS 5",
+      "link": "https://www.ithome.com/1/004/455.htm",
+      "summary": "IT之家 9 月 19 日消息，猛士汽车今日宣布，全新猛士 M817 获推 OTA 升级，将带来华为乾崑智驾 ADS 5 版本，同时座舱功能全面升级。 官方表示，受猛士 M817 各年款配置差异影响，升级将分批次推送：全新猛士 M817 先行升级， 2025 款猛士 M817 的华为乾崑智驾 ADS 5 预计于 2026 年 10 月下旬推送 。本次 OT...",
+      "publishedRaw": "Sat, 19 Sep 2026 07:34:03 GMT",
+      "date": "2026-09-19",
+      "source": "IT之家 RSS"
+    },
+    {
+      "title": "《僵尸世界大战》电影续集重启：布拉德 · 皮特回归主演",
+      "link": "https://www.ithome.com/1/004/454.htm",
+      "summary": "IT之家 9 月 19 日消息，媒体 Deadline 昨日（9 月 18 日）发布博文，报道称派拉蒙影业已敲定《僵尸世界大战》（World War Z）续集核心阵容， 布拉德 · 皮特（Brad Pitt）回归主演并担任制片人，爱德华 · 伯格（Edward Berger）执导，丹尼斯 · 凯利（Dennis Kelly）编剧。 IT之家查询公开资料，《...",
+      "publishedRaw": "Sat, 19 Sep 2026 07:32:50 GMT",
+      "date": "2026-09-19",
+      "source": "IT之家 RSS"
+    },
+    {
+      "title": "《魔兽世界：无限》游戏 Beta 热度超预期，暴雪设计师称数据创 17 年所见峰值",
+      "link": "https://www.ithome.com/1/004/453.htm",
+      "summary": "IT之家 9 月 19 日消息，游戏媒体 gamesradar 今天（9 月 19 日）发布博文，报道称《魔兽世界：无限》（World of Warcraft Forever）于 9 月 17 日开启 Beta 测试后，短时间内涌入大量玩家，服务器随即出现排队、掉线和服务中断。 暴雪高级游戏设计师乔什 · 格林菲尔德（Josh Greenfield）称，...",
+      "publishedRaw": "Sat, 19 Sep 2026 07:20:51 GMT",
+      "date": "2026-09-19",
+      "source": "IT之家 RSS"
+    },
+    {
+      "title": "Meta CTO 博斯沃思：不希望少数“坏人”影响公众对 Meta 智能眼镜的看法",
+      "link": "https://www.ithome.com/1/004/451.htm",
+      "summary": "IT之家 9 月 19 日消息，据《商业内幕》今天（19 日）报道，Meta CTO 安德鲁 · 博斯沃思认为，少数恶意用户不应该主导外界对 Meta 智能眼镜的讨论。 博斯沃思在个人 Instagram 举行 AMA 问答时，被问到了 Meta 智能眼镜引发的隐私问题。他回答说：“我不希望有关 Meta 智能眼镜的讨论完全被相对少数的恶意用户左右。 绝大...",
+      "publishedRaw": "Sat, 19 Sep 2026 07:15:54 GMT",
+      "date": "2026-09-19",
+      "source": "IT之家 RSS"
+    },
+    {
+      "title": "阿里千问发布同声传译大模型 Qwen3.8-LiveTranslate，支持原文译文同帧同出",
+      "link": "https://www.ithome.com/1/004/450.htm",
+      "summary": "IT之家 9 月 19 日消息，阿里千问今日发布同声传译大模型 Qwen3.8-LiveTranslate ，模型以 Interleave 架构重构实时同传，准确度、流畅度、简洁度全面提升，字均延迟（LAAL）从 2.8 秒降至 2.3 秒。 官方表示，在 支持 60 种语言 的基础上，Qwen3.8-LiveTranslate 新增三项能力 让同传更广泛...",
+      "publishedRaw": "Sat, 19 Sep 2026 07:14:27 GMT",
+      "date": "2026-09-19",
+      "source": "IT之家 RSS"
+    },
+    {
+      "title": "腾讯元宝鸿蒙版 1.0.0.123 上架尝鲜，支持快速回答、深度思考等",
+      "link": "https://www.ithome.com/1/004/449.htm",
+      "summary": "IT之家 9 月 19 日消息，据多名IT之家网友反馈，腾讯元宝鸿蒙版 App 今日在华为应用市场上架尝鲜，版本号为 1.0.0.123 (3532088)，活动时间为 2026/9/19-2026/10/19。 官方介绍显示，元宝是一款可深度思考的全能 AI 助手，提供 AI 智能新体验。 支持 Hy4 preview、Hy3、DeepSeek 模型，支...",
+      "publishedRaw": "Sat, 19 Sep 2026 07:11:58 GMT",
+      "date": "2026-09-19",
+      "source": "IT之家 RSS"
+    },
+    {
+      "title": "研究显示：格陵兰和南极冰盖 1979~2023 年损失约 11.3 万亿吨冰",
+      "link": "https://www.ithome.com/1/004/447.htm",
+      "summary": "IT之家 9 月 19 日消息，据央视报道，一项基于卫星数据的最新国际研究显示，1979 年至 2023 年，格陵兰和南极冰盖合计损失约 11.3 万亿吨冰，对应全球平均海平面上升 3.14 厘米。 该研究由冰盖质量平衡比对计划（IMBIE）团队完成，相关论文已于 9 月 16 日发表在《自然》子刊《Scientific Data》上。 瑞典乌普萨拉大学研...",
+      "publishedRaw": "Sat, 19 Sep 2026 07:04:42 GMT",
+      "date": "2026-09-19",
+      "source": "IT之家 RSS"
+    },
+    {
+      "title": "零跑 A10 车型 OTA 升级：新增 360 后视镜调节入口、记忆泊车，优化城市领航辅助等",
+      "link": "https://www.ithome.com/1/004/446.htm",
+      "summary": "IT之家 9 月 19 日消息，零跑汽车今日宣布零跑 A10 车型迎来 OTA 升级，已于 9 月 19 日陆续开启推送。本次新增 360 后视镜调节入口、记忆泊车等 6 项功能，优化城市领航辅助、辅助驾驶语音播报等 8 项功能。 IT之家整理如下： 新增 360 新增后视镜调节入口（适配 403 舒享版、403 悦享版、505 悦享版、505 激光雷达版...",
+      "publishedRaw": "Sat, 19 Sep 2026 07:01:18 GMT",
+      "date": "2026-09-19",
+      "source": "IT之家 RSS"
+    },
+    {
+      "title": "微软 Word 接入 ChatGPT，用户可 AI 起草、改写与校对文档",
+      "link": "https://www.ithome.com/1/004/444.htm",
+      "summary": "IT之家 9 月 19 日消息，科技媒体 NeoWin 今天（9 月 19 日）发布博文，报道称 OpenAI 开放 ChatGPT for Microsoft Word， 免费用户也可在 Word 侧边栏调用 ChatGPT。 IT之家附上相关截图如下： 在适用范围上，现在所有 ChatGPT 套餐（包括免费版）均可使用。用户安装后，可在 Word 内看...",
+      "publishedRaw": "Sat, 19 Sep 2026 06:57:25 GMT",
+      "date": "2026-09-19",
+      "source": "IT之家 RSS"
+    }
+  ],
+  "githubHot": [
+    {
+      "name": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "stars": "14,436",
+      "starsToday": "3006",
+      "source": "GitHub Trending",
+      "chineseMeaning": "JavaScript 项目，主要方向：AI / 大模型、安全与隐私。"
+    },
+    {
+      "name": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, e...",
+      "language": "TypeScript",
+      "stars": "146,435",
+      "starsToday": "444",
+      "source": "GitHub Trending",
+      "chineseMeaning": "TypeScript 项目，主要方向：AI / 大模型、命令行与开发者工具。"
+    },
+    {
+      "name": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-le...",
+      "language": "Go",
+      "stars": "36,986",
+      "starsToday": "2704",
+      "source": "GitHub Trending",
+      "chineseMeaning": "Go 项目，主要方向：AI / 大模型。"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Openco...",
+      "language": "JavaScript",
+      "stars": "262,307",
+      "starsToday": "958",
+      "source": "GitHub Trending",
+      "chineseMeaning": "JavaScript 项目，主要方向：AI / 大模型、安全与隐私。"
+    },
+    {
+      "name": "Tencent/BrowserSkill",
+      "url": "https://github.com/Tencent/BrowserSkill",
+      "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI age...",
+      "language": "TypeScript",
+      "stars": "5,496",
+      "starsToday": "1306",
+      "source": "GitHub Trending",
+      "chineseMeaning": "TypeScript 项目，主要方向：AI / 大模型、网页 / 前端体验、命令行与开发者工具。"
+    }
+  ],
+  "builderSignals": [
+    {
+      "title": "We were working on the keynote today with @romainhuet and @sama and most of the fun was t...",
+      "summary": "We were working on the keynote today with @romainhuet and @sama and most of the fun was trying to figure out how to explain it all to you because the...",
+      "author": "",
+      "link": "https://x.com/thsottiaux/status/2101157729037586694",
+      "publishedRaw": "2026-09-19T03:53:34.000Z",
+      "date": "2026-09-19",
+      "source": "follow-builders X"
+    },
+    {
+      "title": "How smart AI gets is inversely correlated with my ability to compose a coherent sentence...",
+      "summary": "How smart AI gets is inversely correlated with my ability to compose a coherent sentence with no spelling or grammar mistakes",
+      "author": "",
+      "link": "https://x.com/petergyang/status/2101104320897040627",
+      "publishedRaw": "2026-09-19T00:21:21.000Z",
+      "date": "2026-09-19",
+      "source": "follow-builders X"
+    },
+    {
+      "title": "I find this phone transcript from @Muse on how it negotiated $288 in annual savings for m...",
+      "summary": "I find this phone transcript from @Muse on how it negotiated $288 in annual savings for my Comcast cable bill super fascinating. Honestly, I think mo...",
+      "author": "",
+      "link": "https://x.com/petergyang/status/2101083891507593576",
+      "publishedRaw": "2026-09-18T23:00:10.000Z",
+      "date": "2026-09-19",
+      "source": "follow-builders X"
+    },
+    {
+      "title": "Meta's @Muse is the best personal agent I've tried to date. It actually save me $800+ a y...",
+      "summary": "Meta's @Muse is the best personal agent I've tried to date. It actually save me $800+ a year on my cable and phone bills, which is just insane value...",
+      "author": "",
+      "link": "https://x.com/petergyang/status/2101033599319613533",
+      "publishedRaw": "2026-09-18T19:40:20.000Z",
+      "date": "2026-09-19",
+      "source": "follow-builders X"
+    },
+    {
+      "title": "The pre-roll was legendary https://t.co/fhXhCIFSup",
+      "summary": "The pre-roll was legendary https://t.co/fhXhCIFSup",
+      "author": "",
+      "link": "https://x.com/thenanyu/status/2101140304976056779",
+      "publishedRaw": "2026-09-19T02:44:20.000Z",
+      "date": "2026-09-19",
+      "source": "follow-builders X"
+    }
+  ],
+  "demandSignals": [
+    {
+      "title": "看图，好像确实是这样子",
+      "summary": "自从 AI 出来后，包括我自己，也是兴致冲冲的开发了 Launchx 来 自用，好像是个人都能指挥 AI 开发出自己的产品。 我不否认，AI 在企业级项目上还不能做到很完美，但是工具类的东西，几乎没有不能完成的。 就说 V2EX 的 ios 客户端吧，v 站上就看到了很多个，挨...",
+      "link": "https://www.v2ex.com/t/1243104",
+      "source": "V2EX · 独立开发",
+      "publishedRaw": "2026-09-19T01:17:46.000Z",
+      "date": "2026-09-19",
+      "points": 0,
+      "comments": 24,
+      "demandType": "操作难题",
+      "opportunity": "做一键化工具、教程产品或自动化脚本。",
+      "score": 85
+    },
+    {
+      "title": "找工作暂时完结，转行啦",
+      "summary": "前情提要：软测 6 年，gap 半年之后找了半个月，4 终面 0offer 在意识到这行好像要完蛋了之后，我就立刻开始准备转行了，分别先找了教培相关，ate 相关的一些信息，发现现在这些也没那么好转 然后转机出现在我发的一个帖子里，有人说以我 c9 本的学历，为什么还要去 bo...",
+      "link": "https://www.v2ex.com/t/1243028",
+      "source": "V2EX · 职场话题",
+      "publishedRaw": "2026-09-18T09:17:36.000Z",
+      "date": "2026-09-18",
+      "points": 0,
+      "comments": 44,
+      "demandType": "潜在需求",
+      "opportunity": "继续观察同类问题频次，寻找可产品化入口。",
+      "score": 85
+    },
+    {
+      "title": "大便时好时不好，纠结要不要去检查",
+      "summary": "本人 35 岁 前段时间午饭后偶尔肚子不舒服(想拉肚子那种不适)，经常拉稀 后来特意留意三餐尽可能规律干净，早上包子鸡蛋稀饭，午饭基本老乡鸡，晚饭也尽可能保证干净卫生，但偶尔还会肚子不舒服想拉稀，一般刚拉出来的比较正常，后面就是稀的，偶尔也会拉成形大便 除了成不成形的问题，也留...",
+      "link": "https://www.v2ex.com/t/1243029",
+      "source": "V2EX · 健康",
+      "publishedRaw": "2026-09-18T09:26:23.000Z",
+      "date": "2026-09-18",
+      "points": 0,
+      "comments": 21,
+      "demandType": "潜在需求",
+      "opportunity": "继续观察同类问题频次，寻找可产品化入口。",
+      "score": 84
+    },
+    {
+      "title": "Sales calculation tool for Excel price lists",
+      "summary": "",
+      "link": "https://news.ycombinator.com/item?id=49753697",
+      "source": "Hacker News Ask HN",
+      "publishedRaw": "2026-09-18T12:51:35Z",
+      "date": "2026-09-18",
+      "points": 1,
+      "comments": 1,
+      "demandType": "价格敏感",
+      "opportunity": "做低价替代、开源版本或按量付费方案。",
+      "score": 69
+    }
+  ],
+  "sourceWarnings": [],
+  "markdown": "# 科技日报 · 2026-09-19\n\n生成时间：2026-09-19 15:47:41（北京时间 UTC+8）\n\n## 科技新闻（10 条）\n\n### 1. [荣耀 Magic9 系列手机搭载行业独家双 3D 生物识别，9 月 28 日发布](https://www.ithome.com/1/004/456.htm)\n\n- 来源：IT之家 RSS · 2026-09-19\n- 摘要：IT之家 9 月 19 日消息，荣耀手机今日宣布，荣耀 Magic9 系列带来行业独家双 3D 生物识别，包括 3D 超声波指纹识别与 3D 人脸识别。 荣耀 Magic 盛典暨荣耀 Magic9 系列新品发布会将于 9 月 28 日在北京举行，目前博主 @数码闲聊站 已曝光荣耀 Magic9 系列手机规格信息，IT之家整理如下： 荣耀 Magic9： 6...\n\n### 2. [全新猛士 M817 获推 OTA 升级，带来华为乾崑智驾 ADS 5](https://www.ithome.com/1/004/455.htm)\n\n- 来源：IT之家 RSS · 2026-09-19\n- 摘要：IT之家 9 月 19 日消息，猛士汽车今日宣布，全新猛士 M817 获推 OTA 升级，将带来华为乾崑智驾 ADS 5 版本，同时座舱功能全面升级。 官方表示，受猛士 M817 各年款配置差异影响，升级将分批次推送：全新猛士 M817 先行升级， 2025 款猛士 M817 的华为乾崑智驾 ADS 5 预计于 2026 年 10 月下旬推送 。本次 OT...\n\n### 3. [《僵尸世界大战》电影续集重启：布拉德 · 皮特回归主演](https://www.ithome.com/1/004/454.htm)\n\n- 来源：IT之家 RSS · 2026-09-19\n- 摘要：IT之家 9 月 19 日消息，媒体 Deadline 昨日（9 月 18 日）发布博文，报道称派拉蒙影业已敲定《僵尸世界大战》（World War Z）续集核心阵容， 布拉德 · 皮特（Brad Pitt）回归主演并担任制片人，爱德华 · 伯格（Edward Berger）执导，丹尼斯 · 凯利（Dennis Kelly）编剧。 IT之家查询公开资料，《...\n\n### 4. [《魔兽世界：无限》游戏 Beta 热度超预期，暴雪设计师称数据创 17 年所见峰值](https://www.ithome.com/1/004/453.htm)\n\n- 来源：IT之家 RSS · 2026-09-19\n- 摘要：IT之家 9 月 19 日消息，游戏媒体 gamesradar 今天（9 月 19 日）发布博文，报道称《魔兽世界：无限》（World of Warcraft Forever）于 9 月 17 日开启 Beta 测试后，短时间内涌入大量玩家，服务器随即出现排队、掉线和服务中断。 暴雪高级游戏设计师乔什 · 格林菲尔德（Josh Greenfield）称，....\n\n### 5. [Meta CTO 博斯沃思：不希望少数“坏人”影响公众对 Meta 智能眼镜的看法](https://www.ithome.com/1/004/451.htm)\n\n- 来源：IT之家 RSS · 2026-09-19\n- 摘要：IT之家 9 月 19 日消息，据《商业内幕》今天（19 日）报道，Meta CTO 安德鲁 · 博斯沃思认为，少数恶意用户不应该主导外界对 Meta 智能眼镜的讨论。 博斯沃思在个人 Instagram 举行 AMA 问答时，被问到了 Meta 智能眼镜引发的隐私问题。他回答说：“我不希望有关 Meta 智能眼镜的讨论完全被相对少数的恶意用户左右。 绝大...\n\n### 6. [阿里千问发布同声传译大模型 Qwen3.8-LiveTranslate，支持原文译文同帧同出](https://www.ithome.com/1/004/450.htm)\n\n- 来源：IT之家 RSS · 2026-09-19\n- 摘要：IT之家 9 月 19 日消息，阿里千问今日发布同声传译大模型 Qwen3.8-LiveTranslate ，模型以 Interleave 架构重构实时同传，准确度、流畅度、简洁度全面提升，字均延迟（LAAL）从 2.8 秒降至 2.3 秒。 官方表示，在 支持 60 种语言 的基础上，Qwen3.8-LiveTranslate 新增三项能力 让同传更广泛...\n\n### 7. [腾讯元宝鸿蒙版 1.0.0.123 上架尝鲜，支持快速回答、深度思考等](https://www.ithome.com/1/004/449.htm)\n\n- 来源：IT之家 RSS · 2026-09-19\n- 摘要：IT之家 9 月 19 日消息，据多名IT之家网友反馈，腾讯元宝鸿蒙版 App 今日在华为应用市场上架尝鲜，版本号为 1.0.0.123 (3532088)，活动时间为 2026/9/19-2026/10/19。 官方介绍显示，元宝是一款可深度思考的全能 AI 助手，提供 AI 智能新体验。 支持 Hy4 preview、Hy3、DeepSeek 模型，支...\n\n### 8. [研究显示：格陵兰和南极冰盖 1979~2023 年损失约 11.3 万亿吨冰](https://www.ithome.com/1/004/447.htm)\n\n- 来源：IT之家 RSS · 2026-09-19\n- 摘要：IT之家 9 月 19 日消息，据央视报道，一项基于卫星数据的最新国际研究显示，1979 年至 2023 年，格陵兰和南极冰盖合计损失约 11.3 万亿吨冰，对应全球平均海平面上升 3.14 厘米。 该研究由冰盖质量平衡比对计划（IMBIE）团队完成，相关论文已于 9 月 16 日发表在《自然》子刊《Scientific Data》上。 瑞典乌普萨拉大学研...\n\n### 9. [零跑 A10 车型 OTA 升级：新增 360 后视镜调节入口、记忆泊车，优化城市领航辅助等](https://www.ithome.com/1/004/446.htm)\n\n- 来源：IT之家 RSS · 2026-09-19\n- 摘要：IT之家 9 月 19 日消息，零跑汽车今日宣布零跑 A10 车型迎来 OTA 升级，已于 9 月 19 日陆续开启推送。本次新增 360 后视镜调节入口、记忆泊车等 6 项功能，优化城市领航辅助、辅助驾驶语音播报等 8 项功能。 IT之家整理如下： 新增 360 新增后视镜调节入口（适配 403 舒享版、403 悦享版、505 悦享版、505 激光雷达版...\n\n### 10. [微软 Word 接入 ChatGPT，用户可 AI 起草、改写与校对文档](https://www.ithome.com/1/004/444.htm)\n\n- 来源：IT之家 RSS · 2026-09-19\n- 摘要：IT之家 9 月 19 日消息，科技媒体 NeoWin 今天（9 月 19 日）发布博文，报道称 OpenAI 开放 ChatGPT for Microsoft Word， 免费用户也可在 Word 侧边栏调用 ChatGPT。 IT之家附上相关截图如下： 在适用范围上，现在所有 ChatGPT 套餐（包括免费版）均可使用。用户安装后，可在 Word 内看...\n\n## GitHub 热点（5 个）\n\n### 1. [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)\n\n- 元信息：JavaScript · Stars 14,436 · Today +3006 · GitHub Trending\n- 中文释义：JavaScript 项目，主要方向：AI / 大模型、安全与隐私。\n- 原文简介：A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings\n\n### 2. [anthropics/claude-code](https://github.com/anthropics/claude-code)\n\n- 元信息：TypeScript · Stars 146,435 · Today +444 · GitHub Trending\n- 中文释义：TypeScript 项目，主要方向：AI / 大模型、命令行与开发者工具。\n- 原文简介：Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, e...\n\n### 3. [alibaba/open-code-review](https://github.com/alibaba/open-code-review)\n\n- 元信息：Go · Stars 36,986 · Today +2704 · GitHub Trending\n- 中文释义：Go 项目，主要方向：AI / 大模型。\n- 原文简介：Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-le...\n\n### 4. [affaan-m/ECC](https://github.com/affaan-m/ECC)\n\n- 元信息：JavaScript · Stars 262,307 · Today +958 · GitHub Trending\n- 中文释义：JavaScript 项目，主要方向：AI / 大模型、安全与隐私。\n- 原文简介：The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Openco...\n\n### 5. [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill)\n\n- 元信息：TypeScript · Stars 5,496 · Today +1306 · GitHub Trending\n- 中文释义：TypeScript 项目，主要方向：AI / 大模型、网页 / 前端体验、命令行与开发者工具。\n- 原文简介：Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI age...\n\n## AI Builders 动态（5 条）\n\n### 1. [We were working on the keynote today with @romainhuet and @sama and most of the fun was t...](https://x.com/thsottiaux/status/2101157729037586694)\n\n- 来源：follow-builders X · 2026-09-19\n- 摘要：We were working on the keynote today with @romainhuet and @sama and most of the fun was trying to figure out how to explain it all to you because the...\n\n### 2. [How smart AI gets is inversely correlated with my ability to compose a coherent sentence...](https://x.com/petergyang/status/2101104320897040627)\n\n- 来源：follow-builders X · 2026-09-19\n- 摘要：How smart AI gets is inversely correlated with my ability to compose a coherent sentence with no spelling or grammar mistakes\n\n### 3. [I find this phone transcript from @Muse on how it negotiated $288 in annual savings for m...](https://x.com/petergyang/status/2101083891507593576)\n\n- 来源：follow-builders X · 2026-09-19\n- 摘要：I find this phone transcript from @Muse on how it negotiated $288 in annual savings for my Comcast cable bill super fascinating. Honestly, I think mo...\n\n### 4. [Meta's @Muse is the best personal agent I've tried to date. It actually save me $800+ a y...](https://x.com/petergyang/status/2101033599319613533)\n\n- 来源：follow-builders X · 2026-09-19\n- 摘要：Meta's @Muse is the best personal agent I've tried to date. It actually save me $800+ a year on my cable and phone bills, which is just insane value...\n\n### 5. [The pre-roll was legendary https://t.co/fhXhCIFSup](https://x.com/thenanyu/status/2101140304976056779)\n\n- 来源：follow-builders X · 2026-09-19\n- 摘要：The pre-roll was legendary https://t.co/fhXhCIFSup\n\n## 今日需求雷达（4 条）\n\n### 1. [看图，好像确实是这样子](https://www.v2ex.com/t/1243104)\n\n- 需求强度：85/100\n- 痛点类型：操作难题\n- 产品机会：做一键化工具、教程产品或自动化脚本。\n- 来源：V2EX · 独立开发 · 2026-09-19\n- 原文摘要：自从 AI 出来后，包括我自己，也是兴致冲冲的开发了 Launchx 来 自用，好像是个人都能指挥 AI 开发出自己的产品。 我不否认，AI 在企业级项目上还不能做到很完美，但是工具类的东西，几乎没有不能完成的。 就说 V2EX 的 ios 客户端吧，v 站上就看到了很多个，挨...\n\n### 2. [找工作暂时完结，转行啦](https://www.v2ex.com/t/1243028)\n\n- 需求强度：85/100\n- 痛点类型：潜在需求\n- 产品机会：继续观察同类问题频次，寻找可产品化入口。\n- 来源：V2EX · 职场话题 · 2026-09-18\n- 原文摘要：前情提要：软测 6 年，gap 半年之后找了半个月，4 终面 0offer 在意识到这行好像要完蛋了之后，我就立刻开始准备转行了，分别先找了教培相关，ate 相关的一些信息，发现现在这些也没那么好转 然后转机出现在我发的一个帖子里，有人说以我 c9 本的学历，为什么还要去 bo...\n\n### 3. [大便时好时不好，纠结要不要去检查](https://www.v2ex.com/t/1243029)\n\n- 需求强度：84/100\n- 痛点类型：潜在需求\n- 产品机会：继续观察同类问题频次，寻找可产品化入口。\n- 来源：V2EX · 健康 · 2026-09-18\n- 原文摘要：本人 35 岁 前段时间午饭后偶尔肚子不舒服(想拉肚子那种不适)，经常拉稀 后来特意留意三餐尽可能规律干净，早上包子鸡蛋稀饭，午饭基本老乡鸡，晚饭也尽可能保证干净卫生，但偶尔还会肚子不舒服想拉稀，一般刚拉出来的比较正常，后面就是稀的，偶尔也会拉成形大便 除了成不成形的问题，也留...\n\n### 4. [Sales calculation tool for Excel price lists](https://news.ycombinator.com/item?id=49753697)\n\n- 需求强度：69/100\n- 痛点类型：价格敏感\n- 产品机会：做低价替代、开源版本或按量付费方案。\n- 来源：Hacker News Ask HN · 2026-09-18\n"
+}
