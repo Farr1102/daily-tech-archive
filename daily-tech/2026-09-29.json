@@ -1,0 +1,221 @@
+{
+  "date": "2026-09-29",
+  "generatedAt": "2026-09-29 01:56:53",
+  "timezone": "Asia/Shanghai",
+  "timezoneLabel": "北京时间 UTC+8",
+  "newsCount": 10,
+  "githubCount": 5,
+  "builderSignalCount": 5,
+  "demandSignalCount": 2,
+  "news": [
+    {
+      "title": "Highlights from Git 2.56",
+      "link": "https://github.blog/open-source/git/highlights-from-git-2-56/",
+      "summary": "The open source Git project just released Git 2.56. Here is GitHub's look at some of the most interesting features and changes introduced since last time. The post Highlights from...",
+      "publishedRaw": "Mon, 28 Sep 2026 17:23:33 +0000",
+      "date": "2026-09-29",
+      "source": "GitHub Blog"
+    },
+    {
+      "title": "The problem is not AI code, but not knowing about system architecture or intent",
+      "link": "https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/",
+      "summary": "249 points · 167 comments",
+      "publishedRaw": "2026-09-28T16:11:42Z",
+      "date": "2026-09-29",
+      "source": "Hacker News"
+    },
+    {
+      "title": "13 Months Sober (2025)",
+      "link": "https://www.bobbytables.io/p/13-months-sober",
+      "summary": "59 points · 47 comments",
+      "publishedRaw": "2026-09-28T16:11:40Z",
+      "date": "2026-09-29",
+      "source": "Hacker News"
+    },
+    {
+      "title": "马斯克 SpaceX 成功完成星舰第 14 次试飞，首次入轨、返回、溅落并部署 26 颗卫星",
+      "link": "https://www.ithome.com/1/008/065.htm",
+      "summary": "IT之家 9 月 28 日消息，北京时间 20 时 48 分，SpaceX 星舰在得克萨斯州星际基地开启第 14 次试飞，首次尝试将上级飞船送入地球轨道。 升空约 6 分 50 秒之后，超重型助推器 B21 按计划完成溅落。随着 S41 刚刚完成溅落，SpaceX 首次实现星舰轨道飞行，为此次任务划上了一个相对圆满的句号。 由于星舰一台真空发动机出现故障，...",
+      "publishedRaw": "Mon, 28 Sep 2026 15:59:50 GMT",
+      "date": "2026-09-28",
+      "source": "IT之家 RSS"
+    },
+    {
+      "title": "Manus：正组建团队开发面向国内市场的产品，与国产模型厂商合作稳步进行中",
+      "link": "https://www.ithome.com/1/008/064.htm",
+      "summary": "IT之家 9 月 28 日消息，北京蝴蝶效应科技有限公司公众号今日发文，宣布面向海外用户发布 Manus 2.0 版本，并推出面向个人生活场景的智能助理 Cue。 Manus 表示，公司正在组建团队开发面向国内市场的产品，与国产模型厂商及生态伙伴的合作也在稳步进行，后续将分享更多进展。 IT之家注：Cue 被定位为面向个人生活场景的智能助理，Manus 2...",
+      "publishedRaw": "Mon, 28 Sep 2026 15:33:58 GMT",
+      "date": "2026-09-28",
+      "source": "IT之家 RSS"
+    },
+    {
+      "title": "长城大狗 HEV 混动版车型上市，限时换新价 10.59 万元起",
+      "link": "https://www.ithome.com/1/008/063.htm",
+      "summary": "IT之家 9 月 28 日消息，哈弗汽车宣布长城大狗 HEV 混动版正式上市。新车提供两驱和四驱车型，限时优惠换新价 10.59 万元起。 三款车型分别为 Hi2 电混 Pro 版、Hi4 电混 MAX 版和 Hi4 电混 MAX 领航版。建议零售价分别为 11.99 万元、12.99 万元和 13.79 万元，限时优惠换新价分别为 10.59 万元、11...",
+      "publishedRaw": "Mon, 28 Sep 2026 15:27:32 GMT",
+      "date": "2026-09-28",
+      "source": "IT之家 RSS"
+    },
+    {
+      "title": "HMD 106 Pure 手机悄然发布，仅支持 2G 网络",
+      "link": "https://www.ithome.com/1/008/062.htm",
+      "summary": "IT之家 9 月 28 日消息，HMD 现已在巴基斯坦市场悄然推出 106 Pure 手机。这款产品是功能手机，仅支持 GSM 网络， 售价 3250 巴基斯坦卢比（IT之家注：现汇率合人民币 78.81 元） 。 据介绍，这款手机提供深灰色、青绿色两种配色可选，搭载紫光展锐 6531E 芯片。 规格方面， 该手机配备一块 1.8 英寸 QQVGA（120...",
+      "publishedRaw": "Mon, 28 Sep 2026 15:19:05 GMT",
+      "date": "2026-09-28",
+      "source": "IT之家 RSS"
+    },
+    {
+      "title": "美国 FBI 确认遭黑客袭击：员工姓名、住址及社安号码等信息被泄露",
+      "link": "https://www.ithome.com/1/008/061.htm",
+      "summary": "IT之家 9 月 28 日消息，据 MS NOW，美国联邦调查局（FBI）已向员工通报一起“网络安全事件”，确认其求职网站 FBIJobs.gov 遭入侵，包括员工的社会安全号码、住址、职位等信息都已被泄露。 当地时间 9 月 22 日，黑客组织 ShinyHunters 声称窃取了大量 FBI 员工及求职者数据。 FBI 于当地时间 2026 年 9 月...",
+      "publishedRaw": "Mon, 28 Sep 2026 15:15:52 GMT",
+      "date": "2026-09-28",
+      "source": "IT之家 RSS"
+    },
+    {
+      "title": "AI 初创公司 Instinct 完成 10 亿美元融资，投后估值达 100 亿美元",
+      "link": "https://www.ithome.com/1/008/060.htm",
+      "summary": "IT之家 9 月 28 日消息，据路透社今天报道，人工智能初创公司 Instinct 现已完成 10 亿美元 （IT之家注：现汇率约合 67.19 亿元人民币） 融资， 投后估值达到 100 亿美元 （现汇率约合 671.95 亿元人民币 ） ，反映出市场对 AI 智能体兴趣持续高涨。 据报道，本轮融资由红杉资本、基准资本和 Coatue 参与。Insti...",
+      "publishedRaw": "Mon, 28 Sep 2026 15:08:19 GMT",
+      "date": "2026-09-28",
+      "source": "IT之家 RSS"
+    },
+    {
+      "title": "央视起底手机弹窗广告乱象：“快应用”被滥用，违法成本远低于收益",
+      "link": "https://www.ithome.com/1/008/059.htm",
+      "summary": "IT之家 9 月 28 日消息，据央视新闻今日报道，深圳一名女士因邻居家起火报警，接警员发短信要求上传现场视频，点击后却弹出手机浏览器开屏广告，误触跳转耽误约一分钟。消防部门称，短信链接本身无广告，弹窗来自手机浏览器。 类似情况并非个例。大量网友反映老人手机通话、拍照等功能遭弹窗霸屏。安徽黄山一老人拍摄鱼灯表演，半分钟内弹窗跳转近 20 次。广西一网友家人...",
+      "publishedRaw": "Mon, 28 Sep 2026 15:03:59 GMT",
+      "date": "2026-09-28",
+      "source": "IT之家 RSS"
+    }
+  ],
+  "githubHot": [
+    {
+      "name": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook...",
+      "language": "Python",
+      "stars": "43,112",
+      "starsToday": "3274",
+      "source": "GitHub Trending",
+      "chineseMeaning": "Python 项目，主要方向：多媒体生成与处理。"
+    },
+    {
+      "name": "paperclipai/paperclip",
+      "url": "https://github.com/paperclipai/paperclip",
+      "description": "The open-source app everyone uses to manage agents at work",
+      "language": "TypeScript",
+      "stars": "92,269",
+      "starsToday": "3185",
+      "source": "GitHub Trending",
+      "chineseMeaning": "TypeScript 项目，可理解为：围绕“The open-source app everyone uses to manage agents at...”的开源项目。"
+    },
+    {
+      "name": "vectorize-io/hindsight",
+      "url": "https://github.com/vectorize-io/hindsight",
+      "description": "Hindsight: Agent Memory That Learns",
+      "language": "Python",
+      "stars": "40,622",
+      "starsToday": "4413",
+      "source": "GitHub Trending",
+      "chineseMeaning": "Python 项目，主要方向：AI / 大模型。"
+    },
+    {
+      "name": "NawfalMotii79/PLFM_RADAR",
+      "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
+      "description": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
+      "language": "PLSQL",
+      "stars": "25,682",
+      "starsToday": "145",
+      "source": "GitHub Trending",
+      "chineseMeaning": "PLSQL 项目，可理解为：围绕“Open-source, low-cost 10.5 GHz PLFM phased array RADA...”的开源项目。"
+    },
+    {
+      "name": "cs341-illinois/coursebook",
+      "url": "https://github.com/cs341-illinois/coursebook",
+      "description": "Open Source Introductory Systems Programming Textbook for the University of Illinois",
+      "language": "TeX",
+      "stars": "2,387",
+      "starsToday": "316",
+      "source": "GitHub Trending",
+      "chineseMeaning": "TeX 项目，可理解为：围绕“Open Source Introductory Systems Programming Textbook...”的开源项目。"
+    }
+  ],
+  "builderSignals": [
+    {
+      "title": ". . . . . .",
+      "summary": ". . . . . .",
+      "author": "",
+      "link": "https://x.com/thsottiaux/status/2104383749723128052",
+      "publishedRaw": "2026-09-28T01:32:38.000Z",
+      "date": "2026-09-28",
+      "source": "follow-builders X"
+    },
+    {
+      "title": "Code freeze isn’t really a thing anymore before releases and in the future the code might...",
+      "summary": "Code freeze isn’t really a thing anymore before releases and in the future the code might even be generated online per request according to some cons...",
+      "author": "",
+      "link": "https://x.com/thsottiaux/status/2104108167806550046",
+      "publishedRaw": "2026-09-27T07:17:34.000Z",
+      "date": "2026-09-27",
+      "source": "follow-builders X"
+    },
+    {
+      "title": "Notice how almost nobody has fond memories of SaaS or business software that they used ba...",
+      "summary": "Notice how almost nobody has fond memories of SaaS or business software that they used back in the day but everyone remembers their favorite games. G...",
+      "author": "",
+      "link": "https://x.com/petergyang/status/2104414495376564517",
+      "publishedRaw": "2026-09-28T03:34:48.000Z",
+      "date": "2026-09-28",
+      "source": "follow-builders X"
+    },
+    {
+      "title": "Btw follow the goat @David_Wise for composing the amazing donkey Kong country music",
+      "summary": "Btw follow the goat @David_Wise for composing the amazing donkey Kong country music",
+      "author": "",
+      "link": "https://x.com/petergyang/status/2104406922216808505",
+      "publishedRaw": "2026-09-28T03:04:42.000Z",
+      "date": "2026-09-28",
+      "source": "follow-builders X"
+    },
+    {
+      "title": "Yes I am a millennial 🙂 https://t.co/Lngb9TdCzO https://t.co/bqSDgGkRpE",
+      "summary": "Yes I am a millennial 🙂 https://t.co/Lngb9TdCzO https://t.co/bqSDgGkRpE",
+      "author": "",
+      "link": "https://x.com/petergyang/status/2104405655406923922",
+      "publishedRaw": "2026-09-28T02:59:40.000Z",
+      "date": "2026-09-28",
+      "source": "follow-builders X"
+    }
+  ],
+  "demandSignals": [
+    {
+      "title": "戴假发已经三年了，分享给脱发的兄弟一些经验~",
+      "summary": "首先，我是雄脱，23 年去杭州的三甲医院看过，医生直接说了 植发、吃药、假发，看你自己接受程度，药网上都有卖 我当时选择的是直接假发了 植发：需要后脑勺的头发，治标不治本，该掉还是掉，贵+成活率问题 吃药：有副作用，但效果只能说一般，而且不能保证你回到茂密程度，需要时间 假发：...",
+      "link": "https://www.v2ex.com/t/1245193",
+      "source": "V2EX · 生活",
+      "publishedRaw": "2026-09-28T03:40:49.000Z",
+      "date": "2026-09-28",
+      "points": 0,
+      "comments": 64,
+      "demandType": "工具选型",
+      "opportunity": "做细分场景榜单、决策助手或模板库。",
+      "score": 85
+    },
+    {
+      "title": "How do I promote an anti AI slop tool I built? It's free and genuine",
+      "summary": "",
+      "link": "https://news.ycombinator.com/item?id=49872106",
+      "source": "Hacker News Ask HN",
+      "publishedRaw": "2026-09-28T00:08:00Z",
+      "date": "2026-09-28",
+      "points": 2,
+      "comments": 2,
+      "demandType": "潜在需求",
+      "opportunity": "继续观察同类问题频次，寻找可产品化入口。",
+      "score": 73
+    }
+  ],
+  "sourceWarnings": [],
+  "markdown": "# 科技日报 · 2026-09-29\n\n生成时间：2026-09-29 01:56:53（北京时间 UTC+8）\n\n## 科技新闻（10 条）\n\n### 1. [Highlights from Git 2.56](https://github.blog/open-source/git/highlights-from-git-2-56/)\n\n- 来源：GitHub Blog · 2026-09-29\n- 摘要：The open source Git project just released Git 2.56. Here is GitHub's look at some of the most interesting features and changes introduced since last time. The post Highlights from...\n\n### 2. [The problem is not AI code, but not knowing about system architecture or intent](https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/)\n\n- 来源：Hacker News · 2026-09-29\n- 摘要：249 points · 167 comments\n\n### 3. [13 Months Sober (2025)](https://www.bobbytables.io/p/13-months-sober)\n\n- 来源：Hacker News · 2026-09-29\n- 摘要：59 points · 47 comments\n\n### 4. [马斯克 SpaceX 成功完成星舰第 14 次试飞，首次入轨、返回、溅落并部署 26 颗卫星](https://www.ithome.com/1/008/065.htm)\n\n- 来源：IT之家 RSS · 2026-09-28\n- 摘要：IT之家 9 月 28 日消息，北京时间 20 时 48 分，SpaceX 星舰在得克萨斯州星际基地开启第 14 次试飞，首次尝试将上级飞船送入地球轨道。 升空约 6 分 50 秒之后，超重型助推器 B21 按计划完成溅落。随着 S41 刚刚完成溅落，SpaceX 首次实现星舰轨道飞行，为此次任务划上了一个相对圆满的句号。 由于星舰一台真空发动机出现故障，...\n\n### 5. [Manus：正组建团队开发面向国内市场的产品，与国产模型厂商合作稳步进行中](https://www.ithome.com/1/008/064.htm)\n\n- 来源：IT之家 RSS · 2026-09-28\n- 摘要：IT之家 9 月 28 日消息，北京蝴蝶效应科技有限公司公众号今日发文，宣布面向海外用户发布 Manus 2.0 版本，并推出面向个人生活场景的智能助理 Cue。 Manus 表示，公司正在组建团队开发面向国内市场的产品，与国产模型厂商及生态伙伴的合作也在稳步进行，后续将分享更多进展。 IT之家注：Cue 被定位为面向个人生活场景的智能助理，Manus 2...\n\n### 6. [长城大狗 HEV 混动版车型上市，限时换新价 10.59 万元起](https://www.ithome.com/1/008/063.htm)\n\n- 来源：IT之家 RSS · 2026-09-28\n- 摘要：IT之家 9 月 28 日消息，哈弗汽车宣布长城大狗 HEV 混动版正式上市。新车提供两驱和四驱车型，限时优惠换新价 10.59 万元起。 三款车型分别为 Hi2 电混 Pro 版、Hi4 电混 MAX 版和 Hi4 电混 MAX 领航版。建议零售价分别为 11.99 万元、12.99 万元和 13.79 万元，限时优惠换新价分别为 10.59 万元、11...\n\n### 7. [HMD 106 Pure 手机悄然发布，仅支持 2G 网络](https://www.ithome.com/1/008/062.htm)\n\n- 来源：IT之家 RSS · 2026-09-28\n- 摘要：IT之家 9 月 28 日消息，HMD 现已在巴基斯坦市场悄然推出 106 Pure 手机。这款产品是功能手机，仅支持 GSM 网络， 售价 3250 巴基斯坦卢比（IT之家注：现汇率合人民币 78.81 元） 。 据介绍，这款手机提供深灰色、青绿色两种配色可选，搭载紫光展锐 6531E 芯片。 规格方面， 该手机配备一块 1.8 英寸 QQVGA（120...\n\n### 8. [美国 FBI 确认遭黑客袭击：员工姓名、住址及社安号码等信息被泄露](https://www.ithome.com/1/008/061.htm)\n\n- 来源：IT之家 RSS · 2026-09-28\n- 摘要：IT之家 9 月 28 日消息，据 MS NOW，美国联邦调查局（FBI）已向员工通报一起“网络安全事件”，确认其求职网站 FBIJobs.gov 遭入侵，包括员工的社会安全号码、住址、职位等信息都已被泄露。 当地时间 9 月 22 日，黑客组织 ShinyHunters 声称窃取了大量 FBI 员工及求职者数据。 FBI 于当地时间 2026 年 9 月...\n\n### 9. [AI 初创公司 Instinct 完成 10 亿美元融资，投后估值达 100 亿美元](https://www.ithome.com/1/008/060.htm)\n\n- 来源：IT之家 RSS · 2026-09-28\n- 摘要：IT之家 9 月 28 日消息，据路透社今天报道，人工智能初创公司 Instinct 现已完成 10 亿美元 （IT之家注：现汇率约合 67.19 亿元人民币） 融资， 投后估值达到 100 亿美元 （现汇率约合 671.95 亿元人民币 ） ，反映出市场对 AI 智能体兴趣持续高涨。 据报道，本轮融资由红杉资本、基准资本和 Coatue 参与。Insti...\n\n### 10. [央视起底手机弹窗广告乱象：“快应用”被滥用，违法成本远低于收益](https://www.ithome.com/1/008/059.htm)\n\n- 来源：IT之家 RSS · 2026-09-28\n- 摘要：IT之家 9 月 28 日消息，据央视新闻今日报道，深圳一名女士因邻居家起火报警，接警员发短信要求上传现场视频，点击后却弹出手机浏览器开屏广告，误触跳转耽误约一分钟。消防部门称，短信链接本身无广告，弹窗来自手机浏览器。 类似情况并非个例。大量网友反映老人手机通话、拍照等功能遭弹窗霸屏。安徽黄山一老人拍摄鱼灯表演，半分钟内弹窗跳转近 20 次。广西一网友家人...\n\n## GitHub 热点（5 个）\n\n### 1. [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)\n\n- 元信息：Python · Stars 43,112 · Today +3274 · GitHub Trending\n- 中文释义：Python 项目，主要方向：多媒体生成与处理。\n- 原文简介：VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook...\n\n### 2. [paperclipai/paperclip](https://github.com/paperclipai/paperclip)\n\n- 元信息：TypeScript · Stars 92,269 · Today +3185 · GitHub Trending\n- 中文释义：TypeScript 项目，可理解为：围绕“The open-source app everyone uses to manage agents at...”的开源项目。\n- 原文简介：The open-source app everyone uses to manage agents at work\n\n### 3. [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight)\n\n- 元信息：Python · Stars 40,622 · Today +4413 · GitHub Trending\n- 中文释义：Python 项目，主要方向：AI / 大模型。\n- 原文简介：Hindsight: Agent Memory That Learns\n\n### 4. [NawfalMotii79/PLFM_RADAR](https://github.com/NawfalMotii79/PLFM_RADAR)\n\n- 元信息：PLSQL · Stars 25,682 · Today +145 · GitHub Trending\n- 中文释义：PLSQL 项目，可理解为：围绕“Open-source, low-cost 10.5 GHz PLFM phased array RADA...”的开源项目。\n- 原文简介：Open-source, low-cost 10.5 GHz PLFM phased array RADAR system\n\n### 5. [cs341-illinois/coursebook](https://github.com/cs341-illinois/coursebook)\n\n- 元信息：TeX · Stars 2,387 · Today +316 · GitHub Trending\n- 中文释义：TeX 项目，可理解为：围绕“Open Source Introductory Systems Programming Textbook...”的开源项目。\n- 原文简介：Open Source Introductory Systems Programming Textbook for the University of Illinois\n\n## AI Builders 动态（5 条）\n\n### 1. [. . . . . .](https://x.com/thsottiaux/status/2104383749723128052)\n\n- 来源：follow-builders X · 2026-09-28\n- 摘要：. . . . . .\n\n### 2. [Code freeze isn’t really a thing anymore before releases and in the future the code might...](https://x.com/thsottiaux/status/2104108167806550046)\n\n- 来源：follow-builders X · 2026-09-27\n- 摘要：Code freeze isn’t really a thing anymore before releases and in the future the code might even be generated online per request according to some cons...\n\n### 3. [Notice how almost nobody has fond memories of SaaS or business software that they used ba...](https://x.com/petergyang/status/2104414495376564517)\n\n- 来源：follow-builders X · 2026-09-28\n- 摘要：Notice how almost nobody has fond memories of SaaS or business software that they used back in the day but everyone remembers their favorite games. G...\n\n### 4. [Btw follow the goat @David_Wise for composing the amazing donkey Kong country music](https://x.com/petergyang/status/2104406922216808505)\n\n- 来源：follow-builders X · 2026-09-28\n- 摘要：Btw follow the goat @David_Wise for composing the amazing donkey Kong country music\n\n### 5. [Yes I am a millennial 🙂 https://t.co/Lngb9TdCzO https://t.co/bqSDgGkRpE](https://x.com/petergyang/status/2104405655406923922)\n\n- 来源：follow-builders X · 2026-09-28\n- 摘要：Yes I am a millennial 🙂 https://t.co/Lngb9TdCzO https://t.co/bqSDgGkRpE\n\n## 今日需求雷达（2 条）\n\n### 1. [戴假发已经三年了，分享给脱发的兄弟一些经验~](https://www.v2ex.com/t/1245193)\n\n- 需求强度：85/100\n- 痛点类型：工具选型\n- 产品机会：做细分场景榜单、决策助手或模板库。\n- 来源：V2EX · 生活 · 2026-09-28\n- 原文摘要：首先，我是雄脱，23 年去杭州的三甲医院看过，医生直接说了 植发、吃药、假发，看你自己接受程度，药网上都有卖 我当时选择的是直接假发了 植发：需要后脑勺的头发，治标不治本，该掉还是掉，贵+成活率问题 吃药：有副作用，但效果只能说一般，而且不能保证你回到茂密程度，需要时间 假发：...\n\n### 2. [How do I promote an anti AI slop tool I built? It's free and genuine](https://news.ycombinator.com/item?id=49872106)\n\n- 需求强度：73/100\n- 痛点类型：潜在需求\n- 产品机会：继续观察同类问题频次，寻找可产品化入口。\n- 来源：Hacker News Ask HN · 2026-09-28\n"
+}
