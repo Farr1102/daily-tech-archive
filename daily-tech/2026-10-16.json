@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "generatedAt": "2026-10-16 15:52:28",
+  "generatedAt": "2026-10-16 22:30:22",
   "timezone": "Asia/Shanghai",
   "timezoneLabel": "北京时间 UTC+8",
   "newsCount": 10,
@@ -9,104 +9,94 @@
   "demandSignalCount": 5,
   "news": [
     {
-      "title": "台积电美国第二座晶圆厂完工，目标 2027Q3 投产",
-      "link": "https://www.ithome.com/1/013/965.htm",
-      "summary": "IT之家 10 月 16 日消息，科技媒体 yourvalley 最新报道，在昨日（10 月 15 日）举办的第三季度财报电话上， 台积电董事长兼首席执行官魏哲家透露台积电第二座美国亚利桑那芯片工厂已完成建设，目前正在安装设备，目标在 2027 年第三季度量产。 图源：台积电亚利桑那分公司 在电话会议上，魏哲家表示：“在亚利桑那，我们已经完成第二座晶圆厂的...",
-      "publishedRaw": "Fri, 16 Oct 2026 07:49:14 GMT",
+      "title": "京东集团：坚决维护员工合法权益，法务部将支持员工提起反诉",
+      "link": "https://www.ithome.com/1/014/177.htm",
+      "summary": "IT之家 10 月 16 日消息，“京东发言人”今晚发布声明，就近期一起员工被起诉事件表明立场。IT之家附原文如下： 京东集团已关注到，近日我司员工在个人社交平台就大促节点在某竞对平台出现的异常舆论事件表达了相关看法，该竞对平台宣布对该员工提起多轮诉讼。 京东集团坚决维护员工的合法权益，法务部将支持员工提起反诉，并向有关部门发起举报。 在此，我们郑重声明：...",
+      "publishedRaw": "Fri, 16 Oct 2026 14:28:55 GMT",
       "date": "2026-10-16",
       "source": "IT之家 RSS"
     },
     {
-      "title": "乐奇 Rokid 携手腾讯出行服务上线行业首个 AI 眼镜原生打车服务",
-      "link": "https://www.ithome.com/1/013/964.htm",
-      "summary": "IT之家 10 月 16 日消息，乐奇 Rokid 今日宣布与腾讯出行服务合作， 上线行业首个 AI 眼镜原生打车服务 ，可以通过眼镜完成打车。 接入腾讯出行服务 Agent 后， 用户只需说出目的地 ，眼镜便可完成从识别需求、发起叫车，到选择下单、支付车费等打车全流程，并可提示车辆信息和预计到达时间。 据 Rokid 官方介绍，过去等车时，用户需要反复低...",
-      "publishedRaw": "Fri, 16 Oct 2026 07:45:54 GMT",
+      "title": "乔思伯推出 DS360 系列机箱副屏：占据 360 风扇位，10.36\" / 14.5\" 双规格",
+      "link": "https://www.ithome.com/1/014/176.htm",
+      "summary": "IT之家 10 月 16 日消息，乔思伯 (JONSBO) 本周在官网上线了 DS360 / DS360 MAX 两款机箱副屏产品。其占据 360 风扇位，采用小圆角设计，覆盖高透玻璃盖板，拥有 PVC 镜面饰片。 ▲ DS360 MAX 黑色 对角线长度 分辨率 刷新率 峰值亮度 DS360 10.36\" 720×1600 60Hz 390nits DS...",
+      "publishedRaw": "Fri, 16 Oct 2026 14:18:20 GMT",
       "date": "2026-10-16",
       "source": "IT之家 RSS"
     },
     {
-      "title": "百度萝卜快跑下周将在香港开放公众试乘，邀超千人体验自动驾驶汽车",
-      "link": "https://www.ithome.com/1/013/963.htm",
-      "summary": "IT之家 10 月 16 日消息，据香港《南华早报》报道，百度下周将在香港 首次开展大规模自动驾驶汽车公众试乘活动 ，预计超过 1000 名市民参与。 试乘活动由百度旗下自动驾驶出行服务平台“萝卜快跑”负责，将于 10 月 21 日至 11 月 3 日在东涌举行 ，邀请超过 1000 名居民体验自动驾驶汽车。 百度智能驾驶事业群组项目及商务拓展高级经理黄文...",
-      "publishedRaw": "Fri, 16 Oct 2026 07:45:25 GMT",
+      "title": "Linux 调频策略引发讨论：华为建议默认开启 CPU Boost，Arm 工程师提出异议",
+      "link": "https://www.ithome.com/1/014/175.htm",
+      "summary": "IT之家 10 月 16 日消息，Phoronix 发现，华为工程师张鹏杰（Pengjie Zhang）昨日向 Linux 内核提交补丁，提议在支持相关功能的前提下默认启用 ACPI CPPC CPUFreq 驱动中的 CPU Boost 模式。为此，该补丁修改了 cppc_cpufreq.c 文件，新增了 20 行代码用于初始化 Boost 默认状态。...",
+      "publishedRaw": "Fri, 16 Oct 2026 14:18:16 GMT",
       "date": "2026-10-16",
       "source": "IT之家 RSS"
     },
     {
-      "title": "小米推出米家口袋照片打印机 Pro 礼盒装：专属浅紫新配色，799 元",
-      "link": "https://www.ithome.com/1/013/962.htm",
-      "summary": "IT之家 10 月 16 日消息，小米官方今日宣布推出米家口袋照片打印机 Pro 礼盒装，定价为 799 元，相比此前已上市产品最大的区别在于其应用了全新的礼盒专属浅紫色。 据小米介绍，这款产品采用专业热升华打印技术，分辨率达到 313dpi，拥有 1670 万色宽广色域和 256 级灰阶呈现，能够清晰细腻还原照片原本色彩；打印过程中自动完成一体化覆膜，可...",
-      "publishedRaw": "Fri, 16 Oct 2026 07:42:59 GMT",
+      "title": "红龙上架 Light 75 Pro 客制化机械键盘：8KHz 回报率、支持三模连接，369 元起",
+      "link": "https://www.ithome.com/1/014/174.htm",
+      "summary": "IT之家 10 月 16 日消息，红龙现已在京东上架 Light 75 Pro 客制化机械键盘，该产品提供 8KHz 回报率，支持三模连接， 樱焰版本定价为 369 元，墨焰版本 定价为 399 元 。 该键盘尺寸为 347 x 151 x 44 mm，目前在售墨焰和樱焰两种配色，外观具备星环灯效，提供 RGB 灯效，键盘右上角配有多功能旋钮，方便用户快速...",
+      "publishedRaw": "Fri, 16 Oct 2026 14:11:55 GMT",
       "date": "2026-10-16",
       "source": "IT之家 RSS"
     },
     {
-      "title": "比亚迪腾势海外首个闪充运营网络在印尼落成：5 分钟充好，9 分钟充饱",
-      "link": "https://www.ithome.com/1/013/961.htm",
-      "summary": "IT之家 10 月 16 日消息，10 月 14 日，比亚迪腾势汽车在印度尼西亚正式发布第二代刀片电池及闪充技术，并宣布腾势 Z9GT 与 腾势 D9 正式上市， 海外首个闪充运营网络落成。依托两项颠覆性技术创新，真正做到“ 5 分钟充好，9 分钟充饱 ”。 据介绍，比亚迪闪充配备储能系统，采用全球首创的 T 形悬挂式设计，配合“零重力”充电枪与即插即充功...",
-      "publishedRaw": "Fri, 16 Oct 2026 07:42:27 GMT",
+      "title": "前行者 Z7 MAX 复合碳纤维鼠标发售：中大手对称模具，低至 359.5 元",
+      "link": "https://www.ithome.com/1/014/173.htm",
+      "summary": "IT之家 10 月 16 日消息，前行者 (EWEADN) 今日启动了 Z7 MAX 鼠标的销售。这一型号采用中大手对称模具，三维 125.7 × 63.4 × 39.2 (mm)，外壳为复合碳纤维材料，质量 55±2g， 低至 359.5 元 。 Z7 MAX 基于 Nordic nRF54LM20 主控，搭配原相 PAW3955 光学传感器，配套凯华...",
+      "publishedRaw": "Fri, 16 Oct 2026 14:05:17 GMT",
       "date": "2026-10-16",
       "source": "IT之家 RSS"
     },
     {
-      "title": "日本 JR 东海、NTT DOCOMO 等 5 家机构就 500 公里时速磁悬浮列车研发专用车载网络通信技术，用于中央新干线",
-      "link": "https://www.ithome.com/1/013/960.htm",
-      "summary": "IT之家 10 月 16 日消息，据外媒 ITMedia 报道，日本信息通信研究机构（NICT）在日本幕张展览馆举办的“CEATEC 2026”展会上，展示了一种面向时速 500 公里磁悬浮列车的车载通信技术，旨在于中央新干线开通后，让乘客在车内高速行驶过程中也能正常使用智能手机上网。 据介绍，这套通信方案采用两级架构：在列车内部设置移动通信基站，再通过专...",
-      "publishedRaw": "Fri, 16 Oct 2026 07:42:09 GMT",
+      "title": "2026 珠海航展门票 10 月 19 日 12 时开售：公众日 12 月 11 日起，个人票 600 元",
+      "link": "https://www.ithome.com/1/014/172.htm",
+      "summary": "IT之家 10 月 16 日消息，今日，第十六届中国航展（2026 珠海航展）门票销售发布会在珠海举行，本届航展票务政策正式对外公布。 门票将于 10 月 19 日中午 12 时启动售卖 。 本届航展全部门票实行 实名制线上购票，一人一票、单次当日入场有效， 由 大麦 App 独家代理销售 ，现场不设售票窗口。 观众可凭二代身份证、港澳居民来往内地通行证、...",
+      "publishedRaw": "Fri, 16 Oct 2026 14:03:11 GMT",
       "date": "2026-10-16",
       "source": "IT之家 RSS"
     },
     {
-      "title": "经典武侠电影《笑傲江湖 2：东方不败》4K 修复版内地首度公映，定档 10 月 30 日",
-      "link": "https://www.ithome.com/1/013/958.htm",
-      "summary": "IT之家 10 月 16 日消息，经典武侠电影《笑傲江湖 2：东方不败》4K 修复版首度内地公映，今日官宣定档 10 月 30 日 ，并发布定档海报。 《笑傲江湖 2：东方不败》由程小东执导，徐克监制，金庸原著，李连杰、林青霞、关之琳、李嘉欣、李子雄、袁洁莹领衔主演。 IT之家附剧情简介： 令狐冲（李连杰饰）在按计划与日月神教的朋友会面后，将和小师妹岳灵珊...",
-      "publishedRaw": "Fri, 16 Oct 2026 07:38:25 GMT",
+      "title": "微软秘密测试“Project Odeon”新应用，界面与 Win11 设置几乎一致",
+      "link": "https://www.ithome.com/1/014/171.htm",
+      "summary": "IT之家 10 月 16 日消息，Windows Latest 今日报道称，微软正在测试一款代号为“Project Odeon”的应用。该应用通过微软商店分发，采用与 Windows 11 系统“设置”几乎相同的界面和图标。 据 Windows Latest 实测，这款应用暂时不会取代“设置”，而是可以与其并行运行。微软尚未正式公布该项目，也没有确认是否计...",
+      "publishedRaw": "Fri, 16 Oct 2026 14:02:40 GMT",
       "date": "2026-10-16",
       "source": "IT之家 RSS"
     },
     {
-      "title": "谷歌布林重磅发声：AI 正开始“自己造自己”",
-      "link": "https://www.ithome.com/1/013/957.htm",
-      "summary": "IT之家 10 月 16 日消息，科技媒体 Business Insider 昨日（10 月 15 日）发布博文， 报道称谷歌联合创始人谢尔盖 · 布林（Sergey Brin）表示，Gemini 模型正迈向“自我改进”的关键时刻。 在围绕着新模型 Gemini 4 Argon 举行的圆桌讨论中，布林表示 AI 已经开始参与打造自己的下一代模型，谷歌此前推...",
-      "publishedRaw": "Fri, 16 Oct 2026 07:34:44 GMT",
+      "title": "微星发布《使命召唤：现代战争 4》联名 GeForce RTX 5080 16GB 显卡，拥有独家黄色散热",
+      "link": "https://www.ithome.com/1/014/170.htm",
+      "summary": "IT之家 10 月 16 日消息，微星 (MSI) 今日发布了限量的 GeForce RTX 5080 16G COD MW4 EDITION OC 显卡。这一产品由微星与动视合作开发，设计灵感源于游戏《使命召唤：现代战争 4》。 与一般联名显卡着重于“表面功夫”不同的是，该型号不仅拥有定制风扇轴心盖、正面黄色装饰、主题背板， 整个散热模组也被染成了黄色...",
+      "publishedRaw": "Fri, 16 Oct 2026 13:57:07 GMT",
       "date": "2026-10-16",
       "source": "IT之家 RSS"
     },
     {
-      "title": "吉利控股集团与谷歌达成全球战略合作，首款搭载相关服务的车型 2027 年下半年推出",
-      "link": "https://www.ithome.com/1/013/956.htm",
-      "summary": "IT之家 10 月 16 日消息，吉利控股集团（IT之家注：以下简称“吉利控股”）今日宣布与谷歌达成全球战略合作。双方将在谷歌服务可覆盖的海外市场，为吉利控股旗下符合条件的品牌车型共建数字座舱生态。首款搭载相关服务的车型计划于 2027 年下半年推出 ，具体落地进度将视产品研发、监管合规及市场筹备情况而定。 根据合作协议，纳入合作范围的海外车型将搭载经官方...",
-      "publishedRaw": "Fri, 16 Oct 2026 07:31:20 GMT",
+      "title": "阿维塔 07L 新车申报：新增 1.5T 增程动力，定位中大型 SUV",
+      "link": "https://www.ithome.com/1/014/169.htm",
+      "summary": "IT之家 10 月 16 日消息，工信部今日发布第 412 批《道路机动车辆生产企业及产品公告》新产品公示，阿维塔 07L 增程版完成申报。 阿维塔 07L 定位插电式增程混合动力多用途乘用车，由重庆长安汽车股份有限公司生产，提供不同高度可选，车身长宽高分别为 4910 mm / 1980 mm / 1650 mm、1670 mm， 轴距为 2990 mm...",
+      "publishedRaw": "Fri, 16 Oct 2026 13:44:25 GMT",
       "date": "2026-10-16",
       "source": "IT之家 RSS"
     },
     {
-      "title": "小米金沙江充电宝超薄磁吸 5000 27W 上架：20W 无线充 + 27W 有线充，299 元",
-      "link": "https://www.ithome.com/1/013/955.htm",
-      "summary": "IT之家 10 月 16 日消息，小米金沙江充电宝超薄磁吸 5000 27W 现已在有品上架（ 点此访问 ）， 定价为 299 元 。 该产品目前在售黑白双色，整体尺寸为 101 x 71.5 x 6.75mm，重量 105g。搭载小米金沙江硅碳负极电池， 能量密度高达 840Wh/L ，拥有 16% 旗舰级含硅量，通过 2026 新国标认证。机身支持 2...",
-      "publishedRaw": "Fri, 16 Oct 2026 07:30:12 GMT",
+      "title": "长鑫科技 2026 年前三季度预计归母净利润 1310~1325 亿元，同比扭亏为盈",
+      "link": "https://www.ithome.com/1/014/168.htm",
+      "summary": "IT之家 10 月 16 日消息，长鑫科技今日发布 2026 年前三季度（2026 年 1 月～2026 年 9 月）业绩预告报告： 营业总收入 ：2650 亿元 ~2700 亿元，同比预增 725.96%~741.54% 归母净利润 ：1310 亿元 ~1325 亿元，同比扭亏为盈 AI 解读 本次业绩预告大幅超出市场预期，业绩实现爆发式增长。 公司主营...",
+      "publishedRaw": "Fri, 16 Oct 2026 13:43:35 GMT",
       "date": "2026-10-16",
       "source": "IT之家 RSS"
     }
   ],
   "githubHot": [
     {
-      "name": "morluto/rea",
-      "url": "https://github.com/morluto/rea",
-      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
-      "language": "TypeScript",
-      "stars": "278,611",
-      "starsToday": "32314",
-      "source": "GitHub Trending",
-      "chineseMeaning": "TypeScript 项目，可理解为：围绕“Reverse engineer anything with agents, from app behav...”的开源项目。"
-    },
-    {
       "name": "anthropics/claude-plugins-official",
       "url": "https://github.com/anthropics/claude-plugins-official",
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "language": "Python",
-      "stars": "39,528",
-      "starsToday": "307",
+      "stars": "39,984",
+      "starsToday": "1552",
       "source": "GitHub Trending",
       "chineseMeaning": "Python 项目，主要方向：AI / 大模型。"
     },
@@ -115,30 +105,40 @@
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
       "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated sk...",
       "language": "Python",
-      "stars": "50,853",
-      "starsToday": "1091",
+      "stars": "51,162",
+      "starsToday": "1158",
       "source": "GitHub Trending",
       "chineseMeaning": "Python 项目，主要方向：AI / 大模型、开发框架或工具库。"
     },
     {
-      "name": "JuliusBrussee/caveman",
-      "url": "https://github.com/JuliusBrussee/caveman",
-      "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
-      "language": "Go",
-      "stars": "112,832",
-      "starsToday": "433",
+      "name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Openco...",
+      "language": "JavaScript",
+      "stars": "281,001",
+      "starsToday": "1057",
       "source": "GitHub Trending",
-      "chineseMeaning": "Go 项目，可理解为：围绕“🪨 why use many token when few token do trick. Viral...”的开源项目。"
+      "chineseMeaning": "JavaScript 项目，主要方向：AI / 大模型、安全与隐私。"
     },
     {
-      "name": "debpalash/VoiceStudio",
-      "url": "https://github.com/debpalash/VoiceStudio",
-      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook...",
+      "name": "HKUDS/CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "language": "Python",
-      "stars": "69,721",
-      "starsToday": "3024",
+      "stars": "53,266",
+      "starsToday": "716",
       "source": "GitHub Trending",
-      "chineseMeaning": "Python 项目，主要方向：多媒体生成与处理。"
+      "chineseMeaning": "Python 项目，主要方向：AI / 大模型、命令行与开发者工具。"
+    },
+    {
+      "name": "mksglu/context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 plat...",
+      "language": "TypeScript",
+      "stars": "30,049",
+      "starsToday": "449",
+      "source": "GitHub Trending",
+      "chineseMeaning": "TypeScript 项目，主要方向：AI / 大模型。"
     }
   ],
   "builderSignals": [
@@ -190,19 +190,6 @@
   ],
   "demandSignals": [
     {
-      "title": "睡一觉起来后，依然觉得这件事怪恶心的。是我的问题吗？",
-      "summary": "起大半夜被一个朋友喊起来问关于 CHATGPT 为什么无法调用的问题，丢过来一个局部截图。 我出于最高效解决问题的思路，一边起床一边要求对方直接把 TODESK 链接甩过来， 对方来了一句，你去抖音上看看好了，遇到很多这样的问题。 我没说话，因为我在开电脑。 开完电脑，连上 C...",
-      "link": "https://www.v2ex.com/t/1249215",
-      "source": "V2EX · 问与答",
-      "publishedRaw": "2026-10-16T01:09:46.000Z",
-      "date": "2026-10-16",
-      "points": 0,
-      "comments": 79,
-      "demandType": "产品缺陷",
-      "opportunity": "针对高频缺陷做修复型小工具或兼容层。",
-      "score": 85
-    },
-    {
       "title": "一个人可以内向，敏感，胆小到什么程度",
       "summary": "印象深刻的几件小事： 小学，有个堂伯在学校当老师，同时在学校里面开了个小卖部，我去上学，我爸让我带块肉给这个堂伯，我一直放在书包里，没有给他，放学回家肉都臭了，被打了一顿。我记得是我故意不给的，当时应该是怕过去，在小卖部当着众人的面，其中有很多老师，拿出一块肉。 初中，有次迟到...",
       "link": "https://www.v2ex.com/t/1249230",
@@ -210,9 +197,22 @@
       "publishedRaw": "2026-10-16T01:33:05.000Z",
       "date": "2026-10-16",
       "points": 0,
-      "comments": 70,
+      "comments": 88,
       "demandType": "操作难题",
       "opportunity": "做一键化工具、教程产品或自动化脚本。",
+      "score": 85
+    },
+    {
+      "title": "睡一觉起来后，依然觉得这件事怪恶心的。是我的问题吗？",
+      "summary": "起大半夜被一个朋友喊起来问关于 CHATGPT 为什么无法调用的问题，丢过来一个局部截图。 我出于最高效解决问题的思路，一边起床一边要求对方直接把 TODESK 链接甩过来， 对方来了一句，你去抖音上看看好了，遇到很多这样的问题。 我没说话，因为我在开电脑。 开完电脑，连上 C...",
+      "link": "https://www.v2ex.com/t/1249215",
+      "source": "V2EX · 问与答",
+      "publishedRaw": "2026-10-16T01:09:46.000Z",
+      "date": "2026-10-16",
+      "points": 0,
+      "comments": 86,
+      "demandType": "产品缺陷",
+      "opportunity": "针对高频缺陷做修复型小工具或兼容层。",
       "score": 85
     },
     {
@@ -223,10 +223,10 @@
       "publishedRaw": "2026-10-16T05:43:09Z",
       "date": "2026-10-16",
       "points": 2,
-      "comments": 0,
+      "comments": 4,
       "demandType": "操作难题",
       "opportunity": "做一键化工具、教程产品或自动化脚本。",
-      "score": 69
+      "score": 75
     },
     {
       "title": "Ask HN: Any good polished email alternative to Proton Mail?",
@@ -256,5 +256,5 @@
     }
   ],
   "sourceWarnings": [],
-  "markdown": "# 科技日报 · 2026-10-16\n\n生成时间：2026-10-16 15:52:28（北京时间 UTC+8）\n\n## 科技新闻（10 条）\n\n### 1. [台积电美国第二座晶圆厂完工，目标 2027Q3 投产](https://www.ithome.com/1/013/965.htm)\n\n- 来源：IT之家 RSS · 2026-10-16\n- 摘要：IT之家 10 月 16 日消息，科技媒体 yourvalley 最新报道，在昨日（10 月 15 日）举办的第三季度财报电话上， 台积电董事长兼首席执行官魏哲家透露台积电第二座美国亚利桑那芯片工厂已完成建设，目前正在安装设备，目标在 2027 年第三季度量产。 图源：台积电亚利桑那分公司 在电话会议上，魏哲家表示：“在亚利桑那，我们已经完成第二座晶圆厂的...\n\n### 2. [乐奇 Rokid 携手腾讯出行服务上线行业首个 AI 眼镜原生打车服务](https://www.ithome.com/1/013/964.htm)\n\n- 来源：IT之家 RSS · 2026-10-16\n- 摘要：IT之家 10 月 16 日消息，乐奇 Rokid 今日宣布与腾讯出行服务合作， 上线行业首个 AI 眼镜原生打车服务 ，可以通过眼镜完成打车。 接入腾讯出行服务 Agent 后， 用户只需说出目的地 ，眼镜便可完成从识别需求、发起叫车，到选择下单、支付车费等打车全流程，并可提示车辆信息和预计到达时间。 据 Rokid 官方介绍，过去等车时，用户需要反复低...\n\n### 3. [百度萝卜快跑下周将在香港开放公众试乘，邀超千人体验自动驾驶汽车](https://www.ithome.com/1/013/963.htm)\n\n- 来源：IT之家 RSS · 2026-10-16\n- 摘要：IT之家 10 月 16 日消息，据香港《南华早报》报道，百度下周将在香港 首次开展大规模自动驾驶汽车公众试乘活动 ，预计超过 1000 名市民参与。 试乘活动由百度旗下自动驾驶出行服务平台“萝卜快跑”负责，将于 10 月 21 日至 11 月 3 日在东涌举行 ，邀请超过 1000 名居民体验自动驾驶汽车。 百度智能驾驶事业群组项目及商务拓展高级经理黄文...\n\n### 4. [小米推出米家口袋照片打印机 Pro 礼盒装：专属浅紫新配色，799 元](https://www.ithome.com/1/013/962.htm)\n\n- 来源：IT之家 RSS · 2026-10-16\n- 摘要：IT之家 10 月 16 日消息，小米官方今日宣布推出米家口袋照片打印机 Pro 礼盒装，定价为 799 元，相比此前已上市产品最大的区别在于其应用了全新的礼盒专属浅紫色。 据小米介绍，这款产品采用专业热升华打印技术，分辨率达到 313dpi，拥有 1670 万色宽广色域和 256 级灰阶呈现，能够清晰细腻还原照片原本色彩；打印过程中自动完成一体化覆膜，可...\n\n### 5. [比亚迪腾势海外首个闪充运营网络在印尼落成：5 分钟充好，9 分钟充饱](https://www.ithome.com/1/013/961.htm)\n\n- 来源：IT之家 RSS · 2026-10-16\n- 摘要：IT之家 10 月 16 日消息，10 月 14 日，比亚迪腾势汽车在印度尼西亚正式发布第二代刀片电池及闪充技术，并宣布腾势 Z9GT 与 腾势 D9 正式上市， 海外首个闪充运营网络落成。依托两项颠覆性技术创新，真正做到“ 5 分钟充好，9 分钟充饱 ”。 据介绍，比亚迪闪充配备储能系统，采用全球首创的 T 形悬挂式设计，配合“零重力”充电枪与即插即充功...\n\n### 6. [日本 JR 东海、NTT DOCOMO 等 5 家机构就 500 公里时速磁悬浮列车研发专用车载网络通信技术，用于中央新干线](https://www.ithome.com/1/013/960.htm)\n\n- 来源：IT之家 RSS · 2026-10-16\n- 摘要：IT之家 10 月 16 日消息，据外媒 ITMedia 报道，日本信息通信研究机构（NICT）在日本幕张展览馆举办的“CEATEC 2026”展会上，展示了一种面向时速 500 公里磁悬浮列车的车载通信技术，旨在于中央新干线开通后，让乘客在车内高速行驶过程中也能正常使用智能手机上网。 据介绍，这套通信方案采用两级架构：在列车内部设置移动通信基站，再通过专...\n\n### 7. [经典武侠电影《笑傲江湖 2：东方不败》4K 修复版内地首度公映，定档 10 月 30 日](https://www.ithome.com/1/013/958.htm)\n\n- 来源：IT之家 RSS · 2026-10-16\n- 摘要：IT之家 10 月 16 日消息，经典武侠电影《笑傲江湖 2：东方不败》4K 修复版首度内地公映，今日官宣定档 10 月 30 日 ，并发布定档海报。 《笑傲江湖 2：东方不败》由程小东执导，徐克监制，金庸原著，李连杰、林青霞、关之琳、李嘉欣、李子雄、袁洁莹领衔主演。 IT之家附剧情简介： 令狐冲（李连杰饰）在按计划与日月神教的朋友会面后，将和小师妹岳灵珊...\n\n### 8. [谷歌布林重磅发声：AI 正开始“自己造自己”](https://www.ithome.com/1/013/957.htm)\n\n- 来源：IT之家 RSS · 2026-10-16\n- 摘要：IT之家 10 月 16 日消息，科技媒体 Business Insider 昨日（10 月 15 日）发布博文， 报道称谷歌联合创始人谢尔盖 · 布林（Sergey Brin）表示，Gemini 模型正迈向“自我改进”的关键时刻。 在围绕着新模型 Gemini 4 Argon 举行的圆桌讨论中，布林表示 AI 已经开始参与打造自己的下一代模型，谷歌此前推...\n\n### 9. [吉利控股集团与谷歌达成全球战略合作，首款搭载相关服务的车型 2027 年下半年推出](https://www.ithome.com/1/013/956.htm)\n\n- 来源：IT之家 RSS · 2026-10-16\n- 摘要：IT之家 10 月 16 日消息，吉利控股集团（IT之家注：以下简称“吉利控股”）今日宣布与谷歌达成全球战略合作。双方将在谷歌服务可覆盖的海外市场，为吉利控股旗下符合条件的品牌车型共建数字座舱生态。首款搭载相关服务的车型计划于 2027 年下半年推出 ，具体落地进度将视产品研发、监管合规及市场筹备情况而定。 根据合作协议，纳入合作范围的海外车型将搭载经官方...\n\n### 10. [小米金沙江充电宝超薄磁吸 5000 27W 上架：20W 无线充 + 27W 有线充，299 元](https://www.ithome.com/1/013/955.htm)\n\n- 来源：IT之家 RSS · 2026-10-16\n- 摘要：IT之家 10 月 16 日消息，小米金沙江充电宝超薄磁吸 5000 27W 现已在有品上架（ 点此访问 ）， 定价为 299 元 。 该产品目前在售黑白双色，整体尺寸为 101 x 71.5 x 6.75mm，重量 105g。搭载小米金沙江硅碳负极电池， 能量密度高达 840Wh/L ，拥有 16% 旗舰级含硅量，通过 2026 新国标认证。机身支持 2...\n\n## GitHub 热点（5 个）\n\n### 1. [morluto/rea](https://github.com/morluto/rea)\n\n- 元信息：TypeScript · Stars 278,611 · Today +32314 · GitHub Trending\n- 中文释义：TypeScript 项目，可理解为：围绕“Reverse engineer anything with agents, from app behav...”的开源项目。\n- 原文简介：Reverse engineer anything with agents, from app behavior down to native binaries.\n\n### 2. [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)\n\n- 元信息：Python · Stars 39,528 · Today +307 · GitHub Trending\n- 中文释义：Python 项目，主要方向：AI / 大模型。\n- 原文简介：Official, Anthropic-managed directory of high quality Claude Code Plugins.\n\n### 3. [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)\n\n- 元信息：Python · Stars 50,853 · Today +1091 · GitHub Trending\n- 中文释义：Python 项目，主要方向：AI / 大模型、开发框架或工具库。\n- 原文简介：Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated sk...\n\n### 4. [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)\n\n- 元信息：Go · Stars 112,832 · Today +433 · GitHub Trending\n- 中文释义：Go 项目，可理解为：围绕“🪨 why use many token when few token do trick. Viral...”的开源项目。\n- 原文简介：🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.\n\n### 5. [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)\n\n- 元信息：Python · Stars 69,721 · Today +3024 · GitHub Trending\n- 中文释义：Python 项目，主要方向：多媒体生成与处理。\n- 原文简介：VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook...\n\n## AI Builders 动态（5 条）\n\n### 1. [Over the last few years, we have made significant progress on prompt injection for Claude...](https://x.com/bcherny/status/2110791698611855624)\n\n- 来源：follow-builders X · 2026-10-16\n- 摘要：Over the last few years, we have made significant progress on prompt injection for Claude models. As agents do more, it is increasingly urgent that w...\n\n### 2. [Either we are out of ideas or we are cooking. Time will tell](https://x.com/thsottiaux/status/2110971985417441512)\n\n- 来源：follow-builders X · 2026-10-16\n- 摘要：Either we are out of ideas or we are cooking. Time will tell\n\n### 3. [Je programme en français](https://x.com/thsottiaux/status/2110864861119045840)\n\n- 来源：follow-builders X · 2026-10-16\n- 摘要：Je programme en français\n\n### 4. [Bonjour https://t.co/9sebD9hvyf](https://x.com/thsottiaux/status/2110864606088593672)\n\n- 来源：follow-builders X · 2026-10-16\n- 摘要：Bonjour https://t.co/9sebD9hvyf\n\n### 5. [@Fourthwall @dubbaumann @bot monitor all replies to this thread and let me know the winne...](https://x.com/petergyang/status/2110883805506711694)\n\n- 来源：follow-builders X · 2026-10-16\n- 摘要：@Fourthwall @dubbaumann @bot monitor all replies to this thread and let me know the winner in 12 hours.\n\n## 今日需求雷达（5 条）\n\n### 1. [睡一觉起来后，依然觉得这件事怪恶心的。是我的问题吗？](https://www.v2ex.com/t/1249215)\n\n- 需求强度：85/100\n- 痛点类型：产品缺陷\n- 产品机会：针对高频缺陷做修复型小工具或兼容层。\n- 来源：V2EX · 问与答 · 2026-10-16\n- 原文摘要：起大半夜被一个朋友喊起来问关于 CHATGPT 为什么无法调用的问题，丢过来一个局部截图。 我出于最高效解决问题的思路，一边起床一边要求对方直接把 TODESK 链接甩过来， 对方来了一句，你去抖音上看看好了，遇到很多这样的问题。 我没说话，因为我在开电脑。 开完电脑，连上 C...\n\n### 2. [一个人可以内向，敏感，胆小到什么程度](https://www.v2ex.com/t/1249230)\n\n- 需求强度：85/100\n- 痛点类型：操作难题\n- 产品机会：做一键化工具、教程产品或自动化脚本。\n- 来源：V2EX · 问与答 · 2026-10-16\n- 原文摘要：印象深刻的几件小事： 小学，有个堂伯在学校当老师，同时在学校里面开了个小卖部，我去上学，我爸让我带块肉给这个堂伯，我一直放在书包里，没有给他，放学回家肉都臭了，被打了一顿。我记得是我故意不给的，当时应该是怕过去，在小卖部当着众人的面，其中有很多老师，拿出一块肉。 初中，有次迟到...\n\n### 3. [How to make my business survives it's first 5 years?](https://news.ycombinator.com/item?id=50114521)\n\n- 需求强度：69/100\n- 痛点类型：操作难题\n- 产品机会：做一键化工具、教程产品或自动化脚本。\n- 来源：Hacker News Ask HN · 2026-10-16\n\n### 4. [Ask HN: Any good polished email alternative to Proton Mail?](https://news.ycombinator.com/item?id=50109923)\n\n- 需求强度：69/100\n- 痛点类型：替代方案\n- 产品机会：整理竞品替代表、做迁移工具或对比页。\n- 来源：Hacker News Ask HN · 2026-10-16\n\n### 5. [Ask HN: What Prompt Management Tool for macOS do you recommend?](https://news.ycombinator.com/item?id=50109195)\n\n- 需求强度：65/100\n- 痛点类型：工具选型\n- 产品机会：做细分场景榜单、决策助手或模板库。\n- 来源：Hacker News Ask HN · 2026-10-16\n"
+  "markdown": "# 科技日报 · 2026-10-16\n\n生成时间：2026-10-16 22:30:22（北京时间 UTC+8）\n\n## 科技新闻（10 条）\n\n### 1. [京东集团：坚决维护员工合法权益，法务部将支持员工提起反诉](https://www.ithome.com/1/014/177.htm)\n\n- 来源：IT之家 RSS · 2026-10-16\n- 摘要：IT之家 10 月 16 日消息，“京东发言人”今晚发布声明，就近期一起员工被起诉事件表明立场。IT之家附原文如下： 京东集团已关注到，近日我司员工在个人社交平台就大促节点在某竞对平台出现的异常舆论事件表达了相关看法，该竞对平台宣布对该员工提起多轮诉讼。 京东集团坚决维护员工的合法权益，法务部将支持员工提起反诉，并向有关部门发起举报。 在此，我们郑重声明：...\n\n### 2. [乔思伯推出 DS360 系列机箱副屏：占据 360 风扇位，10.36\" / 14.5\" 双规格](https://www.ithome.com/1/014/176.htm)\n\n- 来源：IT之家 RSS · 2026-10-16\n- 摘要：IT之家 10 月 16 日消息，乔思伯 (JONSBO) 本周在官网上线了 DS360 / DS360 MAX 两款机箱副屏产品。其占据 360 风扇位，采用小圆角设计，覆盖高透玻璃盖板，拥有 PVC 镜面饰片。 ▲ DS360 MAX 黑色 对角线长度 分辨率 刷新率 峰值亮度 DS360 10.36\" 720×1600 60Hz 390nits DS...\n\n### 3. [Linux 调频策略引发讨论：华为建议默认开启 CPU Boost，Arm 工程师提出异议](https://www.ithome.com/1/014/175.htm)\n\n- 来源：IT之家 RSS · 2026-10-16\n- 摘要：IT之家 10 月 16 日消息，Phoronix 发现，华为工程师张鹏杰（Pengjie Zhang）昨日向 Linux 内核提交补丁，提议在支持相关功能的前提下默认启用 ACPI CPPC CPUFreq 驱动中的 CPU Boost 模式。为此，该补丁修改了 cppc_cpufreq.c 文件，新增了 20 行代码用于初始化 Boost 默认状态。....\n\n### 4. [红龙上架 Light 75 Pro 客制化机械键盘：8KHz 回报率、支持三模连接，369 元起](https://www.ithome.com/1/014/174.htm)\n\n- 来源：IT之家 RSS · 2026-10-16\n- 摘要：IT之家 10 月 16 日消息，红龙现已在京东上架 Light 75 Pro 客制化机械键盘，该产品提供 8KHz 回报率，支持三模连接， 樱焰版本定价为 369 元，墨焰版本 定价为 399 元 。 该键盘尺寸为 347 x 151 x 44 mm，目前在售墨焰和樱焰两种配色，外观具备星环灯效，提供 RGB 灯效，键盘右上角配有多功能旋钮，方便用户快速...\n\n### 5. [前行者 Z7 MAX 复合碳纤维鼠标发售：中大手对称模具，低至 359.5 元](https://www.ithome.com/1/014/173.htm)\n\n- 来源：IT之家 RSS · 2026-10-16\n- 摘要：IT之家 10 月 16 日消息，前行者 (EWEADN) 今日启动了 Z7 MAX 鼠标的销售。这一型号采用中大手对称模具，三维 125.7 × 63.4 × 39.2 (mm)，外壳为复合碳纤维材料，质量 55±2g， 低至 359.5 元 。 Z7 MAX 基于 Nordic nRF54LM20 主控，搭配原相 PAW3955 光学传感器，配套凯华....\n\n### 6. [2026 珠海航展门票 10 月 19 日 12 时开售：公众日 12 月 11 日起，个人票 600 元](https://www.ithome.com/1/014/172.htm)\n\n- 来源：IT之家 RSS · 2026-10-16\n- 摘要：IT之家 10 月 16 日消息，今日，第十六届中国航展（2026 珠海航展）门票销售发布会在珠海举行，本届航展票务政策正式对外公布。 门票将于 10 月 19 日中午 12 时启动售卖 。 本届航展全部门票实行 实名制线上购票，一人一票、单次当日入场有效， 由 大麦 App 独家代理销售 ，现场不设售票窗口。 观众可凭二代身份证、港澳居民来往内地通行证、...\n\n### 7. [微软秘密测试“Project Odeon”新应用，界面与 Win11 设置几乎一致](https://www.ithome.com/1/014/171.htm)\n\n- 来源：IT之家 RSS · 2026-10-16\n- 摘要：IT之家 10 月 16 日消息，Windows Latest 今日报道称，微软正在测试一款代号为“Project Odeon”的应用。该应用通过微软商店分发，采用与 Windows 11 系统“设置”几乎相同的界面和图标。 据 Windows Latest 实测，这款应用暂时不会取代“设置”，而是可以与其并行运行。微软尚未正式公布该项目，也没有确认是否计...\n\n### 8. [微星发布《使命召唤：现代战争 4》联名 GeForce RTX 5080 16GB 显卡，拥有独家黄色散热](https://www.ithome.com/1/014/170.htm)\n\n- 来源：IT之家 RSS · 2026-10-16\n- 摘要：IT之家 10 月 16 日消息，微星 (MSI) 今日发布了限量的 GeForce RTX 5080 16G COD MW4 EDITION OC 显卡。这一产品由微星与动视合作开发，设计灵感源于游戏《使命召唤：现代战争 4》。 与一般联名显卡着重于“表面功夫”不同的是，该型号不仅拥有定制风扇轴心盖、正面黄色装饰、主题背板， 整个散热模组也被染成了黄色....\n\n### 9. [阿维塔 07L 新车申报：新增 1.5T 增程动力，定位中大型 SUV](https://www.ithome.com/1/014/169.htm)\n\n- 来源：IT之家 RSS · 2026-10-16\n- 摘要：IT之家 10 月 16 日消息，工信部今日发布第 412 批《道路机动车辆生产企业及产品公告》新产品公示，阿维塔 07L 增程版完成申报。 阿维塔 07L 定位插电式增程混合动力多用途乘用车，由重庆长安汽车股份有限公司生产，提供不同高度可选，车身长宽高分别为 4910 mm / 1980 mm / 1650 mm、1670 mm， 轴距为 2990 mm...\n\n### 10. [长鑫科技 2026 年前三季度预计归母净利润 1310~1325 亿元，同比扭亏为盈](https://www.ithome.com/1/014/168.htm)\n\n- 来源：IT之家 RSS · 2026-10-16\n- 摘要：IT之家 10 月 16 日消息，长鑫科技今日发布 2026 年前三季度（2026 年 1 月～2026 年 9 月）业绩预告报告： 营业总收入 ：2650 亿元 ~2700 亿元，同比预增 725.96%~741.54% 归母净利润 ：1310 亿元 ~1325 亿元，同比扭亏为盈 AI 解读 本次业绩预告大幅超出市场预期，业绩实现爆发式增长。 公司主营...\n\n## GitHub 热点（5 个）\n\n### 1. [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official)\n\n- 元信息：Python · Stars 39,984 · Today +1552 · GitHub Trending\n- 中文释义：Python 项目，主要方向：AI / 大模型。\n- 原文简介：Official, Anthropic-managed directory of high quality Claude Code Plugins.\n\n### 2. [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)\n\n- 元信息：Python · Stars 51,162 · Today +1158 · GitHub Trending\n- 中文释义：Python 项目，主要方向：AI / 大模型、开发框架或工具库。\n- 原文简介：Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated sk...\n\n### 3. [affaan-m/ECC](https://github.com/affaan-m/ECC)\n\n- 元信息：JavaScript · Stars 281,001 · Today +1057 · GitHub Trending\n- 中文释义：JavaScript 项目，主要方向：AI / 大模型、安全与隐私。\n- 原文简介：The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Openco...\n\n### 4. [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)\n\n- 元信息：Python · Stars 53,266 · Today +716 · GitHub Trending\n- 中文释义：Python 项目，主要方向：AI / 大模型、命令行与开发者工具。\n- 原文简介：\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/\n\n### 5. [mksglu/context-mode](https://github.com/mksglu/context-mode)\n\n- 元信息：TypeScript · Stars 30,049 · Today +449 · GitHub Trending\n- 中文释义：TypeScript 项目，主要方向：AI / 大模型。\n- 原文简介：Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 plat...\n\n## AI Builders 动态（5 条）\n\n### 1. [Over the last few years, we have made significant progress on prompt injection for Claude...](https://x.com/bcherny/status/2110791698611855624)\n\n- 来源：follow-builders X · 2026-10-16\n- 摘要：Over the last few years, we have made significant progress on prompt injection for Claude models. As agents do more, it is increasingly urgent that w...\n\n### 2. [Either we are out of ideas or we are cooking. Time will tell](https://x.com/thsottiaux/status/2110971985417441512)\n\n- 来源：follow-builders X · 2026-10-16\n- 摘要：Either we are out of ideas or we are cooking. Time will tell\n\n### 3. [Je programme en français](https://x.com/thsottiaux/status/2110864861119045840)\n\n- 来源：follow-builders X · 2026-10-16\n- 摘要：Je programme en français\n\n### 4. [Bonjour https://t.co/9sebD9hvyf](https://x.com/thsottiaux/status/2110864606088593672)\n\n- 来源：follow-builders X · 2026-10-16\n- 摘要：Bonjour https://t.co/9sebD9hvyf\n\n### 5. [@Fourthwall @dubbaumann @bot monitor all replies to this thread and let me know the winne...](https://x.com/petergyang/status/2110883805506711694)\n\n- 来源：follow-builders X · 2026-10-16\n- 摘要：@Fourthwall @dubbaumann @bot monitor all replies to this thread and let me know the winner in 12 hours.\n\n## 今日需求雷达（5 条）\n\n### 1. [一个人可以内向，敏感，胆小到什么程度](https://www.v2ex.com/t/1249230)\n\n- 需求强度：85/100\n- 痛点类型：操作难题\n- 产品机会：做一键化工具、教程产品或自动化脚本。\n- 来源：V2EX · 问与答 · 2026-10-16\n- 原文摘要：印象深刻的几件小事： 小学，有个堂伯在学校当老师，同时在学校里面开了个小卖部，我去上学，我爸让我带块肉给这个堂伯，我一直放在书包里，没有给他，放学回家肉都臭了，被打了一顿。我记得是我故意不给的，当时应该是怕过去，在小卖部当着众人的面，其中有很多老师，拿出一块肉。 初中，有次迟到...\n\n### 2. [睡一觉起来后，依然觉得这件事怪恶心的。是我的问题吗？](https://www.v2ex.com/t/1249215)\n\n- 需求强度：85/100\n- 痛点类型：产品缺陷\n- 产品机会：针对高频缺陷做修复型小工具或兼容层。\n- 来源：V2EX · 问与答 · 2026-10-16\n- 原文摘要：起大半夜被一个朋友喊起来问关于 CHATGPT 为什么无法调用的问题，丢过来一个局部截图。 我出于最高效解决问题的思路，一边起床一边要求对方直接把 TODESK 链接甩过来， 对方来了一句，你去抖音上看看好了，遇到很多这样的问题。 我没说话，因为我在开电脑。 开完电脑，连上 C...\n\n### 3. [How to make my business survives it's first 5 years?](https://news.ycombinator.com/item?id=50114521)\n\n- 需求强度：75/100\n- 痛点类型：操作难题\n- 产品机会：做一键化工具、教程产品或自动化脚本。\n- 来源：Hacker News Ask HN · 2026-10-16\n\n### 4. [Ask HN: Any good polished email alternative to Proton Mail?](https://news.ycombinator.com/item?id=50109923)\n\n- 需求强度：69/100\n- 痛点类型：替代方案\n- 产品机会：整理竞品替代表、做迁移工具或对比页。\n- 来源：Hacker News Ask HN · 2026-10-16\n\n### 5. [Ask HN: What Prompt Management Tool for macOS do you recommend?](https://news.ycombinator.com/item?id=50109195)\n\n- 需求强度：65/100\n- 痛点类型：工具选型\n- 产品机会：做细分场景榜单、决策助手或模板库。\n- 来源：Hacker News Ask HN · 2026-10-16\n"
 }
