@@ -1,0 +1,260 @@
+{
+  "date": "2026-10-23",
+  "generatedAt": "2026-10-23 16:13:36",
+  "timezone": "Asia/Shanghai",
+  "timezoneLabel": "北京时间 UTC+8",
+  "newsCount": 10,
+  "githubCount": 5,
+  "builderSignalCount": 5,
+  "demandSignalCount": 5,
+  "news": [
+    {
+      "title": "LG 推出“32G650B”31.5 英寸显示器：2K 300Hz，2499 元",
+      "link": "https://www.ithome.com/1/017/082.htm",
+      "summary": "IT之家 10 月 23 日消息，LG 现已在京东上架“32G650B”31.5 英寸显示器，该机主打 2K 300Hz，定价为 2499 元。 该机配备一块 2560x1440 分辨率 300Hz IPS 面板，显示器 GtG 1ms，对比度 1500:1，响应速度 1ms，覆盖 95% DCI-P3 色域。 该机支架支持升降 / 倾斜，显示器本体支持...",
+      "publishedRaw": "Fri, 23 Oct 2026 08:09:11 GMT",
+      "date": "2026-10-23",
+      "source": "IT之家 RSS"
+    },
+    {
+      "title": "OpenClaw 小龙虾之父谈 AI 智能体：上个月消耗 Token 成本约 1000 万美元",
+      "link": "https://www.ithome.com/1/017/081.htm",
+      "summary": "IT之家 10 月 23 日消息，OpenClaw 创始人、OpenAI 技术团队成员 Peter Steinberger 透露，他上个月花在 AI 工作上的 Token 费用高达 1,000 万美元 （IT之家注：现汇率约合 6,688.2 万元人民币） 。 Steinberger 在旧金山举行的 Cloudflare Connect 2026 大会上与...",
+      "publishedRaw": "Fri, 23 Oct 2026 08:08:54 GMT",
+      "date": "2026-10-23",
+      "source": "IT之家 RSS"
+    },
+    {
+      "title": "比亚迪全新秦 PLUS 车型将于 10 月 27 日上市：新增激光雷达、尺寸全面加大",
+      "link": "https://www.ithome.com/1/017/079.htm",
+      "summary": "IT之家 10 月 23 日消息，比亚迪汽车宣布旗下秦 PLUS 将于 10 月 27 日正式上市。新车整体尺寸全面加大，轴距达到 2800mm，并采用全新设计语言。同时车辆还将新增车顶激光雷达，提升辅助驾驶表现。 该车车辆采用全新设计语言，车头配备狭长前大灯，下方进气口两侧有类似风道的设计；车顶新增车顶激光雷达，进一步提升智能辅助驾驶能力；车身使用传统造...",
+      "publishedRaw": "Fri, 23 Oct 2026 08:00:33 GMT",
+      "date": "2026-10-23",
+      "source": "IT之家 RSS"
+    },
+    {
+      "title": "字节火山引擎发布 Seedance 2.5 4K 模型，面向影视级画面生成",
+      "link": "https://www.ithome.com/1/017/078.htm",
+      "summary": "IT之家 10 月 23 日消息，今日，字节跳动旗下火山引擎正式发布 Seedance 2.5 4K，通过专项训练，Seedance 2.5 4K 更充分地学习了人物表情、细微动作与画面细节，是 Seedance 2.5 这一代中最强的模型。 据介绍， Seedance 2.5 4K 支持 Draft（样片）模式，终端用户可先用 480P 样片快速验证分镜...",
+      "publishedRaw": "Fri, 23 Oct 2026 08:00:20 GMT",
+      "date": "2026-10-23",
+      "source": "IT之家 RSS"
+    },
+    {
+      "title": "泰坦军团推出“G3280V”31.5 英寸显示器：4K 180Hz QD-OLED，白色边框 / 白色支架，4799 元",
+      "link": "https://www.ithome.com/1/017/077.htm",
+      "summary": "IT之家 10 月 23 日消息，泰坦军团现已在京东上架一款型号为 G3280V 的 31.5 英寸显示器，该机主打 4K 180Hz，定价为 4799 元。 京东 泰坦军团“G3280V”显示器 4799 元 直达链接 该机配备一块 3840x2160 分辨率 180Hz QD-OLED 面板，显示器典型亮度 250 尼特，静态对比度 150 万:1，显...",
+      "publishedRaw": "Fri, 23 Oct 2026 07:57:18 GMT",
+      "date": "2026-10-23",
+      "source": "IT之家 RSS"
+    },
+    {
+      "title": "印度 eMudhra 宣布退出全球 SSL / TLS 证书业务，承认密钥生成流程存在缺陷及人为失误",
+      "link": "https://www.ithome.com/1/017/076.htm",
+      "summary": "IT之家 10 月 23 日消息，印度数字信任服务公司 eMudhra 于当地时间 10 月 22 日宣布将退出全球 SSL / TLS 证书业务。 IT之家此前报道，该公司签发的 8 张中间证书存在严重的加密密钥缺陷，其中一张证书对应的私钥竟然是单个数字“4”，攻击者可以在极短时间内破解其并伪造其证书。谷歌、苹果、微软和 Mozilla 随后采取措施，不...",
+      "publishedRaw": "Fri, 23 Oct 2026 07:54:32 GMT",
+      "date": "2026-10-23",
+      "source": "IT之家 RSS"
+    },
+    {
+      "title": "消息称苹果就未来 iMac、Studio Display 向厂商发出 LCD 显示面板信息请求",
+      "link": "https://www.ithome.com/1/017/075.htm",
+      "summary": "IT之家 10 月 23 日消息，韩媒 ZDNET Korea 当地时间本月 21 日报道称，Apple（苹果）近日已就未来 iMac 一体机、Studio Display 显示器 向显示企业发出 LCD 显示面板的信息请求 (RFI)。 从 RFI 到 RFQ 再到后续定案、量产、发售都需要时间， 苹果此次请求信息的面板并不与近期产品相关 ，而是瞄准后续...",
+      "publishedRaw": "Fri, 23 Oct 2026 07:54:27 GMT",
+      "date": "2026-10-23",
+      "source": "IT之家 RSS"
+    },
+    {
+      "title": "联想杨元庆预测：未来 80% Token 将在终端和边缘生成，每个人都将需要一台家用服务器或 AI 中心",
+      "link": "https://www.ithome.com/1/017/074.htm",
+      "summary": "IT之家 10 月 23 日消息，据新浪科技今日报道，联想集团董事长兼 CEO 杨元庆在一场内部领导力发展培训项目中，分享了其对下一阶段 AI 产业发展趋势及联想战略的最新判断。 杨元庆认为，随着大模型参数规模进入万亿级别、Token 使用规模持续扩大，如何提升 AI 计算效率、降低 Token 使用成本，将成为 AI 规模化普及的重要课题。 他预测， 未...",
+      "publishedRaw": "Fri, 23 Oct 2026 07:51:09 GMT",
+      "date": "2026-10-23",
+      "source": "IT之家 RSS"
+    },
+    {
+      "title": "比亚迪腾势 N8 四大内饰配色亮相：月满空山、朝雾米、破晓红、晚原棕",
+      "link": "https://www.ithome.com/1/017/073.htm",
+      "summary": "IT之家 10 月 23 日消息，比亚迪腾势 N8 四大内饰配色正式亮相，分别为月满空山、朝雾米、破晓红、晚原棕。 IT之家注意到，腾势 N8“科技新境宽五座 SUV”将于 10 月 26 日开启小订， 11 月正式上市 。比亚迪腾势汽车在 10 月 10 日公布了腾势 N8 三大全新车色 ——“极光绿”、“深空蓝”和“日光橙”。 腾势 N8 是一款大五座...",
+      "publishedRaw": "Fri, 23 Oct 2026 07:46:55 GMT",
+      "date": "2026-10-23",
+      "source": "IT之家 RSS"
+    },
+    {
+      "title": "曜越推出钢影揽月海景房机箱：支持背插 ATX 主板，黑白双色均售 479 元",
+      "link": "https://www.ithome.com/1/017/072.htm",
+      "summary": "IT之家 10 月 23 日消息，曜越现已在京东上架一款钢影揽月海景房机箱，黑白双色定价均为 479 元。 京东 曜越钢影 揽月 海景房机箱 479 元 直达链接 该机箱尺寸为 535.6 x 239 x 484mm。支持安装 ITX、M-ATX、ATX 主板，同时兼容背插式 ATX 主板。前置 I/O 面板包含 1 个 USB-C 接口、2 个 USB-...",
+      "publishedRaw": "Fri, 23 Oct 2026 07:46:09 GMT",
+      "date": "2026-10-23",
+      "source": "IT之家 RSS"
+    }
+  ],
+  "githubHot": [
+    {
+      "name": "php/php-src",
+      "url": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "stars": "41,372",
+      "starsToday": "287",
+      "source": "GitHub Trending",
+      "chineseMeaning": "C 项目，可理解为：围绕“The PHP Interpreter”的开源项目。"
+    },
+    {
+      "name": "anthropics/knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "language": "Python",
+      "stars": "31,823",
+      "starsToday": "303",
+      "source": "GitHub Trending",
+      "chineseMeaning": "Python 项目，主要方向：AI / 大模型。"
+    },
+    {
+      "name": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "stars": "174,081",
+      "starsToday": "1948",
+      "source": "GitHub Trending",
+      "chineseMeaning": "JavaScript 项目，主要方向：AI / 大模型。"
+    },
+    {
+      "name": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "stars": "40,299",
+      "starsToday": "2979",
+      "source": "GitHub Trending",
+      "chineseMeaning": "JavaScript 项目，主要方向：AI / 大模型、安全与隐私。"
+    },
+    {
+      "name": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex,...",
+      "language": "Python",
+      "stars": "133,393",
+      "starsToday": "1408",
+      "source": "GitHub Trending",
+      "chineseMeaning": "Python 项目，主要方向：AI / 大模型。"
+    }
+  ],
+  "builderSignals": [
+    {
+      "title": "extremely impt for pipelining... estimating ETA for its own pipeline fixes while running...",
+      "summary": "extremely impt for pipelining... estimating ETA for its own pipeline fixes while running the pipeline still https://t.co/EGepLMXguH",
+      "author": "",
+      "link": "https://x.com/swyx/status/2113509413537693703",
+      "publishedRaw": "2026-10-23T05:54:45.000Z",
+      "date": "2026-10-23",
+      "source": "follow-builders X"
+    },
+    {
+      "title": "imo this is the right attitude - dont blame AI for finding the bugs, just fucking lock in...",
+      "summary": "imo this is the right attitude - dont blame AI for finding the bugs, just fucking lock in on clearing all the bugs asap https://t.co/8hF2N3gBVa https...",
+      "author": "",
+      "link": "https://x.com/swyx/status/2113359027682050352",
+      "publishedRaw": "2026-10-22T19:57:11.000Z",
+      "date": "2026-10-23",
+      "source": "follow-builders X"
+    },
+    {
+      "title": "Opus 5.5 is the best work estimator model i've ever used. This is calibration that is inc...",
+      "summary": "Opus 5.5 is the best work estimator model i've ever used. This is calibration that is increasingly important as we delegate more and more work — don'...",
+      "author": "",
+      "link": "https://x.com/swyx/status/2113283272130412684",
+      "publishedRaw": "2026-10-22T14:56:09.000Z",
+      "date": "2026-10-22",
+      "source": "follow-builders X"
+    },
+    {
+      "title": "Agent Skills started as an experiment in Claude Code. Many across the industry have come...",
+      "summary": "Agent Skills started as an experiment in Claude Code. Many across the industry have come to adopt it, so we at Anthropic found it more fitting to don...",
+      "author": "",
+      "link": "https://x.com/bcherny/status/2113333859907747871",
+      "publishedRaw": "2026-10-22T18:17:10.000Z",
+      "date": "2026-10-23",
+      "source": "follow-builders X"
+    },
+    {
+      "title": "Landing tomorrow before 10am PST together with a small ship.",
+      "summary": "Landing tomorrow before 10am PST together with a small ship.",
+      "author": "",
+      "link": "https://x.com/thsottiaux/status/2113492502355562875",
+      "publishedRaw": "2026-10-23T04:47:34.000Z",
+      "date": "2026-10-23",
+      "source": "follow-builders X"
+    }
+  ],
+  "demandSignals": [
+    {
+      "title": "上午刚给自己项目开源，下午就收到 hr 裁员，卧槽了，我还没发育完呢",
+      "summary": "花了小一年时间迭代一个项目，刚开源呢，新的 star 还没摸热乎，下午 hr 就像我招手，示意我去聊下 寒暄两句，再就是进入主题，也就是聊我的工作态度，我就觉得对味了 hr:听说最近你的工作态度有点问题呀，不太积极呀 me:em 我现在的想法就是 拿多少钱 干多少活 hr:站在...",
+      "link": "https://www.v2ex.com/t/1251200",
+      "source": "V2EX · 程序员",
+      "publishedRaw": "2026-10-23T03:16:50.000Z",
+      "date": "2026-10-23",
+      "points": 0,
+      "comments": 117,
+      "demandType": "操作难题",
+      "opportunity": "做一键化工具、教程产品或自动化脚本。",
+      "score": 85
+    },
+    {
+      "title": "如果，我是说如果，谈婚论嫁时，女方父母提出让男方婚后工资给女方管理，怎么破局。",
+      "summary": "女方家经济情况不差，女方不是那种以父母为首的人，女方父母接触下来也不是那种不讲道理的人。 彩礼三金之前和女朋友沟通过，都是正常范围，大概是 8-10 区间，给到女朋友，女方父母同样给这么多给女朋友。 女方年收入 14w 左右 男方年收入 30w 左右，房贷剩 50 w 如果，我...",
+      "link": "https://www.v2ex.com/t/1251151",
+      "source": "V2EX · 问与答",
+      "publishedRaw": "2026-10-23T02:11:55.000Z",
+      "date": "2026-10-23",
+      "points": 0,
+      "comments": 101,
+      "demandType": "操作难题",
+      "opportunity": "做一键化工具、教程产品或自动化脚本。",
+      "score": 85
+    },
+    {
+      "title": "大家会记得很久之前发生的事情吗？",
+      "summary": "去年和喜欢的小学同桌恢复了联系，闲聊时我提到咱两坐同桌那会发生了什么，她说：“咱两没坐过同桌”，我很诧异，我俩小学四年级可是做了一学期同桌的，怎么会没有呢？ 转念一想，可能我对她并不重要，人们只会记住自己在意的事情，也很正常。 我对关于她的事情记得很清楚，到现在还清晰记得小学某...",
+      "link": "https://www.v2ex.com/t/1251119",
+      "source": "V2EX · 问与答",
+      "publishedRaw": "2026-10-23T01:14:17.000Z",
+      "date": "2026-10-23",
+      "points": 0,
+      "comments": 83,
+      "demandType": "操作难题",
+      "opportunity": "做一键化工具、教程产品或自动化脚本。",
+      "score": 85
+    },
+    {
+      "title": "国外的天空是否很清澈",
+      "summary": "刚出社会那前几年，年轻有力，想到处跑来玩，旅游。 各种吃喝玩乐，熬夜看日出，见过国内大部分城市华灯初上，纸醉金迷的画面。 什么北京，两湖，两广，云南，贵州等等很多大省都去过。 但是现在感觉好像没有太多的感觉了？再见已是同样的风格，山水亦是记忆重播。 国内倡导大家旅游，各省会跑，...",
+      "link": "https://www.v2ex.com/t/1251143",
+      "source": "V2EX · 生活",
+      "publishedRaw": "2026-10-23T01:49:13.000Z",
+      "date": "2026-10-23",
+      "points": 0,
+      "comments": 78,
+      "demandType": "价格敏感",
+      "opportunity": "做低价替代、开源版本或按量付费方案。",
+      "score": 85
+    },
+    {
+      "title": "求助，刚结婚一百多天，老婆生气不见我怎么办",
+      "summary": "事情是这样的，刚结婚就问我要工资，但是我们在婚前就说过这个话题，她说她不管钱的， 后来就说找个共同资金都卡都放进去，我们用了记一下账，这样都方便也都知道钱花到哪里，都能方便使用，她不愿意，然后国庆假期出去玩机票什么都买好了临出发的时候不去了，我当时也在气头上，我就自己去了，出去...",
+      "link": "https://www.v2ex.com/t/1251212",
+      "source": "V2EX · 问与答",
+      "publishedRaw": "2026-10-23T03:37:44.000Z",
+      "date": "2026-10-23",
+      "points": 0,
+      "comments": 68,
+      "demandType": "操作难题",
+      "opportunity": "做一键化工具、教程产品或自动化脚本。",
+      "score": 85
+    }
+  ],
+  "sourceWarnings": [],
+  "markdown": "# 科技日报 · 2026-10-23\n\n生成时间：2026-10-23 16:13:36（北京时间 UTC+8）\n\n## 科技新闻（10 条）\n\n### 1. [LG 推出“32G650B”31.5 英寸显示器：2K 300Hz，2499 元](https://www.ithome.com/1/017/082.htm)\n\n- 来源：IT之家 RSS · 2026-10-23\n- 摘要：IT之家 10 月 23 日消息，LG 现已在京东上架“32G650B”31.5 英寸显示器，该机主打 2K 300Hz，定价为 2499 元。 该机配备一块 2560x1440 分辨率 300Hz IPS 面板，显示器 GtG 1ms，对比度 1500:1，响应速度 1ms，覆盖 95% DCI-P3 色域。 该机支架支持升降 / 倾斜，显示器本体支持....\n\n### 2. [OpenClaw 小龙虾之父谈 AI 智能体：上个月消耗 Token 成本约 1000 万美元](https://www.ithome.com/1/017/081.htm)\n\n- 来源：IT之家 RSS · 2026-10-23\n- 摘要：IT之家 10 月 23 日消息，OpenClaw 创始人、OpenAI 技术团队成员 Peter Steinberger 透露，他上个月花在 AI 工作上的 Token 费用高达 1,000 万美元 （IT之家注：现汇率约合 6,688.2 万元人民币） 。 Steinberger 在旧金山举行的 Cloudflare Connect 2026 大会上与...\n\n### 3. [比亚迪全新秦 PLUS 车型将于 10 月 27 日上市：新增激光雷达、尺寸全面加大](https://www.ithome.com/1/017/079.htm)\n\n- 来源：IT之家 RSS · 2026-10-23\n- 摘要：IT之家 10 月 23 日消息，比亚迪汽车宣布旗下秦 PLUS 将于 10 月 27 日正式上市。新车整体尺寸全面加大，轴距达到 2800mm，并采用全新设计语言。同时车辆还将新增车顶激光雷达，提升辅助驾驶表现。 该车车辆采用全新设计语言，车头配备狭长前大灯，下方进气口两侧有类似风道的设计；车顶新增车顶激光雷达，进一步提升智能辅助驾驶能力；车身使用传统造...\n\n### 4. [字节火山引擎发布 Seedance 2.5 4K 模型，面向影视级画面生成](https://www.ithome.com/1/017/078.htm)\n\n- 来源：IT之家 RSS · 2026-10-23\n- 摘要：IT之家 10 月 23 日消息，今日，字节跳动旗下火山引擎正式发布 Seedance 2.5 4K，通过专项训练，Seedance 2.5 4K 更充分地学习了人物表情、细微动作与画面细节，是 Seedance 2.5 这一代中最强的模型。 据介绍， Seedance 2.5 4K 支持 Draft（样片）模式，终端用户可先用 480P 样片快速验证分镜...\n\n### 5. [泰坦军团推出“G3280V”31.5 英寸显示器：4K 180Hz QD-OLED，白色边框 / 白色支架，4799 元](https://www.ithome.com/1/017/077.htm)\n\n- 来源：IT之家 RSS · 2026-10-23\n- 摘要：IT之家 10 月 23 日消息，泰坦军团现已在京东上架一款型号为 G3280V 的 31.5 英寸显示器，该机主打 4K 180Hz，定价为 4799 元。 京东 泰坦军团“G3280V”显示器 4799 元 直达链接 该机配备一块 3840x2160 分辨率 180Hz QD-OLED 面板，显示器典型亮度 250 尼特，静态对比度 150 万:1，显...\n\n### 6. [印度 eMudhra 宣布退出全球 SSL / TLS 证书业务，承认密钥生成流程存在缺陷及人为失误](https://www.ithome.com/1/017/076.htm)\n\n- 来源：IT之家 RSS · 2026-10-23\n- 摘要：IT之家 10 月 23 日消息，印度数字信任服务公司 eMudhra 于当地时间 10 月 22 日宣布将退出全球 SSL / TLS 证书业务。 IT之家此前报道，该公司签发的 8 张中间证书存在严重的加密密钥缺陷，其中一张证书对应的私钥竟然是单个数字“4”，攻击者可以在极短时间内破解其并伪造其证书。谷歌、苹果、微软和 Mozilla 随后采取措施，不...\n\n### 7. [消息称苹果就未来 iMac、Studio Display 向厂商发出 LCD 显示面板信息请求](https://www.ithome.com/1/017/075.htm)\n\n- 来源：IT之家 RSS · 2026-10-23\n- 摘要：IT之家 10 月 23 日消息，韩媒 ZDNET Korea 当地时间本月 21 日报道称，Apple（苹果）近日已就未来 iMac 一体机、Studio Display 显示器 向显示企业发出 LCD 显示面板的信息请求 (RFI)。 从 RFI 到 RFQ 再到后续定案、量产、发售都需要时间， 苹果此次请求信息的面板并不与近期产品相关 ，而是瞄准后续...\n\n### 8. [联想杨元庆预测：未来 80% Token 将在终端和边缘生成，每个人都将需要一台家用服务器或 AI 中心](https://www.ithome.com/1/017/074.htm)\n\n- 来源：IT之家 RSS · 2026-10-23\n- 摘要：IT之家 10 月 23 日消息，据新浪科技今日报道，联想集团董事长兼 CEO 杨元庆在一场内部领导力发展培训项目中，分享了其对下一阶段 AI 产业发展趋势及联想战略的最新判断。 杨元庆认为，随着大模型参数规模进入万亿级别、Token 使用规模持续扩大，如何提升 AI 计算效率、降低 Token 使用成本，将成为 AI 规模化普及的重要课题。 他预测， 未...\n\n### 9. [比亚迪腾势 N8 四大内饰配色亮相：月满空山、朝雾米、破晓红、晚原棕](https://www.ithome.com/1/017/073.htm)\n\n- 来源：IT之家 RSS · 2026-10-23\n- 摘要：IT之家 10 月 23 日消息，比亚迪腾势 N8 四大内饰配色正式亮相，分别为月满空山、朝雾米、破晓红、晚原棕。 IT之家注意到，腾势 N8“科技新境宽五座 SUV”将于 10 月 26 日开启小订， 11 月正式上市 。比亚迪腾势汽车在 10 月 10 日公布了腾势 N8 三大全新车色 ——“极光绿”、“深空蓝”和“日光橙”。 腾势 N8 是一款大五座...\n\n### 10. [曜越推出钢影揽月海景房机箱：支持背插 ATX 主板，黑白双色均售 479 元](https://www.ithome.com/1/017/072.htm)\n\n- 来源：IT之家 RSS · 2026-10-23\n- 摘要：IT之家 10 月 23 日消息，曜越现已在京东上架一款钢影揽月海景房机箱，黑白双色定价均为 479 元。 京东 曜越钢影 揽月 海景房机箱 479 元 直达链接 该机箱尺寸为 535.6 x 239 x 484mm。支持安装 ITX、M-ATX、ATX 主板，同时兼容背插式 ATX 主板。前置 I/O 面板包含 1 个 USB-C 接口、2 个 USB-...\n\n## GitHub 热点（5 个）\n\n### 1. [php/php-src](https://github.com/php/php-src)\n\n- 元信息：C · Stars 41,372 · Today +287 · GitHub Trending\n- 中文释义：C 项目，可理解为：围绕“The PHP Interpreter”的开源项目。\n- 原文简介：The PHP Interpreter\n\n### 2. [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)\n\n- 元信息：Python · Stars 31,823 · Today +303 · GitHub Trending\n- 中文释义：Python 项目，主要方向：AI / 大模型。\n- 原文简介：Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork\n\n### 3. [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)\n\n- 元信息：JavaScript · Stars 174,081 · Today +1948 · GitHub Trending\n- 中文释义：JavaScript 项目，主要方向：AI / 大模型。\n- 原文简介：Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.\n\n### 4. [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)\n\n- 元信息：JavaScript · Stars 40,299 · Today +2979 · GitHub Trending\n- 中文释义：JavaScript 项目，主要方向：AI / 大模型、安全与隐私。\n- 原文简介：A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings\n\n### 5. [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)\n\n- 元信息：Python · Stars 133,393 · Today +1408 · GitHub Trending\n- 中文释义：Python 项目，主要方向：AI / 大模型。\n- 原文简介：Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex,...\n\n## AI Builders 动态（5 条）\n\n### 1. [extremely impt for pipelining... estimating ETA for its own pipeline fixes while running...](https://x.com/swyx/status/2113509413537693703)\n\n- 来源：follow-builders X · 2026-10-23\n- 摘要：extremely impt for pipelining... estimating ETA for its own pipeline fixes while running the pipeline still https://t.co/EGepLMXguH\n\n### 2. [imo this is the right attitude - dont blame AI for finding the bugs, just fucking lock in...](https://x.com/swyx/status/2113359027682050352)\n\n- 来源：follow-builders X · 2026-10-23\n- 摘要：imo this is the right attitude - dont blame AI for finding the bugs, just fucking lock in on clearing all the bugs asap https://t.co/8hF2N3gBVa https...\n\n### 3. [Opus 5.5 is the best work estimator model i've ever used. This is calibration that is inc...](https://x.com/swyx/status/2113283272130412684)\n\n- 来源：follow-builders X · 2026-10-22\n- 摘要：Opus 5.5 is the best work estimator model i've ever used. This is calibration that is increasingly important as we delegate more and more work — don'...\n\n### 4. [Agent Skills started as an experiment in Claude Code. Many across the industry have come...](https://x.com/bcherny/status/2113333859907747871)\n\n- 来源：follow-builders X · 2026-10-23\n- 摘要：Agent Skills started as an experiment in Claude Code. Many across the industry have come to adopt it, so we at Anthropic found it more fitting to don...\n\n### 5. [Landing tomorrow before 10am PST together with a small ship.](https://x.com/thsottiaux/status/2113492502355562875)\n\n- 来源：follow-builders X · 2026-10-23\n- 摘要：Landing tomorrow before 10am PST together with a small ship.\n\n## 今日需求雷达（5 条）\n\n### 1. [上午刚给自己项目开源，下午就收到 hr 裁员，卧槽了，我还没发育完呢](https://www.v2ex.com/t/1251200)\n\n- 需求强度：85/100\n- 痛点类型：操作难题\n- 产品机会：做一键化工具、教程产品或自动化脚本。\n- 来源：V2EX · 程序员 · 2026-10-23\n- 原文摘要：花了小一年时间迭代一个项目，刚开源呢，新的 star 还没摸热乎，下午 hr 就像我招手，示意我去聊下 寒暄两句，再就是进入主题，也就是聊我的工作态度，我就觉得对味了 hr:听说最近你的工作态度有点问题呀，不太积极呀 me:em 我现在的想法就是 拿多少钱 干多少活 hr:站在...\n\n### 2. [如果，我是说如果，谈婚论嫁时，女方父母提出让男方婚后工资给女方管理，怎么破局。](https://www.v2ex.com/t/1251151)\n\n- 需求强度：85/100\n- 痛点类型：操作难题\n- 产品机会：做一键化工具、教程产品或自动化脚本。\n- 来源：V2EX · 问与答 · 2026-10-23\n- 原文摘要：女方家经济情况不差，女方不是那种以父母为首的人，女方父母接触下来也不是那种不讲道理的人。 彩礼三金之前和女朋友沟通过，都是正常范围，大概是 8-10 区间，给到女朋友，女方父母同样给这么多给女朋友。 女方年收入 14w 左右 男方年收入 30w 左右，房贷剩 50 w 如果，我...\n\n### 3. [大家会记得很久之前发生的事情吗？](https://www.v2ex.com/t/1251119)\n\n- 需求强度：85/100\n- 痛点类型：操作难题\n- 产品机会：做一键化工具、教程产品或自动化脚本。\n- 来源：V2EX · 问与答 · 2026-10-23\n- 原文摘要：去年和喜欢的小学同桌恢复了联系，闲聊时我提到咱两坐同桌那会发生了什么，她说：“咱两没坐过同桌”，我很诧异，我俩小学四年级可是做了一学期同桌的，怎么会没有呢？ 转念一想，可能我对她并不重要，人们只会记住自己在意的事情，也很正常。 我对关于她的事情记得很清楚，到现在还清晰记得小学某...\n\n### 4. [国外的天空是否很清澈](https://www.v2ex.com/t/1251143)\n\n- 需求强度：85/100\n- 痛点类型：价格敏感\n- 产品机会：做低价替代、开源版本或按量付费方案。\n- 来源：V2EX · 生活 · 2026-10-23\n- 原文摘要：刚出社会那前几年，年轻有力，想到处跑来玩，旅游。 各种吃喝玩乐，熬夜看日出，见过国内大部分城市华灯初上，纸醉金迷的画面。 什么北京，两湖，两广，云南，贵州等等很多大省都去过。 但是现在感觉好像没有太多的感觉了？再见已是同样的风格，山水亦是记忆重播。 国内倡导大家旅游，各省会跑，...\n\n### 5. [求助，刚结婚一百多天，老婆生气不见我怎么办](https://www.v2ex.com/t/1251212)\n\n- 需求强度：85/100\n- 痛点类型：操作难题\n- 产品机会：做一键化工具、教程产品或自动化脚本。\n- 来源：V2EX · 问与答 · 2026-10-23\n- 原文摘要：事情是这样的，刚结婚就问我要工资，但是我们在婚前就说过这个话题，她说她不管钱的， 后来就说找个共同资金都卡都放进去，我们用了记一下账，这样都方便也都知道钱花到哪里，都能方便使用，她不愿意，然后国庆假期出去玩机票什么都买好了临出发的时候不去了，我当时也在气头上，我就自己去了，出去...\n"
+}
