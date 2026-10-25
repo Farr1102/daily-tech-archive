@@ -1,0 +1,260 @@
+{
+  "date": "2026-10-25",
+  "generatedAt": "2026-10-25 16:05:21",
+  "timezone": "Asia/Shanghai",
+  "timezoneLabel": "北京时间 UTC+8",
+  "newsCount": 10,
+  "githubCount": 5,
+  "builderSignalCount": 5,
+  "demandSignalCount": 5,
+  "news": [
+    {
+      "title": "台电推出星耀 NAT 高速固态 U 盘，491 元起",
+      "link": "https://www.ithome.com/1/017/623.htm",
+      "summary": "IT之家 10 月 25 日消息，台电现已推出星耀 NAT 高速固态 U 盘， 新品采用 Type-C、Type-A 双接头设计 ，读取速度可达 1060MB/s， 售价 491 元起 。 据介绍，这款产品采用慧荣 SMI 主控，读取速度可达 1060MB/s，写入速度最高 980MB/s，采用自带接口设计，可免线直连。 同时，该产品内置 USB Type...",
+      "publishedRaw": "Sun, 25 Oct 2026 08:02:15 GMT",
+      "date": "2026-10-25",
+      "source": "IT之家 RSS"
+    },
+    {
+      "title": "野村证券：存储芯片需求在 2028 年前仍将快速增长，AI 投资前景被过度担忧",
+      "link": "https://www.ithome.com/1/017/622.htm",
+      "summary": "IT之家 10 月 25 日消息，据韩媒 Chosunbiz 报道，野村证券 20 日发布乐观预测，认为尽管 AI 企业营收增速放缓、融资前景引发担忧，全球存储芯片需求 仍将在 2028 年前保持快速增长 。 野村证券在最新全球存储芯片行业报告中，将三星电子和 SK 海力士列为重点推荐股票， 均给予“买入”评级 ，目标股价分别为 67 万韩元 （IT之家注...",
+      "publishedRaw": "Sun, 25 Oct 2026 07:57:49 GMT",
+      "date": "2026-10-25",
+      "source": "IT之家 RSS"
+    },
+    {
+      "title": "HMD 新款欧洲版 Fusion 手机规格曝光：升级骁龙 7s Gen 2 芯片、120Hz 刷新率",
+      "link": "https://www.ithome.com/1/017/621.htm",
+      "summary": "IT之家 10 月 25 日消息，消息源 smashx_60 现已曝光了 HMD 新款欧版 Fusion 手机，该机相对于现款 Fusion 机型主要换用了骁龙 7s Gen 2 芯片，以增强性能。 具体来看，该机将搭载一块 6.56 英寸 FHD+ 120Hz IPS LCD 面板，匹配 50Mp 自拍摄像头；手机背面搭载 108Mp 主摄及 2 Mp...",
+      "publishedRaw": "Sun, 25 Oct 2026 07:56:40 GMT",
+      "date": "2026-10-25",
+      "source": "IT之家 RSS"
+    },
+    {
+      "title": "星闪 3.0 标准成果发布：面向全场景智能物联，瞄准 AI、无源、毫米波等方向",
+      "link": "https://www.ithome.com/1/017/620.htm",
+      "summary": "IT之家 10 月 25 日消息，以“星闪 AI · 智合万物”为主题的 CEIC2026 暨国际星闪联盟产业峰会已于 10 月 22 日在深圳会展中心（福田）举行。 在星闪 3.0 标准成果发布环节，国际星闪联盟理事长石晶林与中国信息通信研究院、中国电子技术标准化研究院、国家无线电监测中心检测中心、中国标准化研究院、中国汽车技术研究中心、中国电子音响行业...",
+      "publishedRaw": "Sun, 25 Oct 2026 07:53:28 GMT",
+      "date": "2026-10-25",
+      "source": "IT之家 RSS"
+    },
+    {
+      "title": "米哈游《原神》首家官方常设咖啡厅将落地日本东京，明年 1 月开幕",
+      "link": "https://www.ithome.com/1/017/619.htm",
+      "summary": "IT之家 10 月 25 日消息，米哈游宣布，旗下开放世界 RPG《原神（Genshin Impact）》首家官方常设咖啡厅“原神 CAFE”将于 2027 年 1 月 20 日在日本东京有乐町丸井百货 3 楼开业，店内将推出融合作品世界观的餐点、限定周边商品及各类主题活动。 据米哈游介绍，“原神 CAFE”以“旅途中的小憩（旅の途中の、寄り道。）”为理念...",
+      "publishedRaw": "Sun, 25 Oct 2026 07:49:15 GMT",
+      "date": "2026-10-25",
+      "source": "IT之家 RSS"
+    },
+    {
+      "title": "AI 云厂商 Nscale“摊上事了”，被前工程师指控报复性解雇、违法使用分包人员",
+      "link": "https://www.ithome.com/1/017/618.htm",
+      "summary": "IT之家 10 月 25 日消息，据彭博社 23 日报道，英国 AI 基础设施企业 Nscale 遭到一名工程师起诉。这名工程师曾在 Nscale 位于挪威的数据中心工作，指控该公司 违法采用分包用工模式，并涉及不当解雇 。 诉状称，该工程师通过分包商 CloudBrothers 进入数据中心工作，实际雇主却是 Nscale，违反了挪威法律。他还指控，自己...",
+      "publishedRaw": "Sun, 25 Oct 2026 07:41:03 GMT",
+      "date": "2026-10-25",
+      "source": "IT之家 RSS"
+    },
+    {
+      "title": "华为 HarmonyOS 7.0.0.111 版本暗藏新特性：“智慧场景服务”上线，集成鸿蒙座舱车辆自动化能力",
+      "link": "https://www.ithome.com/1/017/617.htm",
+      "summary": "IT之家 10 月 25 日消息，华为昨日面向 Mate X7、Mate80、Mate70、Pura80 等系列机型 推送了最新的鸿蒙 HarmonyOS 7.0.0.111 SP12 版本升级 ，带来了与 iPhone 双机互联，实况窗分享等功能。 ▲ IT之家开箱：华为 Mate 80 Pro Max 风驰版图赏 IT之家实测发现，新版本还“暗藏”新特...",
+      "publishedRaw": "Sun, 25 Oct 2026 07:40:53 GMT",
+      "date": "2026-10-25",
+      "source": "IT之家 RSS"
+    },
+    {
+      "title": "Lava 推出 Aura Curve 手机：曲面屏 + 背部副屏，天玑 7100 芯片",
+      "link": "https://www.ithome.com/1/017/616.htm",
+      "summary": "IT之家 10 月 25 日消息，Lava 现已在印度市场推出 Aura Curve 手机。新品采用曲面屏 + 背部副屏的组合配置， 售价 23,999 卢比 （IT之家注：现汇率约合 1,690 元人民币） 。 据介绍，这款手机搭载联发科天玑 7100 处理器，安兔兔跑分超 80 万分，拥有 6GB 内存和 128GB 存储空间。正面配备一块 6.67...",
+      "publishedRaw": "Sun, 25 Oct 2026 07:38:39 GMT",
+      "date": "2026-10-25",
+      "source": "IT之家 RSS"
+    },
+    {
+      "title": "九州风神推出 StationX 622 双塔风冷散热器：搭 6 根 6mm 热管，解热功耗 540W，899 元",
+      "link": "https://www.ithome.com/1/017/615.htm",
+      "summary": "IT之家 10 月 25 日消息，九州风神 DeepCool 现已在京东上架 StationX 622 风冷散热器，该产品号称专为工作站及服务器级系统打造，主要应对 3D 渲染与 AI 训练等生产力场景， 定价为 899 元 。 京东 九州风神 StationX 622 风冷散热器 899 元 直达链接 该散热器采用双塔结构，整体尺寸为 127 x 148...",
+      "publishedRaw": "Sun, 25 Oct 2026 07:35:18 GMT",
+      "date": "2026-10-25",
+      "source": "IT之家 RSS"
+    },
+    {
+      "title": "英伟达黄仁勋：市场对新型云服务商的需求高到离谱，但问题是缺钱",
+      "link": "https://www.ithome.com/1/017/614.htm",
+      "summary": "IT之家 10 月 25 日消息，当地时间 22 日，英伟达 CEO 黄仁勋接受美国 CNBC 采访时说，市场对新型云服务商的需求极其旺盛，“高到离谱（off the charts）”，但资金短缺正成为制约行业发展的主要障碍。“从基本面看，新型云服务商的市场需求非常旺盛。” 他还称，这些企业的能力“非同寻常”。“眼下最缺的是 支撑企业增长的营运资金 ……...",
+      "publishedRaw": "Sun, 25 Oct 2026 07:27:22 GMT",
+      "date": "2026-10-25",
+      "source": "IT之家 RSS"
+    }
+  ],
+  "githubHot": [
+    {
+      "name": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "stars": "45,336",
+      "starsToday": "2264",
+      "source": "GitHub Trending",
+      "chineseMeaning": "JavaScript 项目，主要方向：AI / 大模型、安全与隐私。"
+    },
+    {
+      "name": "NVIDIA/OpenShell",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "language": "Rust",
+      "stars": "19,656",
+      "starsToday": "896",
+      "source": "GitHub Trending",
+      "chineseMeaning": "Rust 项目，主要方向：AI / 大模型。"
+    },
+    {
+      "name": "aws/agent-toolkit-for-aws",
+      "url": "https://github.com/aws/agent-toolkit-for-aws",
+      "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
+      "language": "Python",
+      "stars": "3,223",
+      "starsToday": "13",
+      "source": "GitHub Trending",
+      "chineseMeaning": "Python 项目，主要方向：AI / 大模型、开发框架或工具库。"
+    },
+    {
+      "name": "Nutlope/hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "language": "CSS",
+      "stars": "32,566",
+      "starsToday": "455",
+      "source": "GitHub Trending",
+      "chineseMeaning": "CSS 项目，主要方向：AI / 大模型、网页 / 前端体验。"
+    },
+    {
+      "name": "luongnv89/claude-howto",
+      "url": "https://github.com/luongnv89/claude-howto",
+      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "language": "Python",
+      "stars": "44,764",
+      "starsToday": "392",
+      "source": "GitHub Trending",
+      "chineseMeaning": "Python 项目，主要方向：AI / 大模型。"
+    }
+  ],
+  "builderSignals": [
+    {
+      "title": "part time and oneoff guest posts welcome https://t.co/XoIbSxRbod",
+      "summary": "part time and oneoff guest posts welcome https://t.co/XoIbSxRbod",
+      "author": "",
+      "link": "https://x.com/swyx/status/2114149330135519730",
+      "publishedRaw": "2026-10-25T00:17:33.000Z",
+      "date": "2026-10-25",
+      "source": "follow-builders X"
+    },
+    {
+      "title": "we are hiring writers, reviewers and reporters for the new @latentspacepod editorial team...",
+      "summary": "we are hiring writers, reviewers and reporters for the new @latentspacepod editorial team (hit up @ricmac and @adlinzainal) and i’m gonna put a versi...",
+      "author": "",
+      "link": "https://x.com/swyx/status/2114145315196711194",
+      "publishedRaw": "2026-10-25T00:01:36.000Z",
+      "date": "2026-10-25",
+      "source": "follow-builders X"
+    },
+    {
+      "title": "It is all propagated. Enjoy some mad codexing tomorrow. Fun week ahead too. https://t.co/...",
+      "summary": "It is all propagated. Enjoy some mad codexing tomorrow. Fun week ahead too. https://t.co/qOrzwSeIZZ https://t.co/xKaK95EAly",
+      "author": "",
+      "link": "https://x.com/thsottiaux/status/2114237083652882932",
+      "publishedRaw": "2026-10-25T06:06:16.000Z",
+      "date": "2026-10-25",
+      "source": "follow-builders X"
+    },
+    {
+      "title": "By midnight PST",
+      "summary": "By midnight PST",
+      "author": "",
+      "link": "https://x.com/thsottiaux/status/2114200291319124163",
+      "publishedRaw": "2026-10-25T03:40:04.000Z",
+      "date": "2026-10-25",
+      "source": "follow-builders X"
+    },
+    {
+      "title": "Day 20/ Rest and reset",
+      "summary": "Day 20/ Rest and reset",
+      "author": "",
+      "link": "https://x.com/thsottiaux/status/2114200152701575656",
+      "publishedRaw": "2026-10-25T03:39:31.000Z",
+      "date": "2026-10-25",
+      "source": "follow-builders X"
+    }
+  ],
+  "demandSignals": [
+    {
+      "title": "Bing 中国大陆搜索是否存在对部分国外网站的刻意降权或隐藏？",
+      "summary": "最近发现一个非常奇怪的现象。 在中国大陆使用 Bing 搜索时，输入一些知名国外网站的名称或域名，例如： themoviedb google youtube telegram x.com openai Bing 似乎不会优先展示这些网站的官方网站，甚至在搜索结果前几页都找不到官...",
+      "link": "https://www.v2ex.com/t/1251598",
+      "source": "V2EX · Bing",
+      "publishedRaw": "2026-10-25T01:48:36.000Z",
+      "date": "2026-10-25",
+      "points": 0,
+      "comments": 23,
+      "demandType": "工具选型",
+      "opportunity": "做细分场景榜单、决策助手或模板库。",
+      "score": 85
+    },
+    {
+      "title": "Feature request",
+      "summary": "Sample issue to test GitHub automation for adding comments to issues.",
+      "link": "https://github.com/karthikabinav/auto-comment-bot-x/issues/3839",
+      "source": "GitHub Issue · karthikabinav/auto-comment-bot-x",
+      "publishedRaw": "2026-10-25T03:19:54Z",
+      "date": "2026-10-25",
+      "points": 0,
+      "comments": 61,
+      "demandType": "自动化需求",
+      "opportunity": "把重复流程封装成工作流、浏览器插件或轻量 SaaS。",
+      "score": 60
+    },
+    {
+      "title": "[upstream] 上游网关调度、计费与账号问题跟踪 — 线索 2026-W43",
+      "summary": "upstream 来源本期关键词线索；仅供排查参考。 这些条目**未经人工核验**，不是待办：勾选在此无效。 确认要做的请在 ops/issue-watchdog 账本登记判断，下一轮它会进入跟踪队列。 下一周期开启时本单自动关闭（不删除），历史可检索。",
+      "link": "https://github.com/youxuanxue/sub2api/issues/2892",
+      "source": "GitHub Issue · youxuanxue/sub2api",
+      "publishedRaw": "2026-10-25T07:09:43Z",
+      "date": "2026-10-25",
+      "points": 0,
+      "comments": 37,
+      "demandType": "自动化需求",
+      "opportunity": "把重复流程封装成工作流、浏览器插件或轻量 SaaS。",
+      "score": 60
+    },
+    {
+      "title": "一个中年离职程序员的碎碎念&求职一份 AI 相关的工作",
+      "summary": "开始之前，先说明这里是一些个人过往经历，但是更多的以经历说明求职，如果您在上海，也在招人我们可以聊聊，招人的话直接看最后面 个人情况：14 年毕业，目前 34 岁，最近 8 年干了两份工作，都是上海一点五线左右的公司（这里稍微隐晦一点，避免过于放大，部分身边朋友应该可以对得上我...",
+      "link": "https://www.v2ex.com/t/1251496",
+      "source": "V2EX · 求职",
+      "publishedRaw": "2026-10-24T08:45:04.000Z",
+      "date": "2026-10-24",
+      "points": 0,
+      "comments": 21,
+      "demandType": "操作难题",
+      "opportunity": "做一键化工具、教程产品或自动化脚本。",
+      "score": 84
+    },
+    {
+      "title": "Ask HN: Linux at work revoked due to MDM, how to fight?",
+      "summary": "",
+      "link": "https://news.ycombinator.com/item?id=50220301",
+      "source": "Hacker News Ask HN",
+      "publishedRaw": "2026-10-24T11:37:08Z",
+      "date": "2026-10-24",
+      "points": 5,
+      "comments": 7,
+      "demandType": "操作难题",
+      "opportunity": "做一键化工具、教程产品或自动化脚本。",
+      "score": 80
+    }
+  ],
+  "sourceWarnings": [],
+  "markdown": "# 科技日报 · 2026-10-25\n\n生成时间：2026-10-25 16:05:21（北京时间 UTC+8）\n\n## 科技新闻（10 条）\n\n### 1. [台电推出星耀 NAT 高速固态 U 盘，491 元起](https://www.ithome.com/1/017/623.htm)\n\n- 来源：IT之家 RSS · 2026-10-25\n- 摘要：IT之家 10 月 25 日消息，台电现已推出星耀 NAT 高速固态 U 盘， 新品采用 Type-C、Type-A 双接头设计 ，读取速度可达 1060MB/s， 售价 491 元起 。 据介绍，这款产品采用慧荣 SMI 主控，读取速度可达 1060MB/s，写入速度最高 980MB/s，采用自带接口设计，可免线直连。 同时，该产品内置 USB Type...\n\n### 2. [野村证券：存储芯片需求在 2028 年前仍将快速增长，AI 投资前景被过度担忧](https://www.ithome.com/1/017/622.htm)\n\n- 来源：IT之家 RSS · 2026-10-25\n- 摘要：IT之家 10 月 25 日消息，据韩媒 Chosunbiz 报道，野村证券 20 日发布乐观预测，认为尽管 AI 企业营收增速放缓、融资前景引发担忧，全球存储芯片需求 仍将在 2028 年前保持快速增长 。 野村证券在最新全球存储芯片行业报告中，将三星电子和 SK 海力士列为重点推荐股票， 均给予“买入”评级 ，目标股价分别为 67 万韩元 （IT之家注...\n\n### 3. [HMD 新款欧洲版 Fusion 手机规格曝光：升级骁龙 7s Gen 2 芯片、120Hz 刷新率](https://www.ithome.com/1/017/621.htm)\n\n- 来源：IT之家 RSS · 2026-10-25\n- 摘要：IT之家 10 月 25 日消息，消息源 smashx_60 现已曝光了 HMD 新款欧版 Fusion 手机，该机相对于现款 Fusion 机型主要换用了骁龙 7s Gen 2 芯片，以增强性能。 具体来看，该机将搭载一块 6.56 英寸 FHD+ 120Hz IPS LCD 面板，匹配 50Mp 自拍摄像头；手机背面搭载 108Mp 主摄及 2 Mp....\n\n### 4. [星闪 3.0 标准成果发布：面向全场景智能物联，瞄准 AI、无源、毫米波等方向](https://www.ithome.com/1/017/620.htm)\n\n- 来源：IT之家 RSS · 2026-10-25\n- 摘要：IT之家 10 月 25 日消息，以“星闪 AI · 智合万物”为主题的 CEIC2026 暨国际星闪联盟产业峰会已于 10 月 22 日在深圳会展中心（福田）举行。 在星闪 3.0 标准成果发布环节，国际星闪联盟理事长石晶林与中国信息通信研究院、中国电子技术标准化研究院、国家无线电监测中心检测中心、中国标准化研究院、中国汽车技术研究中心、中国电子音响行业...\n\n### 5. [米哈游《原神》首家官方常设咖啡厅将落地日本东京，明年 1 月开幕](https://www.ithome.com/1/017/619.htm)\n\n- 来源：IT之家 RSS · 2026-10-25\n- 摘要：IT之家 10 月 25 日消息，米哈游宣布，旗下开放世界 RPG《原神（Genshin Impact）》首家官方常设咖啡厅“原神 CAFE”将于 2027 年 1 月 20 日在日本东京有乐町丸井百货 3 楼开业，店内将推出融合作品世界观的餐点、限定周边商品及各类主题活动。 据米哈游介绍，“原神 CAFE”以“旅途中的小憩（旅の途中の、寄り道。）”为理念...\n\n### 6. [AI 云厂商 Nscale“摊上事了”，被前工程师指控报复性解雇、违法使用分包人员](https://www.ithome.com/1/017/618.htm)\n\n- 来源：IT之家 RSS · 2026-10-25\n- 摘要：IT之家 10 月 25 日消息，据彭博社 23 日报道，英国 AI 基础设施企业 Nscale 遭到一名工程师起诉。这名工程师曾在 Nscale 位于挪威的数据中心工作，指控该公司 违法采用分包用工模式，并涉及不当解雇 。 诉状称，该工程师通过分包商 CloudBrothers 进入数据中心工作，实际雇主却是 Nscale，违反了挪威法律。他还指控，自己...\n\n### 7. [华为 HarmonyOS 7.0.0.111 版本暗藏新特性：“智慧场景服务”上线，集成鸿蒙座舱车辆自动化能力](https://www.ithome.com/1/017/617.htm)\n\n- 来源：IT之家 RSS · 2026-10-25\n- 摘要：IT之家 10 月 25 日消息，华为昨日面向 Mate X7、Mate80、Mate70、Pura80 等系列机型 推送了最新的鸿蒙 HarmonyOS 7.0.0.111 SP12 版本升级 ，带来了与 iPhone 双机互联，实况窗分享等功能。 ▲ IT之家开箱：华为 Mate 80 Pro Max 风驰版图赏 IT之家实测发现，新版本还“暗藏”新特...\n\n### 8. [Lava 推出 Aura Curve 手机：曲面屏 + 背部副屏，天玑 7100 芯片](https://www.ithome.com/1/017/616.htm)\n\n- 来源：IT之家 RSS · 2026-10-25\n- 摘要：IT之家 10 月 25 日消息，Lava 现已在印度市场推出 Aura Curve 手机。新品采用曲面屏 + 背部副屏的组合配置， 售价 23,999 卢比 （IT之家注：现汇率约合 1,690 元人民币） 。 据介绍，这款手机搭载联发科天玑 7100 处理器，安兔兔跑分超 80 万分，拥有 6GB 内存和 128GB 存储空间。正面配备一块 6.67....\n\n### 9. [九州风神推出 StationX 622 双塔风冷散热器：搭 6 根 6mm 热管，解热功耗 540W，899 元](https://www.ithome.com/1/017/615.htm)\n\n- 来源：IT之家 RSS · 2026-10-25\n- 摘要：IT之家 10 月 25 日消息，九州风神 DeepCool 现已在京东上架 StationX 622 风冷散热器，该产品号称专为工作站及服务器级系统打造，主要应对 3D 渲染与 AI 训练等生产力场景， 定价为 899 元 。 京东 九州风神 StationX 622 风冷散热器 899 元 直达链接 该散热器采用双塔结构，整体尺寸为 127 x 148...\n\n### 10. [英伟达黄仁勋：市场对新型云服务商的需求高到离谱，但问题是缺钱](https://www.ithome.com/1/017/614.htm)\n\n- 来源：IT之家 RSS · 2026-10-25\n- 摘要：IT之家 10 月 25 日消息，当地时间 22 日，英伟达 CEO 黄仁勋接受美国 CNBC 采访时说，市场对新型云服务商的需求极其旺盛，“高到离谱（off the charts）”，但资金短缺正成为制约行业发展的主要障碍。“从基本面看，新型云服务商的市场需求非常旺盛。” 他还称，这些企业的能力“非同寻常”。“眼下最缺的是 支撑企业增长的营运资金 ……....\n\n## GitHub 热点（5 个）\n\n### 1. [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill)\n\n- 元信息：JavaScript · Stars 45,336 · Today +2264 · GitHub Trending\n- 中文释义：JavaScript 项目，主要方向：AI / 大模型、安全与隐私。\n- 原文简介：A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings\n\n### 2. [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell)\n\n- 元信息：Rust · Stars 19,656 · Today +896 · GitHub Trending\n- 中文释义：Rust 项目，主要方向：AI / 大模型。\n- 原文简介：OpenShell is the safe, private runtime for autonomous AI agents.\n\n### 3. [aws/agent-toolkit-for-aws](https://github.com/aws/agent-toolkit-for-aws)\n\n- 元信息：Python · Stars 3,223 · Today +13 · GitHub Trending\n- 中文释义：Python 项目，主要方向：AI / 大模型、开发框架或工具库。\n- 原文简介：Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS\n\n### 4. [Nutlope/hallmark](https://github.com/Nutlope/hallmark)\n\n- 元信息：CSS · Stars 32,566 · Today +455 · GitHub Trending\n- 中文释义：CSS 项目，主要方向：AI / 大模型、网页 / 前端体验。\n- 原文简介：Anti-AI-slop design skill for Claude Code, Cursor, and Codex.\n\n### 5. [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto)\n\n- 元信息：Python · Stars 44,764 · Today +392 · GitHub Trending\n- 中文释义：Python 项目，主要方向：AI / 大模型。\n- 原文简介：A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.\n\n## AI Builders 动态（5 条）\n\n### 1. [part time and oneoff guest posts welcome https://t.co/XoIbSxRbod](https://x.com/swyx/status/2114149330135519730)\n\n- 来源：follow-builders X · 2026-10-25\n- 摘要：part time and oneoff guest posts welcome https://t.co/XoIbSxRbod\n\n### 2. [we are hiring writers, reviewers and reporters for the new @latentspacepod editorial team...](https://x.com/swyx/status/2114145315196711194)\n\n- 来源：follow-builders X · 2026-10-25\n- 摘要：we are hiring writers, reviewers and reporters for the new @latentspacepod editorial team (hit up @ricmac and @adlinzainal) and i’m gonna put a versi...\n\n### 3. [It is all propagated. Enjoy some mad codexing tomorrow. Fun week ahead too. https://t.co/...](https://x.com/thsottiaux/status/2114237083652882932)\n\n- 来源：follow-builders X · 2026-10-25\n- 摘要：It is all propagated. Enjoy some mad codexing tomorrow. Fun week ahead too. https://t.co/qOrzwSeIZZ https://t.co/xKaK95EAly\n\n### 4. [By midnight PST](https://x.com/thsottiaux/status/2114200291319124163)\n\n- 来源：follow-builders X · 2026-10-25\n- 摘要：By midnight PST\n\n### 5. [Day 20/ Rest and reset](https://x.com/thsottiaux/status/2114200152701575656)\n\n- 来源：follow-builders X · 2026-10-25\n- 摘要：Day 20/ Rest and reset\n\n## 今日需求雷达（5 条）\n\n### 1. [Bing 中国大陆搜索是否存在对部分国外网站的刻意降权或隐藏？](https://www.v2ex.com/t/1251598)\n\n- 需求强度：85/100\n- 痛点类型：工具选型\n- 产品机会：做细分场景榜单、决策助手或模板库。\n- 来源：V2EX · Bing · 2026-10-25\n- 原文摘要：最近发现一个非常奇怪的现象。 在中国大陆使用 Bing 搜索时，输入一些知名国外网站的名称或域名，例如： themoviedb google youtube telegram x.com openai Bing 似乎不会优先展示这些网站的官方网站，甚至在搜索结果前几页都找不到官...\n\n### 2. [Feature request](https://github.com/karthikabinav/auto-comment-bot-x/issues/3839)\n\n- 需求强度：60/100\n- 痛点类型：自动化需求\n- 产品机会：把重复流程封装成工作流、浏览器插件或轻量 SaaS。\n- 来源：GitHub Issue · karthikabinav/auto-comment-bot-x · 2026-10-25\n- 原文摘要：Sample issue to test GitHub automation for adding comments to issues.\n\n### 3. [[upstream\\] 上游网关调度、计费与账号问题跟踪 — 线索 2026-W43](https://github.com/youxuanxue/sub2api/issues/2892)\n\n- 需求强度：60/100\n- 痛点类型：自动化需求\n- 产品机会：把重复流程封装成工作流、浏览器插件或轻量 SaaS。\n- 来源：GitHub Issue · youxuanxue/sub2api · 2026-10-25\n- 原文摘要：upstream 来源本期关键词线索；仅供排查参考。 这些条目**未经人工核验**，不是待办：勾选在此无效。 确认要做的请在 ops/issue-watchdog 账本登记判断，下一轮它会进入跟踪队列。 下一周期开启时本单自动关闭（不删除），历史可检索。\n\n### 4. [一个中年离职程序员的碎碎念&求职一份 AI 相关的工作](https://www.v2ex.com/t/1251496)\n\n- 需求强度：84/100\n- 痛点类型：操作难题\n- 产品机会：做一键化工具、教程产品或自动化脚本。\n- 来源：V2EX · 求职 · 2026-10-24\n- 原文摘要：开始之前，先说明这里是一些个人过往经历，但是更多的以经历说明求职，如果您在上海，也在招人我们可以聊聊，招人的话直接看最后面 个人情况：14 年毕业，目前 34 岁，最近 8 年干了两份工作，都是上海一点五线左右的公司（这里稍微隐晦一点，避免过于放大，部分身边朋友应该可以对得上我...\n\n### 5. [Ask HN: Linux at work revoked due to MDM, how to fight?](https://news.ycombinator.com/item?id=50220301)\n\n- 需求强度：80/100\n- 痛点类型：操作难题\n- 产品机会：做一键化工具、教程产品或自动化脚本。\n- 来源：Hacker News Ask HN · 2026-10-24\n"
+}
