@@ -1,0 +1,260 @@
+{
+  "date": "2026-10-26",
+  "generatedAt": "2026-10-26 16:29:26",
+  "timezone": "Asia/Shanghai",
+  "timezoneLabel": "北京时间 UTC+8",
+  "newsCount": 10,
+  "githubCount": 5,
+  "builderSignalCount": 5,
+  "demandSignalCount": 5,
+  "news": [
+    {
+      "title": "智元发布重载具身机器人精灵 G2 Max，双臂额定负载 40kg",
+      "link": "https://www.ithome.com/1/017/951.htm",
+      "summary": "IT之家 10 月 26 日消息，智元今日发布安规级重载具身机器人精灵 G2 Max，面向拆码垛、物料转运及产线供料等工业场景。该产品单臂负载 20kg、双臂额定负载 40kg， 双臂峰值负载可达 50kg ，手臂重复定位精度≤±0.5mm。 据智元披露，G2 Max 已在多条产线投入运行，在电商仓储场景中，作业成功率超过 99%，每小时可拆垛 80 箱、...",
+      "publishedRaw": "Mon, 26 Oct 2026 08:27:44 GMT",
+      "date": "2026-10-26",
+      "source": "IT之家 RSS"
+    },
+    {
+      "title": "松下员工违规上传同事及家属信息至 GenAI 服务，影响 33.4 万人",
+      "link": "https://www.ithome.com/1/017/949.htm",
+      "summary": "IT之家 10 月 26 日消息，松下卓越运营 (PEX) 日本当地时间本月 23 日发布公告，就其与子公司松下数字共同开展的人力资源信息系统项目出现的信息违规上传事件进行通告并向受影响者致歉。 根据公告，负责人力资源信息系统项目的一名员工违反既定规则， 将包含现员工、前员工及员工家属的数据上传到禁止使用的外部生成式人工智能服务平台 。 此次事件影响到使用...",
+      "publishedRaw": "Mon, 26 Oct 2026 08:22:17 GMT",
+      "date": "2026-10-26",
+      "source": "IT之家 RSS"
+    },
+    {
+      "title": "我国首次承担 ISO 研究基金项目，信息安全标准与数字贸易成果发布",
+      "link": "https://www.ithome.com/1/017/947.htm",
+      "summary": "IT之家 10 月 26 日消息，据央视新闻报道，记者今天从国家标准委了解到，国际标准化组织（ISO）正式发布《ISO / IEC 27001 标准对数字贸易的影响》研究报告。该报告为 ISO 研究基金项目成果，阐明了国际标准赋能数字贸易的内在机制，为建设安全、可信、韧性的全球数字贸易体系提供了中国方案。 这是我国首次承担 ISO 研究基金项目 。 围绕“...",
+      "publishedRaw": "Mon, 26 Oct 2026 08:16:39 GMT",
+      "date": "2026-10-26",
+      "source": "IT之家 RSS"
+    },
+    {
+      "title": "惠普星 Book Air 14 发售：薯条标、酷睿 5 320+16G+512G 售 5298 元",
+      "link": "https://www.ithome.com/1/017/946.htm",
+      "summary": "IT之家 10 月 26 日消息，惠普旗下星 Book Air 14 轻薄本电脑现已在京东发售，该机采用英特尔酷睿 5 320 处理器，配备 16GB RAM 和 512GB SSD， 京东首发价 5298 元，叠加国补后约为 4504.15 元。 京东 惠普星 Book Air 14 酷睿 5 320+16G+512G 券后 5298 元 领 500 元...",
+      "publishedRaw": "Mon, 26 Oct 2026 08:14:29 GMT",
+      "date": "2026-10-26",
+      "source": "IT之家 RSS"
+    },
+    {
+      "title": "英伟达为开发者更新路径追踪工具：性能提升 20%，支持 Windows on Arm",
+      "link": "https://www.ithome.com/1/017/945.htm",
+      "summary": "IT之家 10 月 26 日消息，英伟达面向开发者的 RTX Path Tracing 路径追踪开发工具已更新至 1.9.0 版本，性能最高提升 20%，并支持 WoA（Windows on Arm）平台。 可用于 RTX Spark 笔记本 。 据介绍，RTX Path Tracing 是一款免费的开发工具和技术演示程序，整合英伟达最新 RTX SDK...",
+      "publishedRaw": "Mon, 26 Oct 2026 08:08:54 GMT",
+      "date": "2026-10-26",
+      "source": "IT之家 RSS"
+    },
+    {
+      "title": "倍思飓风 3 号 160W 屏显充电头首销：3C 设计、支持 PD AVS / MiPPS 协议，带主动散热，399 元",
+      "link": "https://www.ithome.com/1/017/944.htm",
+      "summary": "IT之家 10 月 26 日消息，倍思飓风 3 号 160W 全协议氮化镓屏显充电头现已在京东发售，该机采用 3C 设计，支持 PD AVS 协议，配备主动散热能力， 定价为 399 元 。 京东 倍思飓风 3 号 160W 充电头 399 元 直达链接 据官方介绍，该充电头搭载 1.8 英寸 TFT 屏幕，可实时显示功率、预估充电时长、温控等充电状态，行...",
+      "publishedRaw": "Mon, 26 Oct 2026 08:08:46 GMT",
+      "date": "2026-10-26",
+      "source": "IT之家 RSS"
+    },
+    {
+      "title": "荣耀MagicOS 11 一碰传新增支持分享高德地图驾车路线、百度网盘文件等",
+      "link": "https://www.ithome.com/1/017/942.htm",
+      "summary": "IT之家 10 月 26 日消息，据荣耀产品维护与升级 @荣耀小芳哥 今日透露，MagicOS 11 一碰传功能本月又打通了几个常用场景，现在支持一碰传分享的应用更多了： 高德地图：一碰传分享驾车路线 两步路户外助手：一碰传分享归轨迹 / 线路 / 活动 百度网盘：一碰传分享网盘文件 喜马拉雅：一碰传分享音频 目前，荣耀的一碰传功能已支持抖音、酷狗音乐、美...",
+      "publishedRaw": "Mon, 26 Oct 2026 08:07:00 GMT",
+      "date": "2026-10-26",
+      "source": "IT之家 RSS"
+    },
+    {
+      "title": "迈从 R9 轻量化零压电竞头戴耳机 10 月 29 日发售：235g 重量、150 小时续航，首发价 249.2 元",
+      "link": "https://www.ithome.com/1/017/941.htm",
+      "summary": "IT之家 10 月 26 日消息，迈从宣布旗下 R9 轻量化零压电竞头戴耳机将于 10 月 29 日发售，该耳机主打“迈从全自研苍穹方案”“THX 空间音效”，定价为 299 元， 首发价 249.2 元 。 该耳机提供白紫、黑金、黑色、粉色和白蓝多种配色，整体重量约 235 g。其搭载天羽悬浮工学头梁，内置航空级琴钢线骨架，配合柔韧头带提升贴合度。耳罩部...",
+      "publishedRaw": "Mon, 26 Oct 2026 07:57:18 GMT",
+      "date": "2026-10-26",
+      "source": "IT之家 RSS"
+    },
+    {
+      "title": "VGN 联名腾讯天美工作室 V98Pro V4 TiMi 限定款机械键盘发售：带有小云仔发声键帽按钮，首发价 419 元",
+      "link": "https://www.ithome.com/1/017/939.htm",
+      "summary": "IT之家 10 月 26 日消息，VGN 联合腾讯天美工作室推出的 V98Pro V4 TiMi 限定款机械键盘现已在京东发售，该键盘采用云朵轴，使用天蓝色外观，首发价 419 元。 京东 VGN V98Pro V4 TiMi 限定款机械键盘 419 元 直达链接 该键盘主体采用了清新的天蓝色外壳，搭配定制云朵图案印花键帽及一颗联名小云仔发声键帽按钮，按下...",
+      "publishedRaw": "Mon, 26 Oct 2026 07:54:18 GMT",
+      "date": "2026-10-26",
+      "source": "IT之家 RSS"
+    },
+    {
+      "title": "Seedance 核心研发负责人周畅被曝离职？接近字节人士否认",
+      "link": "https://www.ithome.com/1/017/938.htm",
+      "summary": "IT之家 10 月 26 日消息，据澎湃新闻消息，近日有传闻称，字节 Seed AI 研发核心负责人之一周畅已经提出离职。消息人士称，周畅将会开启创业，或为具身智能相关，并已获各知名基金、大厂战投、头部大模型独角兽积极接触。 接近字节人士今日回应称， 周畅没有离职 。 IT之家查询互联网公开资料获悉，周畅 2012 年本科毕业于复旦大学计算机科学与技术专业...",
+      "publishedRaw": "Mon, 26 Oct 2026 07:52:24 GMT",
+      "date": "2026-10-26",
+      "source": "IT之家 RSS"
+    }
+  ],
+  "githubHot": [
+    {
+      "name": "makecindy/cindy",
+      "url": "https://github.com/makecindy/cindy",
+      "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "language": "TypeScript",
+      "stars": "5,427",
+      "starsToday": "675",
+      "source": "GitHub Trending",
+      "chineseMeaning": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。"
+    },
+    {
+      "name": "Nutlope/hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "language": "CSS",
+      "stars": "34,685",
+      "starsToday": "1317",
+      "source": "GitHub Trending",
+      "chineseMeaning": "CSS 项目，主要方向：AI / 大模型、网页 / 前端体验。"
+    },
+    {
+      "name": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook...",
+      "language": "Python",
+      "stars": "87,578",
+      "starsToday": "1592",
+      "source": "GitHub Trending",
+      "chineseMeaning": "Python 项目，主要方向：多媒体生成与处理。"
+    },
+    {
+      "name": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design language that makes your AI harness better at design.",
+      "language": "Rust",
+      "stars": "88,209",
+      "starsToday": "1092",
+      "source": "GitHub Trending",
+      "chineseMeaning": "Rust 项目，主要方向：AI / 大模型。"
+    },
+    {
+      "name": "pollen-robotics/microduck",
+      "url": "https://github.com/pollen-robotics/microduck",
+      "description": "A Tiny biped duck robot 🦆",
+      "language": "Rust",
+      "stars": "11,990",
+      "starsToday": "647",
+      "source": "GitHub Trending",
+      "chineseMeaning": "Rust 项目，可理解为：围绕“A Tiny biped duck robot 🦆”的开源项目。"
+    }
+  ],
+  "builderSignals": [
+    {
+      "title": "i need 12 more likes to ratio @ArfurRock whos got it",
+      "summary": "i need 12 more likes to ratio @ArfurRock whos got it",
+      "author": "",
+      "link": "https://x.com/swyx/status/2114263159355904426",
+      "publishedRaw": "2026-10-25T07:49:52.000Z",
+      "date": "2026-10-25",
+      "source": "follow-builders X"
+    },
+    {
+      "title": "Reminder you can customize the appearance of chatgpt on web and make it soothing https://...",
+      "summary": "Reminder you can customize the appearance of chatgpt on web and make it soothing https://t.co/an6R8iY5Ix https://t.co/iysHpdDLml",
+      "author": "",
+      "link": "https://x.com/thsottiaux/status/2114595002210783279",
+      "publishedRaw": "2026-10-26T05:48:30.000Z",
+      "date": "2026-10-26",
+      "source": "follow-builders X"
+    },
+    {
+      "title": "Day 21/ Wonder what happens the remaining seven days. But today is a reset.",
+      "summary": "Day 21/ Wonder what happens the remaining seven days. But today is a reset.",
+      "author": "",
+      "link": "https://x.com/thsottiaux/status/2114588174249071102",
+      "publishedRaw": "2026-10-26T05:21:22.000Z",
+      "date": "2026-10-26",
+      "source": "follow-builders X"
+    },
+    {
+      "title": "This is beautiful. Who said AI doesn't have taste https://t.co/gaPLhncKM2",
+      "summary": "This is beautiful. Who said AI doesn't have taste https://t.co/gaPLhncKM2",
+      "author": "",
+      "link": "https://x.com/petergyang/status/2114560930646487116",
+      "publishedRaw": "2026-10-26T03:33:07.000Z",
+      "date": "2026-10-26",
+      "source": "follow-builders X"
+    },
+    {
+      "title": "lol this is me except my wife still buys snacks https://t.co/OvTm1jMXGD",
+      "summary": "lol this is me except my wife still buys snacks https://t.co/OvTm1jMXGD",
+      "author": "",
+      "link": "https://x.com/petergyang/status/2114557067700916723",
+      "publishedRaw": "2026-10-26T03:17:46.000Z",
+      "date": "2026-10-26",
+      "source": "follow-builders X"
+    }
+  ],
+  "demandSignals": [
+    {
+      "title": "Master tracker: Tiandi App end-to-end API/Flutter request contracts and issue verification",
+      "summary": "## 最高指導原則｜AI 開發、驗收與永久問題知識庫（ChatGPT / Claude 必讀） > **本 Issue 是本 Repository 開發、審查、除錯、驗收、交接的最高流程指導原則與問題總入口。** 本規範約束工作流程；不覆蓋使用者明確決策、正式功能規格或安全要求...",
+      "link": "https://github.com/ilifeup/tiandi-app/issues/38",
+      "source": "GitHub Issue · ilifeup/tiandi-app",
+      "publishedRaw": "2026-10-26T02:00:48Z",
+      "date": "2026-10-26",
+      "points": 0,
+      "comments": 40,
+      "demandType": "产品缺陷",
+      "opportunity": "针对高频缺陷做修复型小工具或兼容层。",
+      "score": 85
+    },
+    {
+      "title": "偶然和一个在药店工作的女生聊了聊，震惊于药店的黑心，写了个总结，和大家分享一下",
+      "summary": "陪朋友去猫咖遇到了一个挺可爱的女生，聊了聊，她是在药店打工，说了些不算内幕的内幕， 其实一直有感觉药店很贵，价格翻 2-5 倍也是众所周知了，但最黑心的居然还不是价格。 先叠甲：下面内容是闲聊内容的总结，仅供参考，不构成医疗建议，纯手打 1 、感冒药 溢价的重灾区就是各种感冒药...",
+      "link": "https://www.v2ex.com/t/1251749",
+      "source": "V2EX · 健康",
+      "publishedRaw": "2026-10-26T01:03:15.000Z",
+      "date": "2026-10-26",
+      "points": 0,
+      "comments": 133,
+      "demandType": "工具选型",
+      "opportunity": "做细分场景榜单、决策助手或模板库。",
+      "score": 85
+    },
+    {
+      "title": "大家有没有好看的电视剧推荐，最近出的，经典的都行",
+      "summary": "我先来几个抛砖引玉，《毛骗》《端脑 真人版》《大秦帝国 裂变 纵横 崛起》",
+      "link": "https://www.v2ex.com/t/1251787",
+      "source": "V2EX · 分享发现",
+      "publishedRaw": "2026-10-26T01:59:30.000Z",
+      "date": "2026-10-26",
+      "points": 0,
+      "comments": 96,
+      "demandType": "工具选型",
+      "opportunity": "做细分场景榜单、决策助手或模板库。",
+      "score": 85
+    },
+    {
+      "title": "国产《长虹》安卓电视机 不支持开通 ADB",
+      "summary": "国产 CHANGHONG Android TV 全是坑。 遥控器控制起来卡卡的，给的桌面全是广告，我想换成 Emotn UI 桌面，不想要 CHLauncher ，怎么都关不掉，还不支持开通 ADB ，一个周末给我整麻了，客服不行，投诉不行，完全不给 ADB 权限。 1.网上的...",
+      "link": "https://www.v2ex.com/t/1251745",
+      "source": "V2EX · Android",
+      "publishedRaw": "2026-10-26T00:56:18.000Z",
+      "date": "2026-10-26",
+      "points": 0,
+      "comments": 78,
+      "demandType": "工具选型",
+      "opportunity": "做细分场景榜单、决策助手或模板库。",
+      "score": 85
+    },
+    {
+      "title": "双十一撸了一个微波炉，有什么好的食谱或者怎么用好它呢",
+      "summary": "撸了个格兰仕最经典的微波炉，200 块买的，你们都爱用它来干啥呀，我打算用来热东西，还有用来叮粗粮，红薯，玉米之类 我想向各位 V 友请教下还有啥食谱么，或者你们经常用来做啥用的，我要增加它的复用率。第一次用微波炉哈",
+      "link": "https://www.v2ex.com/t/1251740",
+      "source": "V2EX · 生活",
+      "publishedRaw": "2026-10-26T00:44:46.000Z",
+      "date": "2026-10-26",
+      "points": 0,
+      "comments": 76,
+      "demandType": "操作难题",
+      "opportunity": "做一键化工具、教程产品或自动化脚本。",
+      "score": 85
+    }
+  ],
+  "sourceWarnings": [],
+  "markdown": "# 科技日报 · 2026-10-26\n\n生成时间：2026-10-26 16:29:26（北京时间 UTC+8）\n\n## 科技新闻（10 条）\n\n### 1. [智元发布重载具身机器人精灵 G2 Max，双臂额定负载 40kg](https://www.ithome.com/1/017/951.htm)\n\n- 来源：IT之家 RSS · 2026-10-26\n- 摘要：IT之家 10 月 26 日消息，智元今日发布安规级重载具身机器人精灵 G2 Max，面向拆码垛、物料转运及产线供料等工业场景。该产品单臂负载 20kg、双臂额定负载 40kg， 双臂峰值负载可达 50kg ，手臂重复定位精度≤±0.5mm。 据智元披露，G2 Max 已在多条产线投入运行，在电商仓储场景中，作业成功率超过 99%，每小时可拆垛 80 箱、...\n\n### 2. [松下员工违规上传同事及家属信息至 GenAI 服务，影响 33.4 万人](https://www.ithome.com/1/017/949.htm)\n\n- 来源：IT之家 RSS · 2026-10-26\n- 摘要：IT之家 10 月 26 日消息，松下卓越运营 (PEX) 日本当地时间本月 23 日发布公告，就其与子公司松下数字共同开展的人力资源信息系统项目出现的信息违规上传事件进行通告并向受影响者致歉。 根据公告，负责人力资源信息系统项目的一名员工违反既定规则， 将包含现员工、前员工及员工家属的数据上传到禁止使用的外部生成式人工智能服务平台 。 此次事件影响到使用...\n\n### 3. [我国首次承担 ISO 研究基金项目，信息安全标准与数字贸易成果发布](https://www.ithome.com/1/017/947.htm)\n\n- 来源：IT之家 RSS · 2026-10-26\n- 摘要：IT之家 10 月 26 日消息，据央视新闻报道，记者今天从国家标准委了解到，国际标准化组织（ISO）正式发布《ISO / IEC 27001 标准对数字贸易的影响》研究报告。该报告为 ISO 研究基金项目成果，阐明了国际标准赋能数字贸易的内在机制，为建设安全、可信、韧性的全球数字贸易体系提供了中国方案。 这是我国首次承担 ISO 研究基金项目 。 围绕“...\n\n### 4. [惠普星 Book Air 14 发售：薯条标、酷睿 5 320+16G+512G 售 5298 元](https://www.ithome.com/1/017/946.htm)\n\n- 来源：IT之家 RSS · 2026-10-26\n- 摘要：IT之家 10 月 26 日消息，惠普旗下星 Book Air 14 轻薄本电脑现已在京东发售，该机采用英特尔酷睿 5 320 处理器，配备 16GB RAM 和 512GB SSD， 京东首发价 5298 元，叠加国补后约为 4504.15 元。 京东 惠普星 Book Air 14 酷睿 5 320+16G+512G 券后 5298 元 领 500 元...\n\n### 5. [英伟达为开发者更新路径追踪工具：性能提升 20%，支持 Windows on Arm](https://www.ithome.com/1/017/945.htm)\n\n- 来源：IT之家 RSS · 2026-10-26\n- 摘要：IT之家 10 月 26 日消息，英伟达面向开发者的 RTX Path Tracing 路径追踪开发工具已更新至 1.9.0 版本，性能最高提升 20%，并支持 WoA（Windows on Arm）平台。 可用于 RTX Spark 笔记本 。 据介绍，RTX Path Tracing 是一款免费的开发工具和技术演示程序，整合英伟达最新 RTX SDK....\n\n### 6. [倍思飓风 3 号 160W 屏显充电头首销：3C 设计、支持 PD AVS / MiPPS 协议，带主动散热，399 元](https://www.ithome.com/1/017/944.htm)\n\n- 来源：IT之家 RSS · 2026-10-26\n- 摘要：IT之家 10 月 26 日消息，倍思飓风 3 号 160W 全协议氮化镓屏显充电头现已在京东发售，该机采用 3C 设计，支持 PD AVS 协议，配备主动散热能力， 定价为 399 元 。 京东 倍思飓风 3 号 160W 充电头 399 元 直达链接 据官方介绍，该充电头搭载 1.8 英寸 TFT 屏幕，可实时显示功率、预估充电时长、温控等充电状态，行...\n\n### 7. [荣耀MagicOS 11 一碰传新增支持分享高德地图驾车路线、百度网盘文件等](https://www.ithome.com/1/017/942.htm)\n\n- 来源：IT之家 RSS · 2026-10-26\n- 摘要：IT之家 10 月 26 日消息，据荣耀产品维护与升级 @荣耀小芳哥 今日透露，MagicOS 11 一碰传功能本月又打通了几个常用场景，现在支持一碰传分享的应用更多了： 高德地图：一碰传分享驾车路线 两步路户外助手：一碰传分享归轨迹 / 线路 / 活动 百度网盘：一碰传分享网盘文件 喜马拉雅：一碰传分享音频 目前，荣耀的一碰传功能已支持抖音、酷狗音乐、美...\n\n### 8. [迈从 R9 轻量化零压电竞头戴耳机 10 月 29 日发售：235g 重量、150 小时续航，首发价 249.2 元](https://www.ithome.com/1/017/941.htm)\n\n- 来源：IT之家 RSS · 2026-10-26\n- 摘要：IT之家 10 月 26 日消息，迈从宣布旗下 R9 轻量化零压电竞头戴耳机将于 10 月 29 日发售，该耳机主打“迈从全自研苍穹方案”“THX 空间音效”，定价为 299 元， 首发价 249.2 元 。 该耳机提供白紫、黑金、黑色、粉色和白蓝多种配色，整体重量约 235 g。其搭载天羽悬浮工学头梁，内置航空级琴钢线骨架，配合柔韧头带提升贴合度。耳罩部...\n\n### 9. [VGN 联名腾讯天美工作室 V98Pro V4 TiMi 限定款机械键盘发售：带有小云仔发声键帽按钮，首发价 419 元](https://www.ithome.com/1/017/939.htm)\n\n- 来源：IT之家 RSS · 2026-10-26\n- 摘要：IT之家 10 月 26 日消息，VGN 联合腾讯天美工作室推出的 V98Pro V4 TiMi 限定款机械键盘现已在京东发售，该键盘采用云朵轴，使用天蓝色外观，首发价 419 元。 京东 VGN V98Pro V4 TiMi 限定款机械键盘 419 元 直达链接 该键盘主体采用了清新的天蓝色外壳，搭配定制云朵图案印花键帽及一颗联名小云仔发声键帽按钮，按下...\n\n### 10. [Seedance 核心研发负责人周畅被曝离职？接近字节人士否认](https://www.ithome.com/1/017/938.htm)\n\n- 来源：IT之家 RSS · 2026-10-26\n- 摘要：IT之家 10 月 26 日消息，据澎湃新闻消息，近日有传闻称，字节 Seed AI 研发核心负责人之一周畅已经提出离职。消息人士称，周畅将会开启创业，或为具身智能相关，并已获各知名基金、大厂战投、头部大模型独角兽积极接触。 接近字节人士今日回应称， 周畅没有离职 。 IT之家查询互联网公开资料获悉，周畅 2012 年本科毕业于复旦大学计算机科学与技术专业...\n\n## GitHub 热点（5 个）\n\n### 1. [makecindy/cindy](https://github.com/makecindy/cindy)\n\n- 元信息：TypeScript · Stars 5,427 · Today +675 · GitHub Trending\n- 中文释义：Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。\n- 原文简介：Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。\n\n### 2. [Nutlope/hallmark](https://github.com/Nutlope/hallmark)\n\n- 元信息：CSS · Stars 34,685 · Today +1317 · GitHub Trending\n- 中文释义：CSS 项目，主要方向：AI / 大模型、网页 / 前端体验。\n- 原文简介：Anti-AI-slop design skill for Claude Code, Cursor, and Codex.\n\n### 3. [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio)\n\n- 元信息：Python · Stars 87,578 · Today +1592 · GitHub Trending\n- 中文释义：Python 项目，主要方向：多媒体生成与处理。\n- 原文简介：VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook...\n\n### 4. [pbakaus/impeccable](https://github.com/pbakaus/impeccable)\n\n- 元信息：Rust · Stars 88,209 · Today +1092 · GitHub Trending\n- 中文释义：Rust 项目，主要方向：AI / 大模型。\n- 原文简介：The design language that makes your AI harness better at design.\n\n### 5. [pollen-robotics/microduck](https://github.com/pollen-robotics/microduck)\n\n- 元信息：Rust · Stars 11,990 · Today +647 · GitHub Trending\n- 中文释义：Rust 项目，可理解为：围绕“A Tiny biped duck robot 🦆”的开源项目。\n- 原文简介：A Tiny biped duck robot 🦆\n\n## AI Builders 动态（5 条）\n\n### 1. [i need 12 more likes to ratio @ArfurRock whos got it](https://x.com/swyx/status/2114263159355904426)\n\n- 来源：follow-builders X · 2026-10-25\n- 摘要：i need 12 more likes to ratio @ArfurRock whos got it\n\n### 2. [Reminder you can customize the appearance of chatgpt on web and make it soothing https://...](https://x.com/thsottiaux/status/2114595002210783279)\n\n- 来源：follow-builders X · 2026-10-26\n- 摘要：Reminder you can customize the appearance of chatgpt on web and make it soothing https://t.co/an6R8iY5Ix https://t.co/iysHpdDLml\n\n### 3. [Day 21/ Wonder what happens the remaining seven days. But today is a reset.](https://x.com/thsottiaux/status/2114588174249071102)\n\n- 来源：follow-builders X · 2026-10-26\n- 摘要：Day 21/ Wonder what happens the remaining seven days. But today is a reset.\n\n### 4. [This is beautiful. Who said AI doesn't have taste https://t.co/gaPLhncKM2](https://x.com/petergyang/status/2114560930646487116)\n\n- 来源：follow-builders X · 2026-10-26\n- 摘要：This is beautiful. Who said AI doesn't have taste https://t.co/gaPLhncKM2\n\n### 5. [lol this is me except my wife still buys snacks https://t.co/OvTm1jMXGD](https://x.com/petergyang/status/2114557067700916723)\n\n- 来源：follow-builders X · 2026-10-26\n- 摘要：lol this is me except my wife still buys snacks https://t.co/OvTm1jMXGD\n\n## 今日需求雷达（5 条）\n\n### 1. [Master tracker: Tiandi App end-to-end API/Flutter request contracts and issue verification](https://github.com/ilifeup/tiandi-app/issues/38)\n\n- 需求强度：85/100\n- 痛点类型：产品缺陷\n- 产品机会：针对高频缺陷做修复型小工具或兼容层。\n- 来源：GitHub Issue · ilifeup/tiandi-app · 2026-10-26\n- 原文摘要：## 最高指導原則｜AI 開發、驗收與永久問題知識庫（ChatGPT / Claude 必讀） > **本 Issue 是本 Repository 開發、審查、除錯、驗收、交接的最高流程指導原則與問題總入口。** 本規範約束工作流程；不覆蓋使用者明確決策、正式功能規格或安全要求...\n\n### 2. [偶然和一个在药店工作的女生聊了聊，震惊于药店的黑心，写了个总结，和大家分享一下](https://www.v2ex.com/t/1251749)\n\n- 需求强度：85/100\n- 痛点类型：工具选型\n- 产品机会：做细分场景榜单、决策助手或模板库。\n- 来源：V2EX · 健康 · 2026-10-26\n- 原文摘要：陪朋友去猫咖遇到了一个挺可爱的女生，聊了聊，她是在药店打工，说了些不算内幕的内幕， 其实一直有感觉药店很贵，价格翻 2-5 倍也是众所周知了，但最黑心的居然还不是价格。 先叠甲：下面内容是闲聊内容的总结，仅供参考，不构成医疗建议，纯手打 1 、感冒药 溢价的重灾区就是各种感冒药...\n\n### 3. [大家有没有好看的电视剧推荐，最近出的，经典的都行](https://www.v2ex.com/t/1251787)\n\n- 需求强度：85/100\n- 痛点类型：工具选型\n- 产品机会：做细分场景榜单、决策助手或模板库。\n- 来源：V2EX · 分享发现 · 2026-10-26\n- 原文摘要：我先来几个抛砖引玉，《毛骗》《端脑 真人版》《大秦帝国 裂变 纵横 崛起》\n\n### 4. [国产《长虹》安卓电视机 不支持开通 ADB](https://www.v2ex.com/t/1251745)\n\n- 需求强度：85/100\n- 痛点类型：工具选型\n- 产品机会：做细分场景榜单、决策助手或模板库。\n- 来源：V2EX · Android · 2026-10-26\n- 原文摘要：国产 CHANGHONG Android TV 全是坑。 遥控器控制起来卡卡的，给的桌面全是广告，我想换成 Emotn UI 桌面，不想要 CHLauncher ，怎么都关不掉，还不支持开通 ADB ，一个周末给我整麻了，客服不行，投诉不行，完全不给 ADB 权限。 1.网上的...\n\n### 5. [双十一撸了一个微波炉，有什么好的食谱或者怎么用好它呢](https://www.v2ex.com/t/1251740)\n\n- 需求强度：85/100\n- 痛点类型：操作难题\n- 产品机会：做一键化工具、教程产品或自动化脚本。\n- 来源：V2EX · 生活 · 2026-10-26\n- 原文摘要：撸了个格兰仕最经典的微波炉，200 块买的，你们都爱用它来干啥呀，我打算用来热东西，还有用来叮粗粮，红薯，玉米之类 我想向各位 V 友请教下还有啥食谱么，或者你们经常用来做啥用的，我要增加它的复用率。第一次用微波炉哈\n"
+}
