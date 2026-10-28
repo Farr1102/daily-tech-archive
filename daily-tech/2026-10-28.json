@@ -1,0 +1,260 @@
+{
+  "date": "2026-10-28",
+  "generatedAt": "2026-10-28 17:17:26",
+  "timezone": "Asia/Shanghai",
+  "timezoneLabel": "北京时间 UTC+8",
+  "newsCount": 10,
+  "githubCount": 5,
+  "builderSignalCount": 5,
+  "demandSignalCount": 5,
+  "news": [
+    {
+      "title": "联电 2026Q3 晶圆出货创历史新高，营收同比增长 25.6%、环比增长 8.0%",
+      "link": "https://www.ithome.com/1/018/989.htm",
+      "summary": "IT之家 10 月 28 日消息，联华电子（UMC，联电）今日发布 2026Q3 及 2026Q1~Q3 财务数据： 2026Q3 合并营收 ：742.4 亿新台币，同比 +25.6%、环比 +8.0% 毛利率 ：30.4% 营业利润率 ：25.1% 归母净利润 ：164.3 亿新台币 每股净收益 ：1.32 新台币 产能利用率 ：92% 2026Q1~Q...",
+      "publishedRaw": "Wed, 28 Oct 2026 09:02:18 GMT",
+      "date": "2026-10-28",
+      "source": "IT之家 RSS"
+    },
+    {
+      "title": "国轩高科 2026 年前三季度归母净利润 8.49 亿元，同比下降 66.48%",
+      "link": "https://www.ithome.com/1/019/020.htm",
+      "summary": "IT之家 10 月 28 日消息，国轩高科今日发布 2026 年前三季度（2026 年 1 月～2026 年 9 月）及三季度（2026 年 7 月～2026 年 9 月）报告： 2026 年前三季度 营业总收入 ：454.37 亿元，同比增长 53.98% 毛利润 ：70.35 亿元，同比增长 41.78% 毛利率 ：15.48%，同比下降 1.34 个...",
+      "publishedRaw": "Wed, 28 Oct 2026 09:12:21 GMT",
+      "date": "2026-10-28",
+      "source": "IT之家 RSS"
+    },
+    {
+      "title": "我国首架综合航测飞机运 12F 在哈尔滨完成全科目示范飞行",
+      "link": "https://www.ithome.com/1/019/027.htm",
+      "summary": "IT之家 10 月 28 日消息，中国航空工业集团宣布，10 月 27 日，运 12F 大气综合航测飞机在哈尔滨完成全科目示范飞行，成功实现多污染物与云水化学高灵敏探测，获取大气细颗粒物、气体污染物、温室气体及云水等要素的三维立体分布数据，验证了平台的综合探测能力，标志着国家重点研发计划“机载多污染物与云水化学高灵敏探测”项目取得重要进展。 据介绍，示范飞...",
+      "publishedRaw": "Wed, 28 Oct 2026 09:14:27 GMT",
+      "date": "2026-10-28",
+      "source": "IT之家 RSS"
+    },
+    {
+      "title": "GPD 预告 WIN Mini Ultra 掌机，搭载英特尔 Arc G3 Extreme",
+      "link": "https://www.ithome.com/1/019/008.htm",
+      "summary": "IT之家 10 月 28 日消息，GPD 今日在微博确认，GPD WIN Mini Ultra 掌机即将登场。 新机采用英特尔 Arc G3 Extreme 移动平台 ，具体上市时间暂未公布。 结合此前传闻，该机预计将配备 2GB LPDDR5X 内存，并提供 M.2 2280 固态硬盘插槽。屏幕方面，该机或采用 8 英寸 IPS 面板，分辨率为 1920...",
+      "publishedRaw": "Wed, 28 Oct 2026 09:07:51 GMT",
+      "date": "2026-10-28",
+      "source": "IT之家 RSS"
+    },
+    {
+      "title": "抖音整治 AI 恶意营销号，近一月处置违规账号 50.7 万个",
+      "link": "https://www.ithome.com/1/019/001.htm",
+      "summary": "IT之家 10 月 28 日消息，据抖音黑板报，AI 工具的普及，使内容创作门槛进一步降低，为广大创作者提供了更多便捷的创作方式与表达可能。然而， 部分以流量变现为唯一目的的“恶意营销号” ，并未将 AI 工具用于正当创作，反而将其当作起号捷径，通过批量生成、复制爆款模板快速变现，持续侵蚀平台生态根基，严重挤压优质创作者生存空间，破坏公平竞争的创作环境。...",
+      "publishedRaw": "Wed, 28 Oct 2026 09:06:23 GMT",
+      "date": "2026-10-28",
+      "source": "IT之家 RSS"
+    },
+    {
+      "title": "首发赠 1 年碎屏保：小米 REDMI K100 手机 3299 → 2519 元，骁龙 8 至尊版 + 10000mAh 大电池",
+      "link": "https://www.ithome.com/1/018/991.htm",
+      "summary": "小米 REDMI K100 手机昨日发布，官方价格如下： 12GB+256GB 版建议零售价 3499 元，双 11 限时特惠 2999 元，国补价 2549 元。 12GB+512GB 版建议零售价 4099 元，双 11 限时特惠 3499 元，国补价 2999 元。 16GB+512GB 版建议零售价 4499 元，双 11 限时特惠 3899 元，...",
+      "publishedRaw": "Wed, 28 Oct 2026 09:03:14 GMT",
+      "date": "2026-10-28",
+      "source": "IT之家 RSS"
+    },
+    {
+      "title": "ASIC 设计企业智原收获 AI 芯片开案：三星 2nm，3D 堆叠 DRAM",
+      "link": "https://www.ithome.com/1/018/985.htm",
+      "summary": "IT之家 10 月 28 日消息，芯片 IP 与设计服务企业智原科技 (Faraday Technology) 昨日在企业 2026Q3 财报中宣布获得美国客户重要开案， 设计制程、设计复杂度、NRE 金额、先进封装均创下公司记录 。 IT之家获悉，这是一款面向云端的 AI 芯片，同时支持 FP64 计算（应兼顾 HPC 任务）。其基于三星晶圆代工 2nm...",
+      "publishedRaw": "Wed, 28 Oct 2026 09:01:15 GMT",
+      "date": "2026-10-28",
+      "source": "IT之家 RSS"
+    },
+    {
+      "title": "豆包公关负责人刘星回应“横店与字节合作将 15 万群演肖像声音喂给大模型”：传言严重失实",
+      "link": "https://www.ithome.com/1/018/981.htm",
+      "summary": "IT之家 10 月 28 日消息，豆包公关负责人刘星今日发文称，“横店与字节合作，将 15 万名群演的肖像和声音喂给字节大模型”的传言严重失实。 他表示，横店影视 AI 服务平台项目，其实是希望建设一套公共数字基础设施，把影视基地实景等资产做成高质量数据集，帮助剧组更高效地选景、筹备和拍摄，也降低中小影视企业使用 AI 的门槛，让更多创作者有条件把作品做好...",
+      "publishedRaw": "Wed, 28 Oct 2026 08:56:18 GMT",
+      "date": "2026-10-28",
+      "source": "IT之家 RSS"
+    },
+    {
+      "title": "DeepSeek-V5 占位符现身 Harness 代码库，为新一代大模型提前铺路",
+      "link": "https://www.ithome.com/1/018/980.htm",
+      "summary": "IT之家 10 月 28 日消息，昨日晚间，有开发者在 DeepSeek Harness 官方 GitHub 代码库中发现了一组此前未出现过的 DeepSeek-V5 模型标识符。 在 deepseek-harness 仓库中的 provider.spec.ts 测试文件中，第 154 行附近出现了 deepseek-v5、deepseek-v5-open...",
+      "publishedRaw": "Wed, 28 Oct 2026 08:54:17 GMT",
+      "date": "2026-10-28",
+      "source": "IT之家 RSS"
+    },
+    {
+      "title": "何刚官宣华为 Mate 90 系列手机“双十一”三大焕新权益，全系可享至高 24 期分期免息等",
+      "link": "https://www.ithome.com/1/018/979.htm",
+      "summary": "IT之家 10 月 28 日消息，在今天的华为双十一焕新季 · 全场景新品发布会上，华为董事、终端 BG CEO 何刚登台主讲，公布了 Mate 90 系列手机“双十一”三大焕新权益： 分期免息： 至高 24 期，250 元 / 月起； 以旧换新： 至高 800 元补贴； 华为云空间： 华为云空间 200GB 一年期免费。 IT之家附华为 Mate 90...",
+      "publishedRaw": "Wed, 28 Oct 2026 08:51:10 GMT",
+      "date": "2026-10-28",
+      "source": "IT之家 RSS"
+    }
+  ],
+  "githubHot": [
+    {
+      "name": "elayadesign/ai-design-skills",
+      "url": "https://github.com/elayadesign/ai-design-skills",
+      "description": "",
+      "language": "",
+      "stars": "10,297",
+      "starsToday": "1395",
+      "source": "GitHub Trending",
+      "chineseMeaning": "开源项目，主要方向：AI / 大模型。"
+    },
+    {
+      "name": "Nutlope/hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "language": "CSS",
+      "stars": "39,667",
+      "starsToday": "2830",
+      "source": "GitHub Trending",
+      "chineseMeaning": "CSS 项目，主要方向：AI / 大模型、网页 / 前端体验。"
+    },
+    {
+      "name": "nightly-labs/openbot",
+      "url": "https://github.com/nightly-labs/openbot",
+      "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browse...",
+      "language": "TypeScript",
+      "stars": "2,791",
+      "starsToday": "777",
+      "source": "GitHub Trending",
+      "chineseMeaning": "TypeScript 项目，主要方向：AI / 大模型。"
+    },
+    {
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": "306,800",
+      "starsToday": "617",
+      "source": "GitHub Trending",
+      "chineseMeaning": "Shell 项目，主要方向：开发框架或工具库、命令行与开发者工具。"
+    },
+    {
+      "name": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+      "language": "Rust",
+      "stars": "91,135",
+      "starsToday": "1449",
+      "source": "GitHub Trending",
+      "chineseMeaning": "Rust 项目，主要方向：AI / 大模型。"
+    }
+  ],
+  "builderSignals": [
+    {
+      "title": "anyway here's my soundcloud https://t.co/12VJjC5aB8",
+      "summary": "anyway here's my soundcloud https://t.co/12VJjC5aB8",
+      "author": "",
+      "link": "https://x.com/swyx/status/2115156135875629109",
+      "publishedRaw": "2026-10-27T18:58:15.000Z",
+      "date": "2026-10-28",
+      "source": "follow-builders X"
+    },
+    {
+      "title": "yeah you ignored a @mntruell email in 2024 but did you pitch something like Claude Code i...",
+      "summary": "yeah you ignored a @mntruell email in 2024 but did you pitch something like Claude Code in 2019 and then.... not do it for 7 years https://t.co/dEix0...",
+      "author": "",
+      "link": "https://x.com/swyx/status/2115135448876269782",
+      "publishedRaw": "2026-10-27T17:36:02.000Z",
+      "date": "2026-10-28",
+      "source": "follow-builders X"
+    },
+    {
+      "title": "at spacex ipo everyone was posting their cursor bag fumble. kid stuff. my turn. i estimat...",
+      "summary": "at spacex ipo everyone was posting their cursor bag fumble. kid stuff. my turn. i estimate this was a $500m bag fumble lol. and very probably wouldve...",
+      "author": "",
+      "link": "https://x.com/swyx/status/2115089887959359988",
+      "publishedRaw": "2026-10-27T14:35:00.000Z",
+      "date": "2026-10-27",
+      "source": "follow-builders X"
+    },
+    {
+      "title": "And it's done. See you tomorrow for some good news. https://t.co/WhJle2cWRG",
+      "summary": "And it's done. See you tomorrow for some good news. https://t.co/WhJle2cWRG",
+      "author": "",
+      "link": "https://x.com/thsottiaux/status/2115330127886463244",
+      "publishedRaw": "2026-10-28T06:29:38.000Z",
+      "date": "2026-10-28",
+      "source": "follow-builders X"
+    },
+    {
+      "title": "https://t.co/Fgy0dBAHsJ has landed",
+      "summary": "https://t.co/Fgy0dBAHsJ has landed",
+      "author": "",
+      "link": "https://x.com/thsottiaux/status/2115297093879472332",
+      "publishedRaw": "2026-10-28T04:18:22.000Z",
+      "date": "2026-10-28",
+      "source": "follow-builders X"
+    }
+  ],
+  "demandSignals": [
+    {
+      "title": "pulse: detect and halt cross-runner needs-maintainer-review label flapping",
+      "summary": "## Problem Two pulse runners can disagree on whether an issue author is trusted. When that happens, one runner applies `needs-maintainer-re...",
+      "link": "https://github.com/marcusquinn/aidevops/issues/35793",
+      "source": "GitHub Issue · marcusquinn/aidevops",
+      "publishedRaw": "2026-10-28T00:59:35Z",
+      "date": "2026-10-28",
+      "points": 0,
+      "comments": 37,
+      "demandType": "产品缺陷",
+      "opportunity": "针对高频缺陷做修复型小工具或兼容层。",
+      "score": 85
+    },
+    {
+      "title": "免费帮你设计一块电路板，你最想做什么？",
+      "summary": "我们是一家国内 PCB/PCBA 企业的硬件研发团队，有技术、有研发预算，却一直缺少真正有需求的项目。 以前都是自己想需求、自己研发，最后做出来没人用，挺可惜的。所以这次想把研发资源用在真正需要的人身上！研发预算预计 20W 左右。 经过内部讨论，我们愿意 免费提供硬件研发支持...",
+      "link": "https://www.v2ex.com/t/1252431",
+      "source": "V2EX · 奇思妙想",
+      "publishedRaw": "2026-10-28T02:10:03.000Z",
+      "date": "2026-10-28",
+      "points": 0,
+      "comments": 96,
+      "demandType": "潜在需求",
+      "opportunity": "继续观察同类问题频次，寻找可产品化入口。",
+      "score": 85
+    },
+    {
+      "title": "那么多经典电视剧怎么不进行官方高清修复呢",
+      "summary": "B 站上高清修复的视频一大把，最多的就是 MV 视频修复，这种视频时长小、耗时少。像电影、电视剧当然也有高清修复，但数量不算很多，而且很多修复效果不尽如人意，另外还担着盗版的风险，辛辛苦苦的修复好了，结果直接下架，岂不是白干一场，况且收益应该也不高吧？以前觉得有些经典剧太老、太...",
+      "link": "https://www.v2ex.com/t/1252404",
+      "source": "V2EX · 问与答",
+      "publishedRaw": "2026-10-28T01:09:40.000Z",
+      "date": "2026-10-28",
+      "points": 0,
+      "comments": 70,
+      "demandType": "操作难题",
+      "opportunity": "做一键化工具、教程产品或自动化脚本。",
+      "score": 85
+    },
+    {
+      "title": "已经焦虑到躯体化了",
+      "summary": "刚过完 35 岁生日，公司效益不行了，目前在苟延残喘，只剩运维的两个人，随着 AI 发展基本断定毕业后这行应该是没有出路了，也不知道后面路怎么走，最近焦虑的不行，感觉心慌，胸闷，喘不上来气，害怕心脏问题去医院检查了一遍，没有问题，大概率是压力大焦虑引起的躯体化，简单介绍下压力来...",
+      "link": "https://www.v2ex.com/t/1252444",
+      "source": "V2EX · 职场话题",
+      "publishedRaw": "2026-10-28T02:18:55.000Z",
+      "date": "2026-10-28",
+      "points": 0,
+      "comments": 69,
+      "demandType": "操作难题",
+      "opportunity": "做一键化工具、教程产品或自动化脚本。",
+      "score": 85
+    },
+    {
+      "title": "现在的双十一，是不是已经没什么好价了？",
+      "summary": "大家今年还准备蹲双十一吗，有没有好价渠道？我之前都是刷淘金币，现在都 6w 多淘金币了，完全没有什么优惠，等于摆设",
+      "link": "https://www.v2ex.com/t/1252414",
+      "source": "V2EX · 买买买",
+      "publishedRaw": "2026-10-28T01:36:49.000Z",
+      "date": "2026-10-28",
+      "points": 0,
+      "comments": 57,
+      "demandType": "潜在需求",
+      "opportunity": "继续观察同类问题频次，寻找可产品化入口。",
+      "score": 85
+    }
+  ],
+  "sourceWarnings": [],
+  "markdown": "# 科技日报 · 2026-10-28\n\n生成时间：2026-10-28 17:17:26（北京时间 UTC+8）\n\n## 科技新闻（10 条）\n\n### 1. [联电 2026Q3 晶圆出货创历史新高，营收同比增长 25.6%、环比增长 8.0%](https://www.ithome.com/1/018/989.htm)\n\n- 来源：IT之家 RSS · 2026-10-28\n- 摘要：IT之家 10 月 28 日消息，联华电子（UMC，联电）今日发布 2026Q3 及 2026Q1~Q3 财务数据： 2026Q3 合并营收 ：742.4 亿新台币，同比 +25.6%、环比 +8.0% 毛利率 ：30.4% 营业利润率 ：25.1% 归母净利润 ：164.3 亿新台币 每股净收益 ：1.32 新台币 产能利用率 ：92% 2026Q1~Q...\n\n### 2. [国轩高科 2026 年前三季度归母净利润 8.49 亿元，同比下降 66.48%](https://www.ithome.com/1/019/020.htm)\n\n- 来源：IT之家 RSS · 2026-10-28\n- 摘要：IT之家 10 月 28 日消息，国轩高科今日发布 2026 年前三季度（2026 年 1 月～2026 年 9 月）及三季度（2026 年 7 月～2026 年 9 月）报告： 2026 年前三季度 营业总收入 ：454.37 亿元，同比增长 53.98% 毛利润 ：70.35 亿元，同比增长 41.78% 毛利率 ：15.48%，同比下降 1.34 个...\n\n### 3. [我国首架综合航测飞机运 12F 在哈尔滨完成全科目示范飞行](https://www.ithome.com/1/019/027.htm)\n\n- 来源：IT之家 RSS · 2026-10-28\n- 摘要：IT之家 10 月 28 日消息，中国航空工业集团宣布，10 月 27 日，运 12F 大气综合航测飞机在哈尔滨完成全科目示范飞行，成功实现多污染物与云水化学高灵敏探测，获取大气细颗粒物、气体污染物、温室气体及云水等要素的三维立体分布数据，验证了平台的综合探测能力，标志着国家重点研发计划“机载多污染物与云水化学高灵敏探测”项目取得重要进展。 据介绍，示范飞...\n\n### 4. [GPD 预告 WIN Mini Ultra 掌机，搭载英特尔 Arc G3 Extreme](https://www.ithome.com/1/019/008.htm)\n\n- 来源：IT之家 RSS · 2026-10-28\n- 摘要：IT之家 10 月 28 日消息，GPD 今日在微博确认，GPD WIN Mini Ultra 掌机即将登场。 新机采用英特尔 Arc G3 Extreme 移动平台 ，具体上市时间暂未公布。 结合此前传闻，该机预计将配备 2GB LPDDR5X 内存，并提供 M.2 2280 固态硬盘插槽。屏幕方面，该机或采用 8 英寸 IPS 面板，分辨率为 1920...\n\n### 5. [抖音整治 AI 恶意营销号，近一月处置违规账号 50.7 万个](https://www.ithome.com/1/019/001.htm)\n\n- 来源：IT之家 RSS · 2026-10-28\n- 摘要：IT之家 10 月 28 日消息，据抖音黑板报，AI 工具的普及，使内容创作门槛进一步降低，为广大创作者提供了更多便捷的创作方式与表达可能。然而， 部分以流量变现为唯一目的的“恶意营销号” ，并未将 AI 工具用于正当创作，反而将其当作起号捷径，通过批量生成、复制爆款模板快速变现，持续侵蚀平台生态根基，严重挤压优质创作者生存空间，破坏公平竞争的创作环境。....\n\n### 6. [首发赠 1 年碎屏保：小米 REDMI K100 手机 3299 → 2519 元，骁龙 8 至尊版 + 10000mAh 大电池](https://www.ithome.com/1/018/991.htm)\n\n- 来源：IT之家 RSS · 2026-10-28\n- 摘要：小米 REDMI K100 手机昨日发布，官方价格如下： 12GB+256GB 版建议零售价 3499 元，双 11 限时特惠 2999 元，国补价 2549 元。 12GB+512GB 版建议零售价 4099 元，双 11 限时特惠 3499 元，国补价 2999 元。 16GB+512GB 版建议零售价 4499 元，双 11 限时特惠 3899 元，...\n\n### 7. [ASIC 设计企业智原收获 AI 芯片开案：三星 2nm，3D 堆叠 DRAM](https://www.ithome.com/1/018/985.htm)\n\n- 来源：IT之家 RSS · 2026-10-28\n- 摘要：IT之家 10 月 28 日消息，芯片 IP 与设计服务企业智原科技 (Faraday Technology) 昨日在企业 2026Q3 财报中宣布获得美国客户重要开案， 设计制程、设计复杂度、NRE 金额、先进封装均创下公司记录 。 IT之家获悉，这是一款面向云端的 AI 芯片，同时支持 FP64 计算（应兼顾 HPC 任务）。其基于三星晶圆代工 2nm...\n\n### 8. [豆包公关负责人刘星回应“横店与字节合作将 15 万群演肖像声音喂给大模型”：传言严重失实](https://www.ithome.com/1/018/981.htm)\n\n- 来源：IT之家 RSS · 2026-10-28\n- 摘要：IT之家 10 月 28 日消息，豆包公关负责人刘星今日发文称，“横店与字节合作，将 15 万名群演的肖像和声音喂给字节大模型”的传言严重失实。 他表示，横店影视 AI 服务平台项目，其实是希望建设一套公共数字基础设施，把影视基地实景等资产做成高质量数据集，帮助剧组更高效地选景、筹备和拍摄，也降低中小影视企业使用 AI 的门槛，让更多创作者有条件把作品做好...\n\n### 9. [DeepSeek-V5 占位符现身 Harness 代码库，为新一代大模型提前铺路](https://www.ithome.com/1/018/980.htm)\n\n- 来源：IT之家 RSS · 2026-10-28\n- 摘要：IT之家 10 月 28 日消息，昨日晚间，有开发者在 DeepSeek Harness 官方 GitHub 代码库中发现了一组此前未出现过的 DeepSeek-V5 模型标识符。 在 deepseek-harness 仓库中的 provider.spec.ts 测试文件中，第 154 行附近出现了 deepseek-v5、deepseek-v5-open...\n\n### 10. [何刚官宣华为 Mate 90 系列手机“双十一”三大焕新权益，全系可享至高 24 期分期免息等](https://www.ithome.com/1/018/979.htm)\n\n- 来源：IT之家 RSS · 2026-10-28\n- 摘要：IT之家 10 月 28 日消息，在今天的华为双十一焕新季 · 全场景新品发布会上，华为董事、终端 BG CEO 何刚登台主讲，公布了 Mate 90 系列手机“双十一”三大焕新权益： 分期免息： 至高 24 期，250 元 / 月起； 以旧换新： 至高 800 元补贴； 华为云空间： 华为云空间 200GB 一年期免费。 IT之家附华为 Mate 90....\n\n## GitHub 热点（5 个）\n\n### 1. [elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills)\n\n- 元信息：Stars 10,297 · Today +1395 · GitHub Trending\n- 中文释义：开源项目，主要方向：AI / 大模型。\n\n### 2. [Nutlope/hallmark](https://github.com/Nutlope/hallmark)\n\n- 元信息：CSS · Stars 39,667 · Today +2830 · GitHub Trending\n- 中文释义：CSS 项目，主要方向：AI / 大模型、网页 / 前端体验。\n- 原文简介：Anti-AI-slop design skill for Claude Code, Cursor, and Codex.\n\n### 3. [nightly-labs/openbot](https://github.com/nightly-labs/openbot)\n\n- 元信息：TypeScript · Stars 2,791 · Today +777 · GitHub Trending\n- 中文释义：TypeScript 项目，主要方向：AI / 大模型。\n- 原文简介：A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browse...\n\n### 4. [obra/superpowers](https://github.com/obra/superpowers)\n\n- 元信息：Shell · Stars 306,800 · Today +617 · GitHub Trending\n- 中文释义：Shell 项目，主要方向：开发框架或工具库、命令行与开发者工具。\n- 原文简介：An agentic skills framework & software development methodology that works.\n\n### 5. [pbakaus/impeccable](https://github.com/pbakaus/impeccable)\n\n- 元信息：Rust · Stars 91,135 · Today +1449 · GitHub Trending\n- 中文释义：Rust 项目，主要方向：AI / 大模型。\n- 原文简介：The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.\n\n## AI Builders 动态（5 条）\n\n### 1. [anyway here's my soundcloud https://t.co/12VJjC5aB8](https://x.com/swyx/status/2115156135875629109)\n\n- 来源：follow-builders X · 2026-10-28\n- 摘要：anyway here's my soundcloud https://t.co/12VJjC5aB8\n\n### 2. [yeah you ignored a @mntruell email in 2024 but did you pitch something like Claude Code i...](https://x.com/swyx/status/2115135448876269782)\n\n- 来源：follow-builders X · 2026-10-28\n- 摘要：yeah you ignored a @mntruell email in 2024 but did you pitch something like Claude Code in 2019 and then.... not do it for 7 years https://t.co/dEix0...\n\n### 3. [at spacex ipo everyone was posting their cursor bag fumble. kid stuff. my turn. i estimat...](https://x.com/swyx/status/2115089887959359988)\n\n- 来源：follow-builders X · 2026-10-27\n- 摘要：at spacex ipo everyone was posting their cursor bag fumble. kid stuff. my turn. i estimate this was a $500m bag fumble lol. and very probably wouldve...\n\n### 4. [And it's done. See you tomorrow for some good news. https://t.co/WhJle2cWRG](https://x.com/thsottiaux/status/2115330127886463244)\n\n- 来源：follow-builders X · 2026-10-28\n- 摘要：And it's done. See you tomorrow for some good news. https://t.co/WhJle2cWRG\n\n### 5. [https://t.co/Fgy0dBAHsJ has landed](https://x.com/thsottiaux/status/2115297093879472332)\n\n- 来源：follow-builders X · 2026-10-28\n- 摘要：https://t.co/Fgy0dBAHsJ has landed\n\n## 今日需求雷达（5 条）\n\n### 1. [pulse: detect and halt cross-runner needs-maintainer-review label flapping](https://github.com/marcusquinn/aidevops/issues/35793)\n\n- 需求强度：85/100\n- 痛点类型：产品缺陷\n- 产品机会：针对高频缺陷做修复型小工具或兼容层。\n- 来源：GitHub Issue · marcusquinn/aidevops · 2026-10-28\n- 原文摘要：## Problem Two pulse runners can disagree on whether an issue author is trusted. When that happens, one runner applies `needs-maintainer-re...\n\n### 2. [免费帮你设计一块电路板，你最想做什么？](https://www.v2ex.com/t/1252431)\n\n- 需求强度：85/100\n- 痛点类型：潜在需求\n- 产品机会：继续观察同类问题频次，寻找可产品化入口。\n- 来源：V2EX · 奇思妙想 · 2026-10-28\n- 原文摘要：我们是一家国内 PCB/PCBA 企业的硬件研发团队，有技术、有研发预算，却一直缺少真正有需求的项目。 以前都是自己想需求、自己研发，最后做出来没人用，挺可惜的。所以这次想把研发资源用在真正需要的人身上！研发预算预计 20W 左右。 经过内部讨论，我们愿意 免费提供硬件研发支持...\n\n### 3. [那么多经典电视剧怎么不进行官方高清修复呢](https://www.v2ex.com/t/1252404)\n\n- 需求强度：85/100\n- 痛点类型：操作难题\n- 产品机会：做一键化工具、教程产品或自动化脚本。\n- 来源：V2EX · 问与答 · 2026-10-28\n- 原文摘要：B 站上高清修复的视频一大把，最多的就是 MV 视频修复，这种视频时长小、耗时少。像电影、电视剧当然也有高清修复，但数量不算很多，而且很多修复效果不尽如人意，另外还担着盗版的风险，辛辛苦苦的修复好了，结果直接下架，岂不是白干一场，况且收益应该也不高吧？以前觉得有些经典剧太老、太...\n\n### 4. [已经焦虑到躯体化了](https://www.v2ex.com/t/1252444)\n\n- 需求强度：85/100\n- 痛点类型：操作难题\n- 产品机会：做一键化工具、教程产品或自动化脚本。\n- 来源：V2EX · 职场话题 · 2026-10-28\n- 原文摘要：刚过完 35 岁生日，公司效益不行了，目前在苟延残喘，只剩运维的两个人，随着 AI 发展基本断定毕业后这行应该是没有出路了，也不知道后面路怎么走，最近焦虑的不行，感觉心慌，胸闷，喘不上来气，害怕心脏问题去医院检查了一遍，没有问题，大概率是压力大焦虑引起的躯体化，简单介绍下压力来...\n\n### 5. [现在的双十一，是不是已经没什么好价了？](https://www.v2ex.com/t/1252414)\n\n- 需求强度：85/100\n- 痛点类型：潜在需求\n- 产品机会：继续观察同类问题频次，寻找可产品化入口。\n- 来源：V2EX · 买买买 · 2026-10-28\n- 原文摘要：大家今年还准备蹲双十一吗，有没有好价渠道？我之前都是刷淘金币，现在都 6w 多淘金币了，完全没有什么优惠，等于摆设\n"
+}
