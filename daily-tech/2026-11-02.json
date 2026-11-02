@@ -1,0 +1,260 @@
+{
+  "date": "2026-11-02",
+  "generatedAt": "2026-11-02 18:30:04",
+  "timezone": "Asia/Shanghai",
+  "timezoneLabel": "北京时间 UTC+8",
+  "newsCount": 10,
+  "githubCount": 5,
+  "builderSignalCount": 5,
+  "demandSignalCount": 5,
+  "news": [
+    {
+      "title": "Meta 调整 VR 硬件优先级：将更多资源转向可穿戴设备和 AI 业务，降低消费级 VR 硬件优先级",
+      "link": "https://www.ithome.com/1/021/231.htm",
+      "summary": "IT之家 11 月 2 日消息，Meta 首席财务官 Susan Li（李苏珊）在 2026 年第三季度财报电话会议上表示，Meta 旗下 Reality Labs 部门第三季度营收为 4.43 亿美元 （IT之家注：现汇率约合 29.51 亿元人民币） ，同比下降 6%，主要原因是 Quest 头显销量减少，不过 AI 智能眼镜业务持续强劲增长，在一定程...",
+      "publishedRaw": "Mon, 02 Nov 2026 10:26:54 GMT",
+      "date": "2026-11-02",
+      "source": "IT之家 RSS"
+    },
+    {
+      "title": "谷歌母公司 Alphabet 年内第二次发行欧元债券，检验市场对其 AI 投入信心",
+      "link": "https://www.ithome.com/1/021/230.htm",
+      "summary": "IT之家 11 月 2 日消息，Alphabet 启动了今年第二笔欧元债券发行，再次测试投资者需求。不到一周前，该公司不及预期的第三季度财报引发股价创纪录大跌，并推高整个科技板块的债券利差。 据一位不愿具名的知情人士透露，这家谷歌母公司开启了分七档发行的欧元债券簿记建档，债券期限跨度为 2 年至 19 年。其中 2 年期固定利率债券初始定价水平较中期互换利...",
+      "publishedRaw": "Mon, 02 Nov 2026 10:18:03 GMT",
+      "date": "2026-11-02",
+      "source": "IT之家 RSS"
+    },
+    {
+      "title": "开发者将任天堂经典游戏《超级马力欧 64》移植至 Pico 头显：可将马力欧“抓出屏幕”",
+      "link": "https://www.ithome.com/1/021/229.htm",
+      "summary": "IT之家 11 月 2 日消息，XR 创意技术人员兼开发者 Lucas Martinic 近日发布了一段演示视频，展示其将 1996 年的《超级马力欧 64（Super Mario 64）》移植到了 Pico 头显上。 据介绍，相应版本游戏画面以悬浮式 3D「魔法窗口」的形式呈现，玩家可以从现实空间中观看蘑菇王国的场景。玩家还可以直接伸手抓住马力欧的衣领，...",
+      "publishedRaw": "Mon, 02 Nov 2026 10:17:34 GMT",
+      "date": "2026-11-02",
+      "source": "IT之家 RSS"
+    },
+    {
+      "title": "华硕 ROG 斯巴达 X 65K 鼠标上架预约：补贴到手价 1199 元起，11 月 9 日开售",
+      "link": "https://www.ithome.com/1/021/223.htm",
+      "summary": "IT之家 11 月 2 日消息，华硕 (ASUS) 现已在电商平台上架 ROG 斯巴达 (Spatha) X 65K 鼠标。这一型号采用人体工学模具， 补贴到手价 1199 元起 ，11 月 9 日 20:00 开售。 斯巴达 X 65K 主要面向 MMO 与 MOBA 玩家， 拥有 12 个可编程按键 。其配备 ROG AimPoint Pro 65K...",
+      "publishedRaw": "Mon, 02 Nov 2026 10:05:22 GMT",
+      "date": "2026-11-02",
+      "source": "IT之家 RSS"
+    },
+    {
+      "title": "宇树机器人 G1 因过热退出登泰山大赛，被担架抬下山",
+      "link": "https://www.ithome.com/1/021/222.htm",
+      "summary": "IT之家 11 月 2 日消息，据极目新闻报道，11 月 2 日，首届 CMG 世界机器人登泰山大赛在山东泰安开赛。随着裁判员一声令下，各机器人按照顺序每隔一分多钟出发。 报道提到，明星产品宇树机器人作为永达智诚的参赛选品亮相。据操作手介绍，该机器人为宇树机器人 G1 开发版本，即春晚同款。不过，宇树机器人并未完赛。在比赛中途， 该机器人因机器过热出现状况...",
+      "publishedRaw": "Mon, 02 Nov 2026 10:03:34 GMT",
+      "date": "2026-11-02",
+      "source": "IT之家 RSS"
+    },
+    {
+      "title": "桌面战棋游戏《辐射：战争》将于本月推出 XR 版本，登陆 XREAL Aura 平台",
+      "link": "https://www.ithome.com/1/021/221.htm",
+      "summary": "IT之家 11 月 2 日消息，桌面战棋游戏《辐射：战争（Fallout：Factions）》宣布将于本月（11 月）推出 XR 版本，登陆 XREAL Aura 平台，号称能够让玩家通过扩展现实设备体验《辐射》世界中的战术对抗。 据介绍，《辐射：战争》是一款采用回合制玩法的战术战棋游戏，背景设定在《辐射》核子世界（Nuka-World）中，其 XR 版本...",
+      "publishedRaw": "Mon, 02 Nov 2026 10:02:31 GMT",
+      "date": "2026-11-02",
+      "source": "IT之家 RSS"
+    },
+    {
+      "title": "《民航绿色发展“十五五”实施方案》印发：到 2030 年，机场场内纯电动车辆占比超过 55%",
+      "link": "https://www.ithome.com/1/021/212.htm",
+      "summary": "IT之家 11 月 2 日消息，中国民航局近日印发《民航绿色发展“十五五”实施方案》。《实施方案》提出， 到 2030 年，民航绿色低碳转型实现突破性进展 ，行业碳排放总量和强度双控制度基本建成，用能结构进一步优化，降碳减污协同能力显著增强，运输航空吨公里和机场单位旅客吞吐量二氧化碳排放较“十四五”时期分别下降 4% 和 15%，稳居全球先进行列。 IT之...",
+      "publishedRaw": "Mon, 02 Nov 2026 09:55:02 GMT",
+      "date": "2026-11-02",
+      "source": "IT之家 RSS"
+    },
+    {
+      "title": "2026 年世界互联网大会领先科技奖名单揭晓：“九章四号”光量子计算原型机等获奖",
+      "link": "https://www.ithome.com/1/021/182.htm",
+      "summary": "IT之家 11 月 2 日消息，据网信中国消息，11 月 2 日下午，2026 年世界互联网大会领先科技奖颁奖典礼在浙江乌镇举行。作为由世界互联网大会国际组织主办的面向互联网领域的国际性科技奖项，领先科技奖得到了全球互联网领域的广泛关注和积极响应。 IT之家附获奖名单如下： 基础研究组 “九章四号”光量子计算原型机 物联网可扩展性理论和方法 关键技术组 A...",
+      "publishedRaw": "Mon, 02 Nov 2026 09:48:58 GMT",
+      "date": "2026-11-02",
+      "source": "IT之家 RSS"
+    },
+    {
+      "title": "Anthropic 以“蚂蚁”为代号冲刺 IPO，昆虫学者有话要说",
+      "link": "https://www.ithome.com/1/021/194.htm",
+      "summary": "IT之家 11 月 2 日消息，据 BusinessInsider 报道，《雄蚁自断翅膀与蚁后交配》是 BBC 地球频道 YouTube 上一段三分钟的原生态纪实视频。画面里，一只笨重硕大的雄蚁伸出腹部尖刺，割掉自己的右翅，随后数十只体型小得多的雌蚁簇拥着它，一同进入蚁后那泥泞的巢穴。旧金山那些常年超负荷工作、缺少休闲的人工智能研究者，说不定有人看过这段视...",
+      "publishedRaw": "Mon, 02 Nov 2026 09:46:38 GMT",
+      "date": "2026-11-02",
+      "source": "IT之家 RSS"
+    },
+    {
+      "title": "450 亿美元 2 座晶圆厂：美国得州谢尔曼收获国际半导体业者建厂意向",
+      "link": "https://www.ithome.com/1/021/189.htm",
+      "summary": "IT之家 11 月 2 日消息，美国得克萨斯州媒体《达拉斯商业杂志》当地时间 10 月 29 日报道称，根据其获取到的一份州政府文件， 一家国际半导体业者有意在该州谢尔曼斥资 450 亿美元 （IT之家注：现汇率约合 2,997.39 亿元人民币） 建设 2 座先进晶圆厂 。 这一项目的选址决定最早可能在 11 月做出。如果一切顺利，其有望在 2029Q4...",
+      "publishedRaw": "Mon, 02 Nov 2026 09:44:31 GMT",
+      "date": "2026-11-02",
+      "source": "IT之家 RSS"
+    }
+  ],
+  "githubHot": [
+    {
+      "name": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant...",
+      "language": "TypeScript",
+      "stars": "110,119",
+      "starsToday": "1526",
+      "source": "GitHub Trending",
+      "chineseMeaning": "TypeScript 项目，主要方向：AI / 大模型。"
+    },
+    {
+      "name": "lightpanda-io/browser",
+      "url": "https://github.com/lightpanda-io/browser",
+      "description": "Lightpanda: the headless browser designed for AI and automation",
+      "language": "Zig",
+      "stars": "40,725",
+      "starsToday": "825",
+      "source": "GitHub Trending",
+      "chineseMeaning": "Zig 项目，主要方向：AI / 大模型、网页 / 前端体验、自动化工作流。"
+    },
+    {
+      "name": "shiyu-coder/Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "language": "Python",
+      "stars": "45,714",
+      "starsToday": "630",
+      "source": "GitHub Trending",
+      "chineseMeaning": "Python 项目，主要方向：AI / 大模型。"
+    },
+    {
+      "name": "pingdotgg/t3code",
+      "url": "https://github.com/pingdotgg/t3code",
+      "description": "",
+      "language": "TypeScript",
+      "stars": "39,507",
+      "starsToday": "3094",
+      "source": "GitHub Trending",
+      "chineseMeaning": "TypeScript 项目，用途需要打开仓库进一步查看。"
+    },
+    {
+      "name": "milind-soni/OpenMausBot",
+      "url": "https://github.com/milind-soni/OpenMausBot",
+      "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+      "language": "TypeScript",
+      "stars": "10,949",
+      "starsToday": "922",
+      "source": "GitHub Trending",
+      "chineseMeaning": "TypeScript 项目，可理解为：围绕“Open-source Grok Bot alternative with a virtual machi...”的开源项目。"
+    }
+  ],
+  "builderSignals": [
+    {
+      "title": "Weekend hack: HackerTube. I was annoyed with YouTube's recommendations so I had Claude fi...",
+      "summary": "Weekend hack: HackerTube. I was annoyed with YouTube's recommendations so I had Claude filter down 43M comments over 20 years of HN to 6,454 videos t...",
+      "author": "",
+      "link": "https://x.com/karpathy/status/2116957135661945283",
+      "publishedRaw": "2026-11-01T18:14:46.000Z",
+      "date": "2026-11-02",
+      "source": "follow-builders X"
+    },
+    {
+      "title": "@karpathy https://t.co/ff9Go6a7Zd url",
+      "summary": "@karpathy https://t.co/ff9Go6a7Zd url",
+      "author": "",
+      "link": "https://x.com/swyx/status/2116782055665402157",
+      "publishedRaw": "2026-11-01T06:39:04.000Z",
+      "date": "2026-11-01",
+      "source": "follow-builders X"
+    },
+    {
+      "title": "Day 28/ Banked 2/2",
+      "summary": "Day 28/ Banked 2/2",
+      "author": "",
+      "link": "https://x.com/thsottiaux/status/2117035794678546764",
+      "publishedRaw": "2026-11-01T23:27:20.000Z",
+      "date": "2026-11-02",
+      "source": "follow-builders X"
+    },
+    {
+      "title": "My dog just patched that bug we couldn’t find for two weeks. Clever dog",
+      "summary": "My dog just patched that bug we couldn’t find for two weeks. Clever dog",
+      "author": "",
+      "link": "https://x.com/thsottiaux/status/2116936205623611781",
+      "publishedRaw": "2026-11-01T16:51:36.000Z",
+      "date": "2026-11-02",
+      "source": "follow-builders X"
+    },
+    {
+      "title": "My dog sent you the meeting notes from yesterday, did you see them?",
+      "summary": "My dog sent you the meeting notes from yesterday, did you see them?",
+      "author": "",
+      "link": "https://x.com/thsottiaux/status/2116936031866077423",
+      "publishedRaw": "2026-11-01T16:50:55.000Z",
+      "date": "2026-11-02",
+      "source": "follow-builders X"
+    }
+  ],
+  "demandSignals": [
+    {
+      "title": "Ask HN: Which TV do you recommend for privacy?",
+      "summary": "",
+      "link": "https://news.ycombinator.com/item?id=50328896",
+      "source": "Hacker News Ask HN",
+      "publishedRaw": "2026-11-01T19:35:27Z",
+      "date": "2026-11-02",
+      "points": 401,
+      "comments": 536,
+      "demandType": "工具选型",
+      "opportunity": "做细分场景榜单、决策助手或模板库。",
+      "score": 85
+    },
+    {
+      "title": "前公司老板找我回去救场，情况比较特殊，想听听各位的建议",
+      "summary": "求助：前老板邀约回去救场，想请教大家风险和谈判要点 各位好，想咨询下大家的经验。 背景 我是技术出身的产品经理，之前一手搭建整套产研团队，负责的产品已经多端稳定上线。一个月前正常离职，交接工作当时处理得比较完整。 现在前老板联系我，说产研团队军心涣散、普遍摆烂，项目和系统已经接...",
+      "link": "https://www.v2ex.com/t/1253836",
+      "source": "V2EX · 职场话题",
+      "publishedRaw": "2026-11-02T07:27:36.000Z",
+      "date": "2026-11-02",
+      "points": 0,
+      "comments": 116,
+      "demandType": "潜在需求",
+      "opportunity": "继续观察同类问题频次，寻找可产品化入口。",
+      "score": 85
+    },
+    {
+      "title": "现在的行情真的很冷",
+      "summary": "4 月份开始搞绩效改革，5 月份开始不发工资，8 月份被骂 然后离职。然后 boss 上一直没什么面试。娃一岁半需要陪伴也需要经济支持，而我，只有一腔对自己的失望。老婆的收入勉强付得起房贷，生活费还在吃老本。有点后悔以前经济形势好的时候养猫，胡吃海喝，没有提前还房贷。但是除此之...",
+      "link": "https://www.v2ex.com/t/1253652",
+      "source": "V2EX · 职场话题",
+      "publishedRaw": "2026-11-02T01:19:33.000Z",
+      "date": "2026-11-02",
+      "points": 0,
+      "comments": 88,
+      "demandType": "操作难题",
+      "opportunity": "做一键化工具、教程产品或自动化脚本。",
+      "score": 85
+    },
+    {
+      "title": "ESP Mosaico 这种概念的出现，让 AI 彻底攻破了嵌入式应用开发的护城河",
+      "summary": "前两天买了个 ESP Mosaico ，我感觉我真的要完了，嵌入式开发也彻底没救了。 mosaico.ai > 个人体验，只要把这个模块插上电脑，然后跟 AI 说你想要在上面做什么功能，它就会自己分析 UI 应该怎么画、传感器怎么选配，然后先在上位机仿真，再到下位机 debug...",
+      "link": "https://www.v2ex.com/t/1253635",
+      "source": "V2EX · 程序员",
+      "publishedRaw": "2026-11-02T00:38:23.000Z",
+      "date": "2026-11-02",
+      "points": 0,
+      "comments": 49,
+      "demandType": "操作难题",
+      "opportunity": "做一键化工具、教程产品或自动化脚本。",
+      "score": 85
+    },
+    {
+      "title": "[Capability]: Clean-room redesign the complete AutoGenesis Skills layer",
+      "summary": "## Problem The existing `autogenesis-setup` and `autogenesis-run` Skills accumulated installation, readiness, platform diagnosis, security,...",
+      "link": "https://github.com/FSQ-lab/AutoGenesis/issues/52",
+      "source": "GitHub Issue · FSQ-lab/AutoGenesis",
+      "publishedRaw": "2026-11-02T03:21:27Z",
+      "date": "2026-11-02",
+      "points": 0,
+      "comments": 21,
+      "demandType": "潜在需求",
+      "opportunity": "继续观察同类问题频次，寻找可产品化入口。",
+      "score": 84
+    }
+  ],
+  "sourceWarnings": [],
+  "markdown": "# 科技日报 · 2026-11-02\n\n生成时间：2026-11-02 18:30:04（北京时间 UTC+8）\n\n## 科技新闻（10 条）\n\n### 1. [Meta 调整 VR 硬件优先级：将更多资源转向可穿戴设备和 AI 业务，降低消费级 VR 硬件优先级](https://www.ithome.com/1/021/231.htm)\n\n- 来源：IT之家 RSS · 2026-11-02\n- 摘要：IT之家 11 月 2 日消息，Meta 首席财务官 Susan Li（李苏珊）在 2026 年第三季度财报电话会议上表示，Meta 旗下 Reality Labs 部门第三季度营收为 4.43 亿美元 （IT之家注：现汇率约合 29.51 亿元人民币） ，同比下降 6%，主要原因是 Quest 头显销量减少，不过 AI 智能眼镜业务持续强劲增长，在一定程...\n\n### 2. [谷歌母公司 Alphabet 年内第二次发行欧元债券，检验市场对其 AI 投入信心](https://www.ithome.com/1/021/230.htm)\n\n- 来源：IT之家 RSS · 2026-11-02\n- 摘要：IT之家 11 月 2 日消息，Alphabet 启动了今年第二笔欧元债券发行，再次测试投资者需求。不到一周前，该公司不及预期的第三季度财报引发股价创纪录大跌，并推高整个科技板块的债券利差。 据一位不愿具名的知情人士透露，这家谷歌母公司开启了分七档发行的欧元债券簿记建档，债券期限跨度为 2 年至 19 年。其中 2 年期固定利率债券初始定价水平较中期互换利...\n\n### 3. [开发者将任天堂经典游戏《超级马力欧 64》移植至 Pico 头显：可将马力欧“抓出屏幕”](https://www.ithome.com/1/021/229.htm)\n\n- 来源：IT之家 RSS · 2026-11-02\n- 摘要：IT之家 11 月 2 日消息，XR 创意技术人员兼开发者 Lucas Martinic 近日发布了一段演示视频，展示其将 1996 年的《超级马力欧 64（Super Mario 64）》移植到了 Pico 头显上。 据介绍，相应版本游戏画面以悬浮式 3D「魔法窗口」的形式呈现，玩家可以从现实空间中观看蘑菇王国的场景。玩家还可以直接伸手抓住马力欧的衣领，...\n\n### 4. [华硕 ROG 斯巴达 X 65K 鼠标上架预约：补贴到手价 1199 元起，11 月 9 日开售](https://www.ithome.com/1/021/223.htm)\n\n- 来源：IT之家 RSS · 2026-11-02\n- 摘要：IT之家 11 月 2 日消息，华硕 (ASUS) 现已在电商平台上架 ROG 斯巴达 (Spatha) X 65K 鼠标。这一型号采用人体工学模具， 补贴到手价 1199 元起 ，11 月 9 日 20:00 开售。 斯巴达 X 65K 主要面向 MMO 与 MOBA 玩家， 拥有 12 个可编程按键 。其配备 ROG AimPoint Pro 65K....\n\n### 5. [宇树机器人 G1 因过热退出登泰山大赛，被担架抬下山](https://www.ithome.com/1/021/222.htm)\n\n- 来源：IT之家 RSS · 2026-11-02\n- 摘要：IT之家 11 月 2 日消息，据极目新闻报道，11 月 2 日，首届 CMG 世界机器人登泰山大赛在山东泰安开赛。随着裁判员一声令下，各机器人按照顺序每隔一分多钟出发。 报道提到，明星产品宇树机器人作为永达智诚的参赛选品亮相。据操作手介绍，该机器人为宇树机器人 G1 开发版本，即春晚同款。不过，宇树机器人并未完赛。在比赛中途， 该机器人因机器过热出现状况...\n\n### 6. [桌面战棋游戏《辐射：战争》将于本月推出 XR 版本，登陆 XREAL Aura 平台](https://www.ithome.com/1/021/221.htm)\n\n- 来源：IT之家 RSS · 2026-11-02\n- 摘要：IT之家 11 月 2 日消息，桌面战棋游戏《辐射：战争（Fallout：Factions）》宣布将于本月（11 月）推出 XR 版本，登陆 XREAL Aura 平台，号称能够让玩家通过扩展现实设备体验《辐射》世界中的战术对抗。 据介绍，《辐射：战争》是一款采用回合制玩法的战术战棋游戏，背景设定在《辐射》核子世界（Nuka-World）中，其 XR 版本...\n\n### 7. [《民航绿色发展“十五五”实施方案》印发：到 2030 年，机场场内纯电动车辆占比超过 55%](https://www.ithome.com/1/021/212.htm)\n\n- 来源：IT之家 RSS · 2026-11-02\n- 摘要：IT之家 11 月 2 日消息，中国民航局近日印发《民航绿色发展“十五五”实施方案》。《实施方案》提出， 到 2030 年，民航绿色低碳转型实现突破性进展 ，行业碳排放总量和强度双控制度基本建成，用能结构进一步优化，降碳减污协同能力显著增强，运输航空吨公里和机场单位旅客吞吐量二氧化碳排放较“十四五”时期分别下降 4% 和 15%，稳居全球先进行列。 IT之...\n\n### 8. [2026 年世界互联网大会领先科技奖名单揭晓：“九章四号”光量子计算原型机等获奖](https://www.ithome.com/1/021/182.htm)\n\n- 来源：IT之家 RSS · 2026-11-02\n- 摘要：IT之家 11 月 2 日消息，据网信中国消息，11 月 2 日下午，2026 年世界互联网大会领先科技奖颁奖典礼在浙江乌镇举行。作为由世界互联网大会国际组织主办的面向互联网领域的国际性科技奖项，领先科技奖得到了全球互联网领域的广泛关注和积极响应。 IT之家附获奖名单如下： 基础研究组 “九章四号”光量子计算原型机 物联网可扩展性理论和方法 关键技术组 A...\n\n### 9. [Anthropic 以“蚂蚁”为代号冲刺 IPO，昆虫学者有话要说](https://www.ithome.com/1/021/194.htm)\n\n- 来源：IT之家 RSS · 2026-11-02\n- 摘要：IT之家 11 月 2 日消息，据 BusinessInsider 报道，《雄蚁自断翅膀与蚁后交配》是 BBC 地球频道 YouTube 上一段三分钟的原生态纪实视频。画面里，一只笨重硕大的雄蚁伸出腹部尖刺，割掉自己的右翅，随后数十只体型小得多的雌蚁簇拥着它，一同进入蚁后那泥泞的巢穴。旧金山那些常年超负荷工作、缺少休闲的人工智能研究者，说不定有人看过这段视...\n\n### 10. [450 亿美元 2 座晶圆厂：美国得州谢尔曼收获国际半导体业者建厂意向](https://www.ithome.com/1/021/189.htm)\n\n- 来源：IT之家 RSS · 2026-11-02\n- 摘要：IT之家 11 月 2 日消息，美国得克萨斯州媒体《达拉斯商业杂志》当地时间 10 月 29 日报道称，根据其获取到的一份州政府文件， 一家国际半导体业者有意在该州谢尔曼斥资 450 亿美元 （IT之家注：现汇率约合 2,997.39 亿元人民币） 建设 2 座先进晶圆厂 。 这一项目的选址决定最早可能在 11 月做出。如果一切顺利，其有望在 2029Q4...\n\n## GitHub 热点（5 个）\n\n### 1. [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)\n\n- 元信息：TypeScript · Stars 110,119 · Today +1526 · GitHub Trending\n- 中文释义：TypeScript 项目，主要方向：AI / 大模型。\n- 原文简介：Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant...\n\n### 2. [lightpanda-io/browser](https://github.com/lightpanda-io/browser)\n\n- 元信息：Zig · Stars 40,725 · Today +825 · GitHub Trending\n- 中文释义：Zig 项目，主要方向：AI / 大模型、网页 / 前端体验、自动化工作流。\n- 原文简介：Lightpanda: the headless browser designed for AI and automation\n\n### 3. [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos)\n\n- 元信息：Python · Stars 45,714 · Today +630 · GitHub Trending\n- 中文释义：Python 项目，主要方向：AI / 大模型。\n- 原文简介：Kronos: A Foundation Model for the Language of Financial Markets\n\n### 4. [pingdotgg/t3code](https://github.com/pingdotgg/t3code)\n\n- 元信息：TypeScript · Stars 39,507 · Today +3094 · GitHub Trending\n- 中文释义：TypeScript 项目，用途需要打开仓库进一步查看。\n\n### 5. [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot)\n\n- 元信息：TypeScript · Stars 10,949 · Today +922 · GitHub Trending\n- 中文释义：TypeScript 项目，可理解为：围绕“Open-source Grok Bot alternative with a virtual machi...”的开源项目。\n- 原文简介：Open-source Grok Bot alternative with a virtual machine that bots can use\n\n## AI Builders 动态（5 条）\n\n### 1. [Weekend hack: HackerTube. I was annoyed with YouTube's recommendations so I had Claude fi...](https://x.com/karpathy/status/2116957135661945283)\n\n- 来源：follow-builders X · 2026-11-02\n- 摘要：Weekend hack: HackerTube. I was annoyed with YouTube's recommendations so I had Claude filter down 43M comments over 20 years of HN to 6,454 videos t...\n\n### 2. [@karpathy https://t.co/ff9Go6a7Zd url](https://x.com/swyx/status/2116782055665402157)\n\n- 来源：follow-builders X · 2026-11-01\n- 摘要：@karpathy https://t.co/ff9Go6a7Zd url\n\n### 3. [Day 28/ Banked 2/2](https://x.com/thsottiaux/status/2117035794678546764)\n\n- 来源：follow-builders X · 2026-11-02\n- 摘要：Day 28/ Banked 2/2\n\n### 4. [My dog just patched that bug we couldn’t find for two weeks. Clever dog](https://x.com/thsottiaux/status/2116936205623611781)\n\n- 来源：follow-builders X · 2026-11-02\n- 摘要：My dog just patched that bug we couldn’t find for two weeks. Clever dog\n\n### 5. [My dog sent you the meeting notes from yesterday, did you see them?](https://x.com/thsottiaux/status/2116936031866077423)\n\n- 来源：follow-builders X · 2026-11-02\n- 摘要：My dog sent you the meeting notes from yesterday, did you see them?\n\n## 今日需求雷达（5 条）\n\n### 1. [Ask HN: Which TV do you recommend for privacy?](https://news.ycombinator.com/item?id=50328896)\n\n- 需求强度：85/100\n- 痛点类型：工具选型\n- 产品机会：做细分场景榜单、决策助手或模板库。\n- 来源：Hacker News Ask HN · 2026-11-02\n\n### 2. [前公司老板找我回去救场，情况比较特殊，想听听各位的建议](https://www.v2ex.com/t/1253836)\n\n- 需求强度：85/100\n- 痛点类型：潜在需求\n- 产品机会：继续观察同类问题频次，寻找可产品化入口。\n- 来源：V2EX · 职场话题 · 2026-11-02\n- 原文摘要：求助：前老板邀约回去救场，想请教大家风险和谈判要点 各位好，想咨询下大家的经验。 背景 我是技术出身的产品经理，之前一手搭建整套产研团队，负责的产品已经多端稳定上线。一个月前正常离职，交接工作当时处理得比较完整。 现在前老板联系我，说产研团队军心涣散、普遍摆烂，项目和系统已经接...\n\n### 3. [现在的行情真的很冷](https://www.v2ex.com/t/1253652)\n\n- 需求强度：85/100\n- 痛点类型：操作难题\n- 产品机会：做一键化工具、教程产品或自动化脚本。\n- 来源：V2EX · 职场话题 · 2026-11-02\n- 原文摘要：4 月份开始搞绩效改革，5 月份开始不发工资，8 月份被骂 然后离职。然后 boss 上一直没什么面试。娃一岁半需要陪伴也需要经济支持，而我，只有一腔对自己的失望。老婆的收入勉强付得起房贷，生活费还在吃老本。有点后悔以前经济形势好的时候养猫，胡吃海喝，没有提前还房贷。但是除此之...\n\n### 4. [ESP Mosaico 这种概念的出现，让 AI 彻底攻破了嵌入式应用开发的护城河](https://www.v2ex.com/t/1253635)\n\n- 需求强度：85/100\n- 痛点类型：操作难题\n- 产品机会：做一键化工具、教程产品或自动化脚本。\n- 来源：V2EX · 程序员 · 2026-11-02\n- 原文摘要：前两天买了个 ESP Mosaico ，我感觉我真的要完了，嵌入式开发也彻底没救了。 mosaico.ai > 个人体验，只要把这个模块插上电脑，然后跟 AI 说你想要在上面做什么功能，它就会自己分析 UI 应该怎么画、传感器怎么选配，然后先在上位机仿真，再到下位机 debug...\n\n### 5. [[Capability\\]: Clean-room redesign the complete AutoGenesis Skills layer](https://github.com/FSQ-lab/AutoGenesis/issues/52)\n\n- 需求强度：84/100\n- 痛点类型：潜在需求\n- 产品机会：继续观察同类问题频次，寻找可产品化入口。\n- 来源：GitHub Issue · FSQ-lab/AutoGenesis · 2026-11-02\n- 原文摘要：## Problem The existing `autogenesis-setup` and `autogenesis-run` Skills accumulated installation, readiness, platform diagnosis, security,...\n"
+}
