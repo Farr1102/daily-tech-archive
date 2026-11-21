@@ -1,0 +1,260 @@
+{
+  "date": "2026-11-21",
+  "generatedAt": "2026-11-21 18:37:29",
+  "timezone": "Asia/Shanghai",
+  "timezoneLabel": "北京时间 UTC+8",
+  "newsCount": 10,
+  "githubCount": 5,
+  "builderSignalCount": 5,
+  "demandSignalCount": 5,
+  "news": [
+    {
+      "title": "消息称华为 Mate 90 Air 手机搭载麒麟 9020 芯片，厚 6.58mm",
+      "link": "https://www.ithome.com/1/030/439.htm",
+      "summary": "IT之家 11 月 21 日消息，华为本周已官宣旗下最薄 Mate 直板机 —— 华为 Mate 90 Air，新机将于 11 月 24 日 14:30 举行的 HUAWEI Mate X8 及全场景新品发布会发布。 博主 @熊猫很禿然 今日爆料，称“这代 Mate 90 Air 提升十分有限”： K9020A / K9020B → K9020 6.6mm...",
+      "publishedRaw": "Sat, 21 Nov 2026 10:10:00 GMT",
+      "date": "2026-11-21",
+      "source": "IT之家 RSS"
+    },
+    {
+      "title": "宝马 iX5“隐藏电量”曝光：表显续航归零后还能继续行驶 35 公里",
+      "link": "https://www.ithome.com/1/030/424.htm",
+      "summary": "IT之家 11 月 21 日消息，据外媒 BMW Blog 今天（21 日）下午报道，Out of Spec Testing 进行的一项续航测试发现，iX5 在电量显示归零后，还能 继续行驶 35 公里 。 参与测试的是一辆预量产 iX5，里程表显示将近 8050 公里，距离真正停下来还有相当长一段路。 测试从电池剩余电量 约 4% 时开始 。此时，车辆首...",
+      "publishedRaw": "Sat, 21 Nov 2026 09:58:11 GMT",
+      "date": "2026-11-21",
+      "source": "IT之家 RSS"
+    },
+    {
+      "title": "华中科技大学与阿里巴巴联合成立 AI 前沿安全研究中心，课题覆盖大模型安全攻防等",
+      "link": "https://www.ithome.com/1/030/423.htm",
+      "summary": "IT之家 11 月 21 日消息，华中科技大学与阿里巴巴集团于 11 月 18 日签署合作协议，聚焦 AI 安全共建“智能攻防与前沿安全联合研究中心”，首批启动 9 个课题。 IT之家获悉，联合研究中心首批启动的 9 个课题，覆盖 大模型安全攻防、智能体与终端安全、智能化系统与软件安全、数据协同与隐私保护 四大方向，以下为官方公开的案例： 当 AI 智能体...",
+      "publishedRaw": "Sat, 21 Nov 2026 09:57:05 GMT",
+      "date": "2026-11-21",
+      "source": "IT之家 RSS"
+    },
+    {
+      "title": "世界首套：国家电网自研静止全功率发生器投运，供区年新增电量可满足 2 万户家庭一年需求",
+      "link": "https://www.ithome.com/1/030/422.htm",
+      "summary": "IT之家 11 月 21 日消息，11 月 20 日，国家电网有限公司自主研制的 世界首套 35 千伏 / 30 兆伏安 IGBT 串联型静止全功率发生器（SPG），经过短路试验后 168 小时试运行，在陕西延安 330 千伏方河变电站正式投运。这标志着 我国在大电网稳定支撑技术与高端电力电子装备自主研制领域取得重要突破 。 此次投运的静止全功率发生器，正...",
+      "publishedRaw": "Sat, 21 Nov 2026 09:32:14 GMT",
+      "date": "2026-11-21",
+      "source": "IT之家 RSS"
+    },
+    {
+      "title": "美参议员痛批苹果、谷歌：放任 AI 脱衣应用“野蛮生长”",
+      "link": "https://www.ithome.com/1/030/421.htm",
+      "summary": "IT之家 11 月 21 日消息，据英国《卫报》报道，美国参议员罗恩 · 怀登、埃德 · 马基和本 · 卢汉指出，苹果和谷歌未能有效识别或下架用于生成未经当事人同意的裸照或色情图像的应用。 三人还指出，Meta 仍在从这些所谓的 AI 脱衣应用广告中获利。 当地时间 18 日，三人向苹果、谷歌和 Meta 的 CEO 致函，指出各公司现有的防护措施 不足以...",
+      "publishedRaw": "Sat, 21 Nov 2026 09:22:39 GMT",
+      "date": "2026-11-21",
+      "source": "IT之家 RSS"
+    },
+    {
+      "title": "银联国际与传音达成全球手机 Pay 合作，首站落地巴基斯坦",
+      "link": "https://www.ithome.com/1/030/420.htm",
+      "summary": "IT之家 11 月 21 日消息，银联国际宣布与传音达成全球合作，双方基于银联“卡码合一”手机 Pay 方案，在传音旗下钱包产品 T Wallet 中推出银联支付服务。 境外用户在传音智能终端上绑定银联卡，即可率先体验线下非接 NFC 支付，后续还将支持二维码及线上 In-App 支付。 IT之家获悉， 本次合作首站落地巴基斯坦 ，巴基斯坦联合银行有限公司...",
+      "publishedRaw": "Sat, 21 Nov 2026 09:10:48 GMT",
+      "date": "2026-11-21",
+      "source": "IT之家 RSS"
+    },
+    {
+      "title": "代码显示三星正为 One UI 9.5 开发 AI 智能天气提醒功能：可根据用户作息与通勤时间推送通知",
+      "link": "https://www.ithome.com/1/030/419.htm",
+      "summary": "IT之家 11 月 21 日消息，外媒 SammyGuru 在拆解三星最新 One UI 9.5 测试版时，发现三星正在为天气应用测试多项 AI 智能提醒功能，系统能够识别用户的起床时间和通勤行为，在用户起床、上班或下班回家时自动加载最新天气信息。 具体来看，相应功能依赖三星 Personal Data Intelligence（个人数据智能）系统，能够识...",
+      "publishedRaw": "Sat, 21 Nov 2026 08:53:47 GMT",
+      "date": "2026-11-21",
+      "source": "IT之家 RSS"
+    },
+    {
+      "title": "国家数据局：将积极拓展词元服务应用场景，健全词元计量计费、质量测评等标准规范",
+      "link": "https://www.ithome.com/1/030/418.htm",
+      "summary": "IT之家 11 月 21 日消息，国家数据局党组书记、局长刘烈宏出席昨日（20 日）在湖南长沙举办的 2026 世界计算大会开幕式并致辞。 刘烈宏表示，词元打通了算力、模型、数据间的价值传导链路，成为数智经济的价值锚点和数据价值的显性化载体。 一是词元发展初步起势，围绕词元生产、流通、消费的产业生态正加速构建，拓展了经济增长新空间。 二是“词元工厂”快速兴...",
+      "publishedRaw": "Sat, 21 Nov 2026 08:51:37 GMT",
+      "date": "2026-11-21",
+      "source": "IT之家 RSS"
+    },
+    {
+      "title": "神舟二十四号任务完成最后一次全区合练，发射场做好发射前各项准备",
+      "link": "https://www.ithome.com/1/030/417.htm",
+      "summary": "IT之家 11 月 21 日消息，据央视新闻今天（21 日）下午报道，神舟二十四号任务完成 最后一次全区合练 ，发射场做好发射前各项准备。 据IT之家了解，神舟二十四号载人飞行任务将有 1 名巴基斯坦航天员以载荷专家身份参加 ，在完成短期在轨飞行后，随神舟二十三号载人飞船返回。这是中国载人航天工程历史上首次中外航天员联合飞行，中国空间站将迎来首位外籍航天员...",
+      "publishedRaw": "Sat, 21 Nov 2026 08:49:52 GMT",
+      "date": "2026-11-21",
+      "source": "IT之家 RSS"
+    },
+    {
+      "title": "被指“平台成瘾性设计”损害儿童健康：YouTube 拟支付 30 亿美元和解美国多个学区诉讼",
+      "link": "https://www.ithome.com/1/030/416.htm",
+      "summary": "IT之家 11 月 21 日消息，据彭博社报道，YouTube 正准备支付 30 亿美元 （IT之家注：现汇率约合 200.76 亿元人民币） 与数千个美国学区达成和解，以解决其平台“成瘾性设计”损害儿童身心健康的相关诉讼。知情人士透露，YouTube 已在“原则上达成和解协议”，相关安排还将包括“针对青少年用户的新保护措施”。 据报道，这项和解有望帮助谷...",
+      "publishedRaw": "Sat, 21 Nov 2026 08:45:48 GMT",
+      "date": "2026-11-21",
+      "source": "IT之家 RSS"
+    }
+  ],
+  "githubHot": [
+    {
+      "name": "elementalsouls/Claude-BugHunter",
+      "url": "https://github.com/elementalsouls/Claude-BugHunter",
+      "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24...",
+      "language": "Python",
+      "stars": "15,008",
+      "starsToday": "1622",
+      "source": "GitHub Trending",
+      "chineseMeaning": "Python 项目，主要方向：AI / 大模型。"
+    },
+    {
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": "323,262",
+      "starsToday": "890",
+      "source": "GitHub Trending",
+      "chineseMeaning": "Shell 项目，主要方向：开发框架或工具库、命令行与开发者工具。"
+    },
+    {
+      "name": "HKUDS/CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "language": "Python",
+      "stars": "61,671",
+      "starsToday": "773",
+      "source": "GitHub Trending",
+      "chineseMeaning": "Python 项目，主要方向：AI / 大模型、命令行与开发者工具。"
+    },
+    {
+      "name": "jingyaogong/minimind",
+      "url": "https://github.com/jingyaogong/minimind",
+      "description": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
+      "language": "Python",
+      "stars": "67,898",
+      "starsToday": "847",
+      "source": "GitHub Trending",
+      "chineseMeaning": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours."
+    },
+    {
+      "name": "cursor/plugins",
+      "url": "https://github.com/cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "language": "TypeScript",
+      "stars": "17,949",
+      "starsToday": "299",
+      "source": "GitHub Trending",
+      "chineseMeaning": "TypeScript 项目，可理解为：围绕“Cursor plugin specification and official plugins”的开源项目。"
+    }
+  ],
+  "builderSignals": [
+    {
+      "title": "broooo https://t.co/5qYHHbBOyV https://t.co/Pc6VYX8bxt",
+      "summary": "broooo https://t.co/5qYHHbBOyV https://t.co/Pc6VYX8bxt",
+      "author": "",
+      "link": "https://x.com/swyx/status/2123856303974121851",
+      "publishedRaw": "2026-11-20T19:09:36.000Z",
+      "date": "2026-11-21",
+      "source": "follow-builders X"
+    },
+    {
+      "title": "🔜 why @j_schottenstein left @getdbt for @LangChain to build it into a $3B startup… ….and...",
+      "summary": "🔜 why @j_schottenstein left @getdbt for @LangChain to build it into a $3B startup… ….and now they are having to reinvent the content, context (knowl...",
+      "author": "",
+      "link": "https://x.com/swyx/status/2123843282082132335",
+      "publishedRaw": "2026-11-20T18:17:52.000Z",
+      "date": "2026-11-21",
+      "source": "follow-builders X"
+    },
+    {
+      "title": "whatever happened to @cursor_ai origin? anyone use this thing in anger yet? does it have...",
+      "summary": "whatever happened to @cursor_ai origin? anyone use this thing in anger yet? does it have actions/ci/cd yet? https://t.co/ZDVWydLZTe https://t.co/DTQa...",
+      "author": "",
+      "link": "https://x.com/swyx/status/2123690305736396925",
+      "publishedRaw": "2026-11-20T08:09:59.000Z",
+      "date": "2026-11-20",
+      "source": "follow-builders X"
+    },
+    {
+      "title": "Thanks again to @UFO2002616 for the inspiration! https://t.co/V5BHwpoy9b",
+      "summary": "Thanks again to @UFO2002616 for the inspiration! https://t.co/V5BHwpoy9b",
+      "author": "",
+      "link": "https://x.com/joshwoodward/status/2123943608516792480",
+      "publishedRaw": "2026-11-21T00:56:31.000Z",
+      "date": "2026-11-21",
+      "source": "follow-builders X"
+    },
+    {
+      "title": "Whew, what a week of shipping! A few of us were having fun with Gemini Neon on the Friday...",
+      "summary": "Whew, what a week of shipping! A few of us were having fun with Gemini Neon on the Friday afternoon before the holiday week ahead, and we loved the p...",
+      "author": "",
+      "link": "https://x.com/joshwoodward/status/2123943606906138868",
+      "publishedRaw": "2026-11-21T00:56:31.000Z",
+      "date": "2026-11-21",
+      "source": "follow-builders X"
+    }
+  ],
+  "demandSignals": [
+    {
+      "title": "推荐个梯子吧，自己买了好几个，一到晚上连油管都打不开 太拉了，打算预算可以加一点",
+      "summary": "我大部分时间都不需要用自己的梯子，所以之前都是买的按量付费的，结果前两天想自己电脑看个油管，晚上梯子速度都带不动，才知道那些机场有多拉跨 自建 / 机场都可以推荐 预算 20-30r /月 （因为用的确实不多）",
+      "link": "https://www.v2ex.com/t/1258717",
+      "source": "V2EX · 机场",
+      "publishedRaw": "2026-11-21T03:48:29.000Z",
+      "date": "2026-11-21",
+      "points": 0,
+      "comments": 37,
+      "demandType": "工具选型",
+      "opportunity": "做细分场景榜单、决策助手或模板库。",
+      "score": 85
+    },
+    {
+      "title": "黑五将至，有什么靠谱的 VPS 推荐不？",
+      "summary": "各位有稳定靠谱的 VPS 推荐不？ 用途：部署简单的一些海外服务 配置要求：至少 2c4g 的，线路无需国内优化线路 最好是靠谱的厂商",
+      "link": "https://www.v2ex.com/t/1258697",
+      "source": "V2EX · VPS",
+      "publishedRaw": "2026-11-21T01:58:46.000Z",
+      "date": "2026-11-21",
+      "points": 0,
+      "comments": 25,
+      "demandType": "工具选型",
+      "opportunity": "做细分场景榜单、决策助手或模板库。",
+      "score": 85
+    },
+    {
+      "title": "「黑五 7 折 + 送 10 个终身版」Enconvo：自带 Computer Use 和 Browser Use 的 AI 助手，Mac / Windows / Linux / iPhone / Android 全平台原生应用",
+      "summary": "各位 V 友好，我是 Enconvo 的开发者 Kane。 别以为这又是一个 AI 聊天套壳。Enconvo 是一个 personal agent：把你的电脑、手机、浏览器、文件和常用的 App 全连起来，把工作和生活安排得井井有条。 黑五终身版 7 折，帖子里再送 10 个终...",
+      "link": "https://www.v2ex.com/t/1258698",
+      "source": "V2EX · 推广",
+      "publishedRaw": "2026-11-21T02:15:35.000Z",
+      "date": "2026-11-21",
+      "points": 0,
+      "comments": 25,
+      "demandType": "操作难题",
+      "opportunity": "做一键化工具、教程产品或自动化脚本。",
+      "score": 85
+    },
+    {
+      "title": "Exercise: Secure your Repository's Supply Chain",
+      "summary": "## Secure your Repository's Supply Chain 👋 Hey there @anilorakpd! Welcome to your Skills exercise! Let's explore how to secure your reposi...",
+      "link": "https://github.com/anilorakpd/skills-secure-repository-supply-chain/issues/1",
+      "source": "GitHub Issue · anilorakpd/skills-secure-repository-supply-chain",
+      "publishedRaw": "2026-11-21T05:44:09Z",
+      "date": "2026-11-21",
+      "points": 0,
+      "comments": 14,
+      "demandType": "操作难题",
+      "opportunity": "做一键化工具、教程产品或自动化脚本。",
+      "score": 81
+    },
+    {
+      "title": "Exercise: Publish Docker Packages",
+      "summary": "## Publish Docker Packages 👋 Hey there @jiaocc1! Welcome to your Skills exercise! Learn how to build and publish Docker images using GitHu...",
+      "link": "https://github.com/jiaocc1/skills-publish-docker-images/issues/1",
+      "source": "GitHub Issue · jiaocc1/skills-publish-docker-images",
+      "publishedRaw": "2026-11-21T07:07:14Z",
+      "date": "2026-11-21",
+      "points": 0,
+      "comments": 14,
+      "demandType": "操作难题",
+      "opportunity": "做一键化工具、教程产品或自动化脚本。",
+      "score": 81
+    }
+  ],
+  "sourceWarnings": [],
+  "markdown": "# 科技日报 · 2026-11-21\n\n生成时间：2026-11-21 18:37:29（北京时间 UTC+8）\n\n## 科技新闻（10 条）\n\n### 1. [消息称华为 Mate 90 Air 手机搭载麒麟 9020 芯片，厚 6.58mm](https://www.ithome.com/1/030/439.htm)\n\n- 来源：IT之家 RSS · 2026-11-21\n- 摘要：IT之家 11 月 21 日消息，华为本周已官宣旗下最薄 Mate 直板机 —— 华为 Mate 90 Air，新机将于 11 月 24 日 14:30 举行的 HUAWEI Mate X8 及全场景新品发布会发布。 博主 @熊猫很禿然 今日爆料，称“这代 Mate 90 Air 提升十分有限”： K9020A / K9020B → K9020 6.6mm...\n\n### 2. [宝马 iX5“隐藏电量”曝光：表显续航归零后还能继续行驶 35 公里](https://www.ithome.com/1/030/424.htm)\n\n- 来源：IT之家 RSS · 2026-11-21\n- 摘要：IT之家 11 月 21 日消息，据外媒 BMW Blog 今天（21 日）下午报道，Out of Spec Testing 进行的一项续航测试发现，iX5 在电量显示归零后，还能 继续行驶 35 公里 。 参与测试的是一辆预量产 iX5，里程表显示将近 8050 公里，距离真正停下来还有相当长一段路。 测试从电池剩余电量 约 4% 时开始 。此时，车辆首...\n\n### 3. [华中科技大学与阿里巴巴联合成立 AI 前沿安全研究中心，课题覆盖大模型安全攻防等](https://www.ithome.com/1/030/423.htm)\n\n- 来源：IT之家 RSS · 2026-11-21\n- 摘要：IT之家 11 月 21 日消息，华中科技大学与阿里巴巴集团于 11 月 18 日签署合作协议，聚焦 AI 安全共建“智能攻防与前沿安全联合研究中心”，首批启动 9 个课题。 IT之家获悉，联合研究中心首批启动的 9 个课题，覆盖 大模型安全攻防、智能体与终端安全、智能化系统与软件安全、数据协同与隐私保护 四大方向，以下为官方公开的案例： 当 AI 智能体...\n\n### 4. [世界首套：国家电网自研静止全功率发生器投运，供区年新增电量可满足 2 万户家庭一年需求](https://www.ithome.com/1/030/422.htm)\n\n- 来源：IT之家 RSS · 2026-11-21\n- 摘要：IT之家 11 月 21 日消息，11 月 20 日，国家电网有限公司自主研制的 世界首套 35 千伏 / 30 兆伏安 IGBT 串联型静止全功率发生器（SPG），经过短路试验后 168 小时试运行，在陕西延安 330 千伏方河变电站正式投运。这标志着 我国在大电网稳定支撑技术与高端电力电子装备自主研制领域取得重要突破 。 此次投运的静止全功率发生器，正...\n\n### 5. [美参议员痛批苹果、谷歌：放任 AI 脱衣应用“野蛮生长”](https://www.ithome.com/1/030/421.htm)\n\n- 来源：IT之家 RSS · 2026-11-21\n- 摘要：IT之家 11 月 21 日消息，据英国《卫报》报道，美国参议员罗恩 · 怀登、埃德 · 马基和本 · 卢汉指出，苹果和谷歌未能有效识别或下架用于生成未经当事人同意的裸照或色情图像的应用。 三人还指出，Meta 仍在从这些所谓的 AI 脱衣应用广告中获利。 当地时间 18 日，三人向苹果、谷歌和 Meta 的 CEO 致函，指出各公司现有的防护措施 不足以...\n\n### 6. [银联国际与传音达成全球手机 Pay 合作，首站落地巴基斯坦](https://www.ithome.com/1/030/420.htm)\n\n- 来源：IT之家 RSS · 2026-11-21\n- 摘要：IT之家 11 月 21 日消息，银联国际宣布与传音达成全球合作，双方基于银联“卡码合一”手机 Pay 方案，在传音旗下钱包产品 T Wallet 中推出银联支付服务。 境外用户在传音智能终端上绑定银联卡，即可率先体验线下非接 NFC 支付，后续还将支持二维码及线上 In-App 支付。 IT之家获悉， 本次合作首站落地巴基斯坦 ，巴基斯坦联合银行有限公司...\n\n### 7. [代码显示三星正为 One UI 9.5 开发 AI 智能天气提醒功能：可根据用户作息与通勤时间推送通知](https://www.ithome.com/1/030/419.htm)\n\n- 来源：IT之家 RSS · 2026-11-21\n- 摘要：IT之家 11 月 21 日消息，外媒 SammyGuru 在拆解三星最新 One UI 9.5 测试版时，发现三星正在为天气应用测试多项 AI 智能提醒功能，系统能够识别用户的起床时间和通勤行为，在用户起床、上班或下班回家时自动加载最新天气信息。 具体来看，相应功能依赖三星 Personal Data Intelligence（个人数据智能）系统，能够识...\n\n### 8. [国家数据局：将积极拓展词元服务应用场景，健全词元计量计费、质量测评等标准规范](https://www.ithome.com/1/030/418.htm)\n\n- 来源：IT之家 RSS · 2026-11-21\n- 摘要：IT之家 11 月 21 日消息，国家数据局党组书记、局长刘烈宏出席昨日（20 日）在湖南长沙举办的 2026 世界计算大会开幕式并致辞。 刘烈宏表示，词元打通了算力、模型、数据间的价值传导链路，成为数智经济的价值锚点和数据价值的显性化载体。 一是词元发展初步起势，围绕词元生产、流通、消费的产业生态正加速构建，拓展了经济增长新空间。 二是“词元工厂”快速兴...\n\n### 9. [神舟二十四号任务完成最后一次全区合练，发射场做好发射前各项准备](https://www.ithome.com/1/030/417.htm)\n\n- 来源：IT之家 RSS · 2026-11-21\n- 摘要：IT之家 11 月 21 日消息，据央视新闻今天（21 日）下午报道，神舟二十四号任务完成 最后一次全区合练 ，发射场做好发射前各项准备。 据IT之家了解，神舟二十四号载人飞行任务将有 1 名巴基斯坦航天员以载荷专家身份参加 ，在完成短期在轨飞行后，随神舟二十三号载人飞船返回。这是中国载人航天工程历史上首次中外航天员联合飞行，中国空间站将迎来首位外籍航天员...\n\n### 10. [被指“平台成瘾性设计”损害儿童健康：YouTube 拟支付 30 亿美元和解美国多个学区诉讼](https://www.ithome.com/1/030/416.htm)\n\n- 来源：IT之家 RSS · 2026-11-21\n- 摘要：IT之家 11 月 21 日消息，据彭博社报道，YouTube 正准备支付 30 亿美元 （IT之家注：现汇率约合 200.76 亿元人民币） 与数千个美国学区达成和解，以解决其平台“成瘾性设计”损害儿童身心健康的相关诉讼。知情人士透露，YouTube 已在“原则上达成和解协议”，相关安排还将包括“针对青少年用户的新保护措施”。 据报道，这项和解有望帮助谷...\n\n## GitHub 热点（5 个）\n\n### 1. [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter)\n\n- 元信息：Python · Stars 15,008 · Today +1622 · GitHub Trending\n- 中文释义：Python 项目，主要方向：AI / 大模型。\n- 原文简介：A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24...\n\n### 2. [obra/superpowers](https://github.com/obra/superpowers)\n\n- 元信息：Shell · Stars 323,262 · Today +890 · GitHub Trending\n- 中文释义：Shell 项目，主要方向：开发框架或工具库、命令行与开发者工具。\n- 原文简介：An agentic skills framework & software development methodology that works.\n\n### 3. [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything)\n\n- 元信息：Python · Stars 61,671 · Today +773 · GitHub Trending\n- 中文释义：Python 项目，主要方向：AI / 大模型、命令行与开发者工具。\n- 原文简介：\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/\n\n### 4. [jingyaogong/minimind](https://github.com/jingyaogong/minimind)\n\n- 元信息：Python · Stars 67,898 · Today +847 · GitHub Trending\n- 中文释义：🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.\n- 原文简介：🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.\n\n### 5. [cursor/plugins](https://github.com/cursor/plugins)\n\n- 元信息：TypeScript · Stars 17,949 · Today +299 · GitHub Trending\n- 中文释义：TypeScript 项目，可理解为：围绕“Cursor plugin specification and official plugins”的开源项目。\n- 原文简介：Cursor plugin specification and official plugins\n\n## AI Builders 动态（5 条）\n\n### 1. [broooo https://t.co/5qYHHbBOyV https://t.co/Pc6VYX8bxt](https://x.com/swyx/status/2123856303974121851)\n\n- 来源：follow-builders X · 2026-11-21\n- 摘要：broooo https://t.co/5qYHHbBOyV https://t.co/Pc6VYX8bxt\n\n### 2. [🔜 why @j_schottenstein left @getdbt for @LangChain to build it into a $3B startup… ….and...](https://x.com/swyx/status/2123843282082132335)\n\n- 来源：follow-builders X · 2026-11-21\n- 摘要：🔜 why @j_schottenstein left @getdbt for @LangChain to build it into a $3B startup… ….and now they are having to reinvent the content, context (knowl...\n\n### 3. [whatever happened to @cursor_ai origin? anyone use this thing in anger yet? does it have...](https://x.com/swyx/status/2123690305736396925)\n\n- 来源：follow-builders X · 2026-11-20\n- 摘要：whatever happened to @cursor_ai origin? anyone use this thing in anger yet? does it have actions/ci/cd yet? https://t.co/ZDVWydLZTe https://t.co/DTQa...\n\n### 4. [Thanks again to @UFO2002616 for the inspiration! https://t.co/V5BHwpoy9b](https://x.com/joshwoodward/status/2123943608516792480)\n\n- 来源：follow-builders X · 2026-11-21\n- 摘要：Thanks again to @UFO2002616 for the inspiration! https://t.co/V5BHwpoy9b\n\n### 5. [Whew, what a week of shipping! A few of us were having fun with Gemini Neon on the Friday...](https://x.com/joshwoodward/status/2123943606906138868)\n\n- 来源：follow-builders X · 2026-11-21\n- 摘要：Whew, what a week of shipping! A few of us were having fun with Gemini Neon on the Friday afternoon before the holiday week ahead, and we loved the p...\n\n## 今日需求雷达（5 条）\n\n### 1. [推荐个梯子吧，自己买了好几个，一到晚上连油管都打不开 太拉了，打算预算可以加一点](https://www.v2ex.com/t/1258717)\n\n- 需求强度：85/100\n- 痛点类型：工具选型\n- 产品机会：做细分场景榜单、决策助手或模板库。\n- 来源：V2EX · 机场 · 2026-11-21\n- 原文摘要：我大部分时间都不需要用自己的梯子，所以之前都是买的按量付费的，结果前两天想自己电脑看个油管，晚上梯子速度都带不动，才知道那些机场有多拉跨 自建 / 机场都可以推荐 预算 20-30r /月 （因为用的确实不多）\n\n### 2. [黑五将至，有什么靠谱的 VPS 推荐不？](https://www.v2ex.com/t/1258697)\n\n- 需求强度：85/100\n- 痛点类型：工具选型\n- 产品机会：做细分场景榜单、决策助手或模板库。\n- 来源：V2EX · VPS · 2026-11-21\n- 原文摘要：各位有稳定靠谱的 VPS 推荐不？ 用途：部署简单的一些海外服务 配置要求：至少 2c4g 的，线路无需国内优化线路 最好是靠谱的厂商\n\n### 3. [「黑五 7 折 + 送 10 个终身版」Enconvo：自带 Computer Use 和 Browser Use 的 AI 助手，Mac / Windows / Linux / iPhone / Android 全平台原生应用](https://www.v2ex.com/t/1258698)\n\n- 需求强度：85/100\n- 痛点类型：操作难题\n- 产品机会：做一键化工具、教程产品或自动化脚本。\n- 来源：V2EX · 推广 · 2026-11-21\n- 原文摘要：各位 V 友好，我是 Enconvo 的开发者 Kane。 别以为这又是一个 AI 聊天套壳。Enconvo 是一个 personal agent：把你的电脑、手机、浏览器、文件和常用的 App 全连起来，把工作和生活安排得井井有条。 黑五终身版 7 折，帖子里再送 10 个终...\n\n### 4. [Exercise: Secure your Repository's Supply Chain](https://github.com/anilorakpd/skills-secure-repository-supply-chain/issues/1)\n\n- 需求强度：81/100\n- 痛点类型：操作难题\n- 产品机会：做一键化工具、教程产品或自动化脚本。\n- 来源：GitHub Issue · anilorakpd/skills-secure-repository-supply-chain · 2026-11-21\n- 原文摘要：## Secure your Repository's Supply Chain 👋 Hey there @anilorakpd! Welcome to your Skills exercise! Let's explore how to secure your reposi...\n\n### 5. [Exercise: Publish Docker Packages](https://github.com/jiaocc1/skills-publish-docker-images/issues/1)\n\n- 需求强度：81/100\n- 痛点类型：操作难题\n- 产品机会：做一键化工具、教程产品或自动化脚本。\n- 来源：GitHub Issue · jiaocc1/skills-publish-docker-images · 2026-11-21\n- 原文摘要：## Publish Docker Packages 👋 Hey there @jiaocc1! Welcome to your Skills exercise! Learn how to build and publish Docker images using GitHu...\n"
+}
